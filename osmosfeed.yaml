@@ -6,3 +6,6 @@
 cacheUrl: https://YUiNA-EMPiRE.github.io/rsstest/cache.json
 sources:
   - href: https://b.hatena.ne.jp/hotentry.rss
+  - href: https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+  - href: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
+  
