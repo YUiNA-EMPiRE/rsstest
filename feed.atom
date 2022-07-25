@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YUiNA-EMPiRE.github.io/rsstest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T17:54:14.834Z</updated>
+    <updated>2022-07-25T18:05:42.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://YUiNA-EMPiRE.github.io/rsstest/index.html"/>
     <link rel="self" href="https://YUiNA-EMPiRE.github.io/rsstest/feed.atom"/>
@@ -87,6 +87,35 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「Windows Information Protection（WIP）」が7月をもって非推奨に　ほか【ダイジェストニュース】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/digest/1427455.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/digest/1427455.html"/>
+        <updated>2022-07-25T09:45:11.000Z</updated>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インプレス、「いちばんやさしいWeb3の教本」の販売終了と回収を発表／【Book Watch/ニュース】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/bookwatch/news/1427445.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/bookwatch/news/1427445.html"/>
+        <updated>2022-07-25T09:41:40.000Z</updated>
+        <summary type="html"><![CDATA[株式会社インプレスは7月25日、書籍「いちばんやさしいWeb3の教本 人気講師が教えるNFT、DAO、DeFiが織りなす新世界」の回収を発表した。返品の受付方法は、後日インプレスブックス上で発表の予定。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ニュース・フラッシュ】パソコン工房、テイルズウィーバー/マビノギ/V4の各推奨PC]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/news_flash/1427447.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/news_flash/1427447.html"/>
+        <updated>2022-07-25T09:28:08.000Z</updated>
+        <summary type="html"><![CDATA[パソコン工房はゲーミングPCシリーズのLEVEL∞より、「テイルズウィーバー」、「マビノギ」、「V4」の推奨PCを発売した。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[書籍「いちばんやさしいWeb3の教本 人気講師が教えるNFT、DAO、DeFiが織りなす新世界」の回収について - インプレスブックス]]></title>
         <id>https://book.impress.co.jp/info/20220725.html</id>
         <link href="https://book.impress.co.jp/info/20220725.html"/>
@@ -104,6 +133,16 @@
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら サイバーエージェントが2023年春の新卒入社の初任給を42万円に引き上げる。営業やデザイナーなどIT（情報技術）人材以外では、22年春入社と比べて2割超の大幅な増額と...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デル、最大3台のデバイスと接続できる2.4GHz無線/Bluetooth対応キーボード]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427432.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427432.html"/>
+        <updated>2022-07-25T09:10:12.000Z</updated>
+        <summary type="html"><![CDATA[デル・テクノロジーズ株式会社は、日本語配列の無線キーボード「KB740」、「KB700」、「KB500」、および無線マウス「MS300」の計4製品を発売した。価格は順に9,020円、1万10円、4,950円、3,520円。]]></summary>
+        <author>
+            <name>PC Watch</name>
         </author>
     </entry>
     <entry>
@@ -177,6 +216,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[プレゼン向け虫眼鏡ツール「ZoomIt」がデスクトップ録画にも対応／［Ctrl］＋［5］キーで録画を開始・終了するだけのシンプルな仕様]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427387.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427387.html"/>
+        <updated>2022-07-25T07:11:43.000Z</updated>
+        <summary type="html"><![CDATA[「Windows Sysinternals」で提供されているプレゼンテーション補助ツール「ZoomIt」が、7月19日（米国時間）にv6.0へとアップデートされた。本バージョンの目玉は、でも動画を作るのに便利なスクリーン録画機能がビルトインされたことだ。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ニュース・フラッシュ】MSI、ゲーミングモニター/ノートPCなどが抽選で当たるキャンペーン。創業36周年記念で]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/news_flash/1427375.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/news_flash/1427375.html"/>
+        <updated>2022-07-25T07:04:47.000Z</updated>
+        <summary type="html"><![CDATA[エムエスアイコンピュータージャパン株式会社(MSI)は、本社の創業36周年を記念したプレゼントキャンペーンを開催中。期間は9月1日0時59分まで。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“スー・チー氏側近の元議員らに死刑執行”ミャンマー国営紙 | NHK]]></title>
         <id>https://www3.nhk.or.jp/news/html/20220725/k10013734771000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20220725/k10013734771000.html"/>
@@ -184,6 +243,16 @@
         <summary type="html"><![CDATA[ミャンマーの国営メディアは25日、アウン・サン・スー・チー氏の側近だった元議員ら4人に対し、テロ行為に関わったなどとして死刑を執行したと伝え、今後、国際社会からの批判が高まるものとみられます。 ミャンマーの国営紙によりますと、死刑が執行されたのはNLD＝国民民主連盟の元議員で、アウン・サン・スー・チー氏...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ニュース・フラッシュ】サードウェーブ、PARIS SAINT-GERMAIN ESPORTSとスポンサーシップ契約を締結]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/news_flash/1427368.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/news_flash/1427368.html"/>
+        <updated>2022-07-25T06:39:32.000Z</updated>
+        <summary type="html"><![CDATA[ドスパラを展開する株式会社サードウェーブは、グローバルスポーツフランチャイズ「PARIS SAINT-GERMAIN」のeスポーツグループ「PARIS SAINT-GERMAIN ESPORTS」とスポンサーシップ契約を締結した。]]></summary>
+        <author>
+            <name>PC Watch</name>
         </author>
     </entry>
     <entry>
@@ -207,6 +276,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「Microsoft Teams」の新機能「共有チャネル」がいよいよ一般提供へ ～同一テナント内で外部とのコミュニケーションが可能に／8月中旬までにロールアウトを完了予定]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427355.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427355.html"/>
+        <updated>2022-07-25T06:19:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月19日（現地時間）、ビジネスコミュニケーションアプリ「Microsoft Teams」について、異なる組織に所属するユーザー同士とのコミュニケーションを可能にする機能「共有チャネル」をパブリックプレビューから一般提供へと移行すると発表した。8月中旬までにロールアウトを完了する予定。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ニュース・フラッシュ】オウルテック、カラバリ4種のUSBシリコンケーブル]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/news_flash/1427345.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/news_flash/1427345.html"/>
+        <updated>2022-07-25T05:55:24.000Z</updated>
+        <summary type="html"><![CDATA[株式会社オウルテックは、アッシュブルー、オリーブグリーン、ワインレッド、サンドベージュ、ワインレッドと4種類のカラーバリエーションを用意したシリコン素材のUSBケーブル「OWL-CBS」シリーズを発売した。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【全般的に閲覧注意】うなぎ←減りすぎている、ヒト←増えすぎている…そこから導かれるソリューションはこれしかない]]></title>
         <id>https://togetter.com/li/1921165</id>
         <link href="https://togetter.com/li/1921165"/>
@@ -217,6 +306,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品15.8型モバイルモニターが7,981円引き！Amazonでセール中]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1427333.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1427333.html"/>
+        <updated>2022-07-25T05:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazonで、Innocn製15.8型モバイルモニター「N2F」がセール特価で発売中。通常価格が2万1,980円のところ、7,981円引きの1万3,999円で購入できる。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung、処理時間を半減できるデータセンター向け第2世代「SmartSSD」]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427322.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427322.html"/>
+        <updated>2022-07-25T05:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Electronicsは21日(現地時間)、データ処理機能を内蔵したデータセンター向けストレージ「SmartSSD」の第2世代製品を開発したと発表した。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「DevToys」にcronパーサーが追加 ～開発者向けに便利なツールを集めた十徳ナイフ／コントラスト比チェックやXML検証も追加してさらに強力に]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427329.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427329.html"/>
+        <updated>2022-07-25T05:26:26.000Z</updated>
+        <summary type="html"><![CDATA[プログラミングに役立つユーティリティをひとまとめにしたアプリ「DevToys」が7月20日、v1.0.9.0へとアップデートされた。本バージョンでは「cron」のパーサーなどが追加されている。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS製Windows 11ノートが最安24％OFF！Amazonのタイムセール【本日みつけたお買い得情報】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/goodbuy/1427318.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/goodbuy/1427318.html"/>
+        <updated>2022-07-25T05:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpでは現在、ASUS製PCのタイムセールが行われています。Windows 11搭載PC各種がラインナップされており、Windows 11ノートは最大24％OFFで販売中です。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「日本は貧しくなった」構文の人、なぜ「世界が豊かになった」という言い方が出来ないのかが興味深い]]></title>
         <id>https://togetter.com/li/1920910</id>
         <link href="https://togetter.com/li/1920910"/>
@@ -224,6 +353,26 @@
         <summary type="html"><![CDATA[岡沢　秋(maat) @Aki_Okazawa 「日本は貧しくなった」構文の人、なぜ「世界が豊かになった」という言い方が出来ないのかが興味深い。 今や世界は等しく豊かになりつつあり、かつてのように日本含む先進国だけが一部のテクノロジーや知識、物資を専有する世界ではないというのに。 2022-07-23 12:49:41 岡沢　秋(maat) @A...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベルキン、M2 MacBook Airに好適と謳うUSB Type-Cポート×2搭載のPD充電器]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427300.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427300.html"/>
+        <updated>2022-07-25T04:48:13.000Z</updated>
+        <summary type="html"><![CDATA[ベルキン株式会社は、最大65W出力のUSB PD対応Type-C充電器「BOOST↑CHARGE PRO 65W DUAL USB-C GAN WALL CHARGER WITH PPS」を発売した。価格は4,790円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Apache OpenOffice 4.1.13」が公開 ～オープンソースのオフィス統合環境／Windows 10/11環境では「Microsoft Store」からも入手可能]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427293.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427293.html"/>
+        <updated>2022-07-25T04:29:46.000Z</updated>
+        <summary type="html"><![CDATA[The Apache Software Foundationは7月22日、オープンソースのオフィス統合環境「Apache OpenOffice 4.1.13」を公開した。不具合の修正とわずかの機能強化を含むセキュリティアップデートで、「OpenOffice 4.1.12」およびそれ以前のユーザーすべてにアップデートが推奨されている。]]></summary>
+        <author>
+            <name>窓の杜</name>
         </author>
     </entry>
     <entry>
@@ -277,6 +426,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google MeetがYouTubeでライブ配信できるように]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427258.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427258.html"/>
+        <updated>2022-07-25T03:46:35.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは21日(現地時間)、Google MeetのWeb会議をYouTubeでライブ配信できる機能を発表した。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[｢仲良く貧乏｣を選んだ日本は世界に見放される | 国内経済]]></title>
         <id>https://toyokeizai.net/articles/-/605668</id>
         <link href="https://toyokeizai.net/articles/-/605668"/>
@@ -284,6 +443,16 @@
         <summary type="html"><![CDATA[日本は、アメリカ・中国に次ぐ「世界3位の経済大国」とよく言われます（2008年までは世界2位）。ここでの3位は、GDPの「総額」の順位です。しかし、一国の経済水準は、GDPの「総額」ではなく、「国民1人当たり」で比較するのが、世界の常識です。 日本の2021年の1人当たりGDPは3万9340ドルで、世界28位です（IMF調査）。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS、独自50mm径ドライバー採用のゲーミングヘッドセット2機種]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427254.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427254.html"/>
+        <updated>2022-07-25T03:36:37.000Z</updated>
+        <summary type="html"><![CDATA[ASUS JAPAN株式会社は、50mm径のASUS Essenceドライバーを搭載したゲーミングヘッドセット「ROG Delta S Core」および「ROG Delta S Wireless」を発表した。前者は8月5日、後者は9月2日に発売し、実売予想価格はそれぞれ1万2,980円前後、2万1,800円前後の見込み。]]></summary>
+        <author>
+            <name>PC Watch</name>
         </author>
     </entry>
     <entry>
@@ -307,6 +476,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ryzen搭載115mm四方のミニPC「PN51-S1」]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427238.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427238.html"/>
+        <updated>2022-07-25T03:20:13.000Z</updated>
+        <summary type="html"><![CDATA[ASUSは、Ryzen 5000シリーズ搭載のミニPC「Mini PC PN51-S1」シリーズに2モデルを追加し、29日に発売する。追加モデルはRyzen 5 5500Uの「B5354AD」とRyzen 3 5300Uの「B3353AD」で、実売価格は前者が7万6,320円、後者が6万7,320円の見込み。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“ゆっくりボイス”でお馴染みの「SofTalk」から、ゆっくりボイスが消える。ライセンスとフリーソフトの複雑な関係 - AUTOMATON]]></title>
         <id>https://automaton-media.com/articles/newsjp/20220725-211560/</id>
         <link href="https://automaton-media.com/articles/newsjp/20220725-211560/"/>
@@ -324,6 +503,26 @@
         <summary type="html"><![CDATA[いつもはてなブックマークをご利用いただき誠にありがとうございます。はてなブックマーク開発チーム、ディレクターの id:yone-yamaです。 はてなブックマークをご利用中のみなさまを対象に、サービスに関するアンケートへのご協力のお願いです。 ご協力いただける場合は、以下概要をご覧の上、この記事の末尾にあるフォ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft Teams」で障害 ～OfficeやSharePointなどの関連サービスにも影響拡大 を報じた記事がトップ ～窓の杜アクセスランキング［2022/07/18～2022/07/24］【記事アクセスランキング】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/accessranking/1427185.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/accessranking/1427185.html"/>
+        <updated>2022-07-25T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[前週に閲覧数の多かった記事を、上位10位までレポートします。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7型ポータブルゲーミングPC「ONEXPLAYER mini Ryzen版」にホワイトモデル]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1426023.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1426023.html"/>
+        <updated>2022-07-25T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[株式会社テックワンは、One-Netbook製の7型ポータブルゲーミングPC「ONEXPLAYER mini Ryzen版」に、ホワイト筐体モデルを追加発売した。価格は18万2,710円。7月31日まではOne-Netbook公式ストアにて10%オフクーポン「4NU4BNMM3H」を配布中。]]></summary>
+        <author>
+            <name>PC Watch</name>
         </author>
     </entry>
     <entry>
@@ -357,6 +556,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MSI、有線/2.4GHz無線両対応のゲームコントローラ]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427198.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427198.html"/>
+        <updated>2022-07-25T01:55:33.000Z</updated>
+        <summary type="html"><![CDATA[エムエスアイコンピュータージャパン株式会社(MSI)は、有線/無線接続に両対応したゲームコントローラ「FORCE GC30 V2」を発売した。価格は4,950円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MINISFORUM、Ryzen 7 5800H搭載のミニPC「UM580」を8月末出荷]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1427183.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1427183.html"/>
+        <updated>2022-07-25T01:49:55.000Z</updated>
+        <summary type="html"><![CDATA[MINISFORUMは、Ryzen 7 5800H搭載ミニPC「UM580」の予約販売を開始した。現在割引が適用されており、ベアボーンキットが1万円強安い5万7,980円、最上位の32GBメモリ/512GB SSD搭載モデルが2万円弱安い7万9,980円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品ボルト締めがラクになる電動インパクトレンチが15%オフの9,333円]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1427174.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1427174.html"/>
+        <updated>2022-07-25T01:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazonにおいて、KIMOブランドのインパクトレンチ「QM-3601」が1,647円(15%)オフの9,333円で販売中だ。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10環境でUSB接続のプリンターが印刷できない ～2022年6月Cリリース以降で発生／Microsoftはこの問題を認識しており、原因を調査中]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427167.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427167.html"/>
+        <updated>2022-07-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月22日（現地時間）、2022年6月のCリリース以降を適用したWindows 10環境で、一部の印刷デバイスに不具合が生じていることを明らかにした。同社はこの問題を認識しており、原因を調査中だ。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[便利な無料ツールが登場！ Webサイトで使用しているCSSや自分が書いたCSSを詳細に解析してくれる -CSS Analyzer]]></title>
         <id>https://coliss.com/articles/build-websites/operation/css/css-analyzer-by-projectwallace.html</id>
         <link href="https://coliss.com/articles/build-websites/operation/css/css-analyzer-by-projectwallace.html"/>
@@ -364,6 +603,45 @@
         <summary type="html"><![CDATA[1クリックで、Webサイトで使用しているCSSや自分が書いたCSSを詳細に解析してくれる無料ツールを紹介します。 CSSの検証としておかしなスタイル定義・同じスタイル定義・一貫性のないスタイル定義などを見つけたり、スタイルガイドの作成にも役立ちます。 CSS Analyzer CSS Analyzer -GitHub CSS AnalyzerはWallace CLI,...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品NECのスリムPCが4万6千円超の値引き、Amazonセール]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1427164.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1427164.html"/>
+        <updated>2022-07-25T00:41:41.000Z</updated>
+        <summary type="html"><![CDATA[NECの小型デスクトップPC「LAVIE Direct DT Slim」シリーズのWeb限定モデルを対象に、Amazonにて4万6,300円オフのクーポンが用意されるなど、大きな値引きが実施されている。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【週末カジュアルPCゲーム部】アクションがハードな謎解きSF猫アクション「Stray」]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/easygame/1427162.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/easygame/1427162.html"/>
+        <updated>2022-07-25T00:35:22.000Z</updated>
+        <summary type="html"><![CDATA[今回紹介するのは、猫を操作して近未来の荒廃した世界を彷徨うアクションアドベンチャー「Stray」だ。PC版は7月20日発売で、Steamでの販売価格は3,500円。開発はBlueTwelve Studioで、2年前にPlayStation 5のトレイラーで発表された時から話題になっていたが、このたび無事、PS4/PS5/PC版がほぼ同時発売となった。なお、発売直後にも関わらず、PS4/5では単体購入しなくても、有料の遊び放題サービス「PS Plusエクストラ/プレミアム」でもプレイできる。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品4Kモバイルモニターが6千円引き中。有機ELモデルなら1万6千円オフ！ Amazonセール]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1427161.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1427161.html"/>
+        <updated>2022-07-25T00:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Amazonにて、4K解像度(3,840×2,160ドット)に対応するモバイルモニターがお買い得となっている。cocopar「ZB-14K」の場合、6,000円オフのクーポンを適用でき、2万8,999円にて購入可能だ。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップデート情報】パッケージ・ドライバー関連　7月25日　～リコーなど]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/update/driver/1427158.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/update/driver/1427158.html"/>
+        <updated>2022-07-25T00:30:00.000Z</updated>
+        <author>
+            <name>窓の杜</name>
         </author>
     </entry>
     <entry>
@@ -377,6 +655,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows 11に［スタート］画面が開かない問題 ～最近配布されたパッチが原因／ロールバックシステムにより解決が図られる]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427159.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427159.html"/>
+        <updated>2022-07-24T23:52:33.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月22日（現地時間）、2022年6月のCリリース「KB5014668」以降を適用したWindows 11環境で、［スタート］画面にトラブルが発生していることを明らかにした。マウスで［スタート］ボタンをクリックしたり、キーボードの［Windows］キーを押しても、［スタート］画面が表示されないことがあるという。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[隣の部屋をミリ波で盗聴　防音の壁でも喉元の皮膚振動を捉え音声復元]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2207/25/news053.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2207/25/news053.html"/>
@@ -384,6 +672,26 @@
         <summary type="html"><![CDATA[Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 中国の浙江大学と米State University of New York at Buffaloによる研究チームが開発した「Wavesdropper: Through-wall Word Dete...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft Edge」v103.0.1264.71が公開 ～5件の脆弱性に対処／深刻度はいずれも「High」]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427155.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427155.html"/>
+        <updated>2022-07-24T22:52:33.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月22日（現地時間）、デスクトップ向け「Microsoft Edge」の最新安定（Stable）版v103.0.1264.71を公開した。脆弱性に対処したセキュリティアップデートとなっている。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップデート情報】窓の杜収録ソフト　7月25日　～「LibreOffice（最新版）」や「秀丸エディタ」など]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/update/library/1426929.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/update/library/1426929.html"/>
+        <updated>2022-07-24T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[複数ページのPDFファイルを1ページずつに分割]]></summary>
+        <author>
+            <name>窓の杜</name>
         </author>
     </entry>
     <entry>
@@ -397,6 +705,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wordのレイアウトにスペースを使うのはNG！ インデントの基本動作をマスターしよう【残業を減らす！Officeテクニック】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/offitech/1427024.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/offitech/1427024.html"/>
+        <updated>2022-07-24T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Wordで文書を作成する際、表や図版のレイアウトには気を遣うと思いますが、テキストはどうでしょう？　日本語を入力して変換、確定は問題ないとしても、字下げや行頭文字などが思い通りにならないと感じることがありせんか？　思い余ってExcelを使ってしまいたくなる気持ちはわかりますがやめましょう。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「EaseUS Todo Backup 2022」のクラウドバックアップをWebページ上で削除可能に／「EaseUS Todo Backup Free 2022」はDropboxへのバックアップに失敗する不具合を修正]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1427026.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1427026.html"/>
+        <updated>2022-07-24T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[中国のEaseUS Softwareは7月18日（日本時間）、「EaseUS Todo Backup 2022」で独自クラウドストレージEaseus Cloudへバックアップしたファイルを、Webページ上から削除できるようになったことを発表した。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS4メインのFPS好き高校生は、360Hz液晶搭載ハイエンドゲーミングノートをどう評価する？ ～14コアCPU＋GTX 3070 Ti採用のGIGABYTE「AORUS 17」[Sponsored]]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/special/1426592.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/special/1426592.html"/>
+        <updated>2022-07-24T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GIGABYTEから発表された新ゲーミングノート「AORUS 17」。14コア20スレッドのCPU、GPUにはノート版のRTX 3070 Ti、ディスプレイは360Hzの超高リフレッシュレートとガチなゲーマーも満足できる高スペックだ。今回は人気ゲーム8本をプレイして性能をチェックするだけでなく、TPS/FPSを主にPS4でプレイしている高校生の息子にも使ってもらい感想を聞いてみた。FPS/TPSに関しては、360Hz液晶をなるべく活かせる高フレームレート設定も探っている。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Hothotレビュー】画面比率16:18の27.6型モニター「28MQ780-B」実機レビュー。そしてゲームも遊んでみた！]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/hothot/1425529.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/hothot/1425529.html"/>
+        <updated>2022-07-24T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[LGエレクトロニクス・ジャパンは画面比率16:18の27.6型モニター「28MQ780-B」を4月19日に発表、5月16日に販売開始した。本製品はWQHD(2,560×1,440ドット)を縦に2つ並べた「2,560×2,880ドット」という縦長の液晶パネルを採用した新スタイルのモニター。通常スタンドの代わりにアームスタンドが同梱されており、設置自由度の高さも本製品の大きなポイントだ。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SofTalkをご利用の皆様へのお知らせ - SofTalk【7/23更新】]]></title>
         <id>https://w.atwiki.jp/softalk/pages/49.html</id>
         <link href="https://w.atwiki.jp/softalk/pages/49.html"/>
@@ -404,6 +752,154 @@
         <summary type="html"><![CDATA[日頃よりご愛顧いただき誠にありがとうございます。 SofTalkは、長年AquesTalkに対応してまいりましたが、勝手ながら AquesTalkへの対応を中止させていただくこととしました。 SofTalkのようにAquesTalkを同梱している場合、利用者がAquesTalkの機能を使わずに、 OpenJTalkを商用利用する場合でも、AquesTalkのライセン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料で高性能な動画編集ソフト「DaVinci Resolve」がバージョンアップでクラウド対応／編集ワークフローの効率化や多くの新機能。AppleのM1シリーズへの対応も強化]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426968.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426968.html"/>
+        <updated>2022-07-22T08:34:37.000Z</updated>
+        <summary type="html"><![CDATA[豪Blackmagic Designは7月20日（現地時間、以下同）、高機能な動画編集ソフト「DaVinci Resolve」（ダビンチ・リゾルブ）の最新版「DaVinci Resolve 18」を公開した。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月25日で終了！ Amazonの『Audible』が3カ月無料のプライム会員限定キャンペーン【本日みつけたお買い得情報】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/goodbuy/1426311.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/goodbuy/1426311.html"/>
+        <updated>2022-07-22T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpでは現在、同社が提供する音声読書サービス『Audible』を3カ月間無料で利用できるキャンペーンを実施中です。本キャンペーンは、Amazonプライム会員を対象としたもので、通常は月額1,500円×3カ月＝4,500円かかるサービスが無料となります。キャンペーンの締切は7月25日（月）までなので、利用したい人は早めにチェックしてみてください。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Google Meet」の会議をYouTubeでライブストリーミング公開可能に　ほか【ダイジェストニュース】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/digest/1426951.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/digest/1426951.html"/>
+        <updated>2022-07-22T07:48:19.000Z</updated>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Google Meet」で匿名でもアンケートや質疑応答ができるように／個人を特定しないことで議論の活性化を促す]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426928.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426928.html"/>
+        <updated>2022-07-22T06:36:56.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは7月19日（現地時間）、「Google Meet」のアンケート（投票）や質疑応答（Q＆A）が匿名でも利用できるようになったと発表した。大規模な会議ではとくに要望の多かった機能であるという。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「CeVIO Pro (仮)」α版は8月31日で利用不能に ～ただしv0.5.1.1は「VoiSona」移行用に継続利用可能／後継の無料AI歌唱アプリ「VoiSona」v0.6.2にアップデート]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426907.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426907.html"/>
+        <updated>2022-07-22T06:05:27.000Z</updated>
+        <summary type="html"><![CDATA[（株）テクノスピーチは7月21日、AI技術で人間の歌声をリアルに再現する無料の音声創作アプリ「VoiSona」v0.6.2を公開した。合わせて「CeVIO Pro (仮)」α版の終了スケジュールも発表されている。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、2022年7月Cリリースを提供開始 ～Windows 11など一部バージョンで利用可能に／「集中モード」の改善や不具合の対処などが行われる]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426892.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426892.html"/>
+        <updated>2022-07-22T05:44:59.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月21日（現地時間、以下同）、2022年7月のプレビュー更新プログラムをWindows 11などに対してリリースした。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11の4月プレビューパッチに起因する「.NET Framework 3.5」アプリの問題は解決／OS内蔵のトラブルシューティングツールで]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426831.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426831.html"/>
+        <updated>2022-07-22T03:28:26.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月19日（現地時間）、Windows 11環境で一部の「.NET Framework 3.5」アプリで発生していたトラブルが解決されたと発表した。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料で毎週1本はPCゲームがもらえる！「フォートナイト」や「フォールガイズ」の配信スタンド「Epic Games Store」【石田賀津男の『酒の肴にPCゲーム』】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/sspcgame/1426272.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/sspcgame/1426272.html"/>
+        <updated>2022-07-22T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前回紹介した「Fall Guys（フォールガイズ）」をPCにインストールすると、ゲーム配信スタンドアプリ「Epic Games Store」も一緒にインストールされる。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「LibreOffice 7.3.5 Community」が公開 ～80件以上の問題に対処して安定性を向上／「LibreOffice 7.2」ユーザーはそろそろ移行を]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426732.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426732.html"/>
+        <updated>2022-07-22T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Document Foundation（TDF）は7月21日（中央ヨーロッパ時間）、「LibreOffice 7.3.5 Community」を公開した。80件以上もの不具合とリグレッション（機能後退）が解決されており、安定性が向上している。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップデート情報】パッケージ・ドライバー関連　7月22日　～Dynabookなど]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/update/driver/1426741.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/update/driver/1426741.html"/>
+        <updated>2022-07-22T00:30:00.000Z</updated>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindleストアでプログラミング関連書籍が安い！ 7月28日まで限定のIT本のセール／『作業が一瞬で片付く　Python自動化仕事術』なと多数の書籍が50％OFF【Book Watch/セール情報】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/bookwatch/sale/1426295.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/bookwatch/sale/1426295.html"/>
+        <updated>2022-07-21T23:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpのKindleストアでは現在、7月28日までの期間限定で「コンピュータ・ITキャンペーン」を開催中です。本キャンペーンでは、1,000冊以上の書籍がセール対象となっており、最大50％OFFの割引価格で販売されています。プログラミング関連書籍も多数ラインナップされており、以下の6冊もすべて50％OFFとなっています。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft Teams」のQ＆A機能が一般提供開始 ～Web会議・セミナー中にも有効化可能に／「Teams」内アプリストアから入手した既存の「Q＆A」アプリは削除を推奨]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1426674.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1426674.html"/>
+        <updated>2022-07-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは7月19日（現地時間）、ビジネスコミュニケーションアプリ「Microsoft Teams」について、Web会議中に質問とその回答ができるQ＆A機能を一般提供したと発表した。アプリ版・Webブラウザー版ともに利用可能。これまで「Teams」内のアプリストアで提供されていたアプリ版「Q＆A」は8月をもって配布を終了する。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップデート情報】窓の杜収録ソフト　7月22日　～「Oracle VM VirtualBox」や「CCleaner」など]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/update/library/1426594.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/update/library/1426594.html"/>
+        <updated>2022-07-21T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[定番のオンラインストレージ]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関数のカリー化って何だ？ JavaScriptの関数の使い方をマスターできる解説書が発売／ECMAScript 2021に対応。関数定義の書き方からクロージャや再帰の応用までカバー【Book Watch/ニュース】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/bookwatch/news/1426639.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/bookwatch/news/1426639.html"/>
+        <updated>2022-07-21T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[（株）インプレスR＆Dは、書籍『JavaScript徹底攻略 関数編』（著：澁谷真帆氏）を7月22日に発売した。価格は、電子版が1,760円、印刷版が2,200円。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「マテリアル」や「UVマップ」の意味を解説 ～用語を理解すれば3DCGは怖くない！【Blender ウォッチング】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1426698.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1426698.html"/>
+        <updated>2022-07-21T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、無料の高機能3Dモデリングツール「Blender」の使い方や関連情報を幅広くお伝えします。]]></summary>
+        <author>
+            <name>窓の杜</name>
         </author>
     </entry>
 </feed>

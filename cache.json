@@ -406,6 +406,520 @@
           "imageUrl": "http://www35.atwiki.jp/softalk/pub/stk.ico"
         }
       ]
+    },
+    {
+      "title": "窓の杜",
+      "feedUrl": "https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf",
+      "siteUrl": "https://forest.watch.impress.co.jp",
+      "articles": [
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/digest/1427455.html",
+          "author": null,
+          "description": "",
+          "link": "https://forest.watch.impress.co.jp/docs/digest/1427455.html",
+          "publishedOn": "2022-07-25T09:45:11.000Z",
+          "wordCount": 4326,
+          "title": "「Windows Information Protection（WIP）」が7月をもって非推奨に　ほか【ダイジェストニュース】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/455/1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/bookwatch/news/1427445.html",
+          "author": null,
+          "description": "株式会社インプレスは7月25日、書籍「いちばんやさしいWeb3の教本 人気講師が教えるNFT、DAO、DeFiが織りなす新世界」の回収を発表した。返品の受付方法は、後日インプレスブックス上で発表の予定。",
+          "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/1427445.html",
+          "publishedOn": "2022-07-25T09:41:40.000Z",
+          "wordCount": 4300,
+          "title": "インプレス、「いちばんやさしいWeb3の教本」の販売終了と回収を発表／【Book Watch/ニュース】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/445/image_top.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427387.html",
+          "author": null,
+          "description": "「Windows Sysinternals」で提供されているプレゼンテーション補助ツール「ZoomIt」が、7月19日（米国時間）にv6.0へとアップデートされた。本バージョンの目玉は、でも動画を作るのに便利なスクリーン録画機能がビルトインされたことだ。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427387.html",
+          "publishedOn": "2022-07-25T07:11:43.000Z",
+          "wordCount": 4328,
+          "title": "プレゼン向け虫眼鏡ツール「ZoomIt」がデスクトップ録画にも対応／［Ctrl］＋［5］キーで録画を開始・終了するだけのシンプルな仕様",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/387/image1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427355.html",
+          "author": null,
+          "description": "米Microsoftは7月19日（現地時間）、ビジネスコミュニケーションアプリ「Microsoft Teams」について、異なる組織に所属するユーザー同士とのコミュニケーションを可能にする機能「共有チャネル」をパブリックプレビューから一般提供へと移行すると発表した。8月中旬までにロールアウトを完了する予定。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427355.html",
+          "publishedOn": "2022-07-25T06:19:00.000Z",
+          "wordCount": 4362,
+          "title": "「Microsoft Teams」の新機能「共有チャネル」がいよいよ一般提供へ ～同一テナント内で外部とのコミュニケーションが可能に／8月中旬までにロールアウトを完了予定",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/355/01.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427329.html",
+          "author": null,
+          "description": "プログラミングに役立つユーティリティをひとまとめにしたアプリ「DevToys」が7月20日、v1.0.9.0へとアップデートされた。本バージョンでは「cron」のパーサーなどが追加されている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427329.html",
+          "publishedOn": "2022-07-25T05:26:26.000Z",
+          "wordCount": 4328,
+          "title": "「DevToys」にcronパーサーが追加 ～開発者向けに便利なツールを集めた十徳ナイフ／コントラスト比チェックやXML検証も追加してさらに強力に",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/329/devtoys.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/1427318.html",
+          "author": null,
+          "description": "Amazon.co.jpでは現在、ASUS製PCのタイムセールが行われています。Windows 11搭載PC各種がラインナップされており、Windows 11ノートは最大24％OFFで販売中です。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/1427318.html",
+          "publishedOn": "2022-07-25T05:07:08.000Z",
+          "wordCount": 4458,
+          "title": "ASUS製Windows 11ノートが最安24％OFF！Amazonのタイムセール【本日みつけたお買い得情報】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/318/image1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427293.html",
+          "author": null,
+          "description": "The Apache Software Foundationは7月22日、オープンソースのオフィス統合環境「Apache OpenOffice 4.1.13」を公開した。不具合の修正とわずかの機能強化を含むセキュリティアップデートで、「OpenOffice 4.1.12」およびそれ以前のユーザーすべてにアップデートが推奨されている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427293.html",
+          "publishedOn": "2022-07-25T04:29:46.000Z",
+          "wordCount": 4356,
+          "title": "「Apache OpenOffice 4.1.13」が公開 ～オープンソースのオフィス統合環境／Windows 10/11環境では「Microsoft Store」からも入手可能",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/293/openoffice.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/accessranking/1427185.html",
+          "author": null,
+          "description": "前週に閲覧数の多かった記事を、上位10位までレポートします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/accessranking/1427185.html",
+          "publishedOn": "2022-07-25T02:45:00.000Z",
+          "wordCount": 4327,
+          "title": "「Microsoft Teams」で障害 ～OfficeやSharePointなどの関連サービスにも影響拡大 を報じた記事がトップ ～窓の杜アクセスランキング［2022/07/18～2022/07/24］【記事アクセスランキング】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/185/1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427167.html",
+          "author": null,
+          "description": "米Microsoftは7月22日（現地時間）、2022年6月のCリリース以降を適用したWindows 10環境で、一部の印刷デバイスに不具合が生じていることを明らかにした。同社はこの問題を認識しており、原因を調査中だ。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427167.html",
+          "publishedOn": "2022-07-25T01:00:00.000Z",
+          "wordCount": 4327,
+          "title": "Windows 10環境でUSB接続のプリンターが印刷できない ～2022年6月Cリリース以降で発生／Microsoftはこの問題を認識しており、原因を調査中",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/167/windows10.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/update/driver/1427158.html",
+          "author": null,
+          "description": "",
+          "link": "https://forest.watch.impress.co.jp/docs/update/driver/1427158.html",
+          "publishedOn": "2022-07-25T00:30:00.000Z",
+          "wordCount": 4382,
+          "title": "【アップデート情報】パッケージ・ドライバー関連　7月25日　～リコーなど",
+          "imageUrl": "https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427159.html",
+          "author": null,
+          "description": "米Microsoftは7月22日（現地時間）、2022年6月のCリリース「KB5014668」以降を適用したWindows 11環境で、［スタート］画面にトラブルが発生していることを明らかにした。マウスで［スタート］ボタンをクリックしたり、キーボードの［Windows］キーを押しても、［スタート］画面が表示されないことがあるという。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427159.html",
+          "publishedOn": "2022-07-24T23:52:33.000Z",
+          "wordCount": 4311,
+          "title": "Windows 11に［スタート］画面が開かない問題 ～最近配布されたパッチが原因／ロールバックシステムにより解決が図られる",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/159/windows11.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427155.html",
+          "author": null,
+          "description": "米Microsoftは7月22日（現地時間）、デスクトップ向け「Microsoft Edge」の最新安定（Stable）版v103.0.1264.71を公開した。脆弱性に対処したセキュリティアップデートとなっている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427155.html",
+          "publishedOn": "2022-07-24T22:52:33.000Z",
+          "wordCount": 4344,
+          "title": "「Microsoft Edge」v103.0.1264.71が公開 ～5件の脆弱性に対処／深刻度はいずれも「High」",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/155/microsoft_edge.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/update/library/1426929.html",
+          "author": null,
+          "description": "複数ページのPDFファイルを1ページずつに分割",
+          "link": "https://forest.watch.impress.co.jp/docs/update/library/1426929.html",
+          "publishedOn": "2022-07-24T22:30:00.000Z",
+          "wordCount": 4304,
+          "title": "【アップデート情報】窓の杜収録ソフト　7月25日　～「LibreOffice（最新版）」や「秀丸エディタ」など",
+          "imageUrl": "https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/offitech/1427024.html",
+          "author": null,
+          "description": "Wordで文書を作成する際、表や図版のレイアウトには気を遣うと思いますが、テキストはどうでしょう？　日本語を入力して変換、確定は問題ないとしても、字下げや行頭文字などが思い通りにならないと感じることがありせんか？　思い余ってExcelを使ってしまいたくなる気持ちはわかりますがやめましょう。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/offitech/1427024.html",
+          "publishedOn": "2022-07-24T21:55:00.000Z",
+          "wordCount": 4353,
+          "title": "Wordのレイアウトにスペースを使うのはNG！ インデントの基本動作をマスターしよう【残業を減らす！Officeテクニック】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/024/Office2021_38-01.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1427026.html",
+          "author": null,
+          "description": "中国のEaseUS Softwareは7月18日（日本時間）、「EaseUS Todo Backup 2022」で独自クラウドストレージEaseus Cloudへバックアップしたファイルを、Webページ上から削除できるようになったことを発表した。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1427026.html",
+          "publishedOn": "2022-07-24T21:45:00.000Z",
+          "wordCount": 4371,
+          "title": "「EaseUS Todo Backup 2022」のクラウドバックアップをWebページ上で削除可能に／「EaseUS Todo Backup Free 2022」はDropboxへのバックアップに失敗する不具合を修正",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1427/026/image1.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426968.html",
+          "author": null,
+          "description": "豪Blackmagic Designは7月20日（現地時間、以下同）、高機能な動画編集ソフト「DaVinci Resolve」（ダビンチ・リゾルブ）の最新版「DaVinci Resolve 18」を公開した。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426968.html",
+          "publishedOn": "2022-07-22T08:34:37.000Z",
+          "wordCount": 4340,
+          "title": "無料で高性能な動画編集ソフト「DaVinci Resolve」がバージョンアップでクラウド対応／編集ワークフローの効率化や多くの新機能。AppleのM1シリーズへの対応も強化",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/968/image1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/1426311.html",
+          "author": null,
+          "description": "Amazon.co.jpでは現在、同社が提供する音声読書サービス『Audible』を3カ月間無料で利用できるキャンペーンを実施中です。本キャンペーンは、Amazonプライム会員を対象としたもので、通常は月額1,500円×3カ月＝4,500円かかるサービスが無料となります。キャンペーンの締切は7月25日（月）までなので、利用したい人は早めにチェックしてみてください。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/goodbuy/1426311.html",
+          "publishedOn": "2022-07-22T08:12:00.000Z",
+          "wordCount": 4299,
+          "title": "7月25日で終了！ Amazonの『Audible』が3カ月無料のプライム会員限定キャンペーン【本日みつけたお買い得情報】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/311/image_top.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/digest/1426951.html",
+          "author": null,
+          "description": "",
+          "link": "https://forest.watch.impress.co.jp/docs/digest/1426951.html",
+          "publishedOn": "2022-07-22T07:48:19.000Z",
+          "wordCount": 4314,
+          "title": "「Google Meet」の会議をYouTubeでライブストリーミング公開可能に　ほか【ダイジェストニュース】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/951/image-top.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426928.html",
+          "author": null,
+          "description": "米Googleは7月19日（現地時間）、「Google Meet」のアンケート（投票）や質疑応答（Q＆A）が匿名でも利用できるようになったと発表した。大規模な会議ではとくに要望の多かった機能であるという。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426928.html",
+          "publishedOn": "2022-07-22T06:36:56.000Z",
+          "wordCount": 4378,
+          "title": "「Google Meet」で匿名でもアンケートや質疑応答ができるように／個人を特定しないことで議論の活性化を促す",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/928/google_meet.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426907.html",
+          "author": null,
+          "description": "（株）テクノスピーチは7月21日、AI技術で人間の歌声をリアルに再現する無料の音声創作アプリ「VoiSona」v0.6.2を公開した。合わせて「CeVIO Pro (仮)」α版の終了スケジュールも発表されている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426907.html",
+          "publishedOn": "2022-07-22T06:05:27.000Z",
+          "wordCount": 4338,
+          "title": "「CeVIO Pro (仮)」α版は8月31日で利用不能に ～ただしv0.5.1.1は「VoiSona」移行用に継続利用可能／後継の無料AI歌唱アプリ「VoiSona」v0.6.2にアップデート",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/907/image1.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426892.html",
+          "author": null,
+          "description": "米Microsoftは7月21日（現地時間、以下同）、2022年7月のプレビュー更新プログラムをWindows 11などに対してリリースした。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426892.html",
+          "publishedOn": "2022-07-22T05:44:59.000Z",
+          "wordCount": 4337,
+          "title": "Microsoft、2022年7月Cリリースを提供開始 ～Windows 11など一部バージョンで利用可能に／「集中モード」の改善や不具合の対処などが行われる",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/892/image_top.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426831.html",
+          "author": null,
+          "description": "米Microsoftは7月19日（現地時間）、Windows 11環境で一部の「.NET Framework 3.5」アプリで発生していたトラブルが解決されたと発表した。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426831.html",
+          "publishedOn": "2022-07-22T03:28:26.000Z",
+          "wordCount": 4322,
+          "title": "Windows 11の4月プレビューパッチに起因する「.NET Framework 3.5」アプリの問題は解決／OS内蔵のトラブルシューティングツールで",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/831/windows11.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/sspcgame/1426272.html",
+          "author": null,
+          "description": "前回紹介した「Fall Guys（フォールガイズ）」をPCにインストールすると、ゲーム配信スタンドアプリ「Epic Games Store」も一緒にインストールされる。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/sspcgame/1426272.html",
+          "publishedOn": "2022-07-22T02:00:00.000Z",
+          "wordCount": 4419,
+          "title": "無料で毎週1本はPCゲームがもらえる！「フォートナイト」や「フォールガイズ」の配信スタンド「Epic Games Store」【石田賀津男の『酒の肴にPCゲーム』】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/272/01.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426732.html",
+          "author": null,
+          "description": "The Document Foundation（TDF）は7月21日（中央ヨーロッパ時間）、「LibreOffice 7.3.5 Community」を公開した。80件以上もの不具合とリグレッション（機能後退）が解決されており、安定性が向上している。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426732.html",
+          "publishedOn": "2022-07-22T01:00:00.000Z",
+          "wordCount": 4344,
+          "title": "「LibreOffice 7.3.5 Community」が公開 ～80件以上の問題に対処して安定性を向上／「LibreOffice 7.2」ユーザーはそろそろ移行を",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/732/libreoffice.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/update/driver/1426741.html",
+          "author": null,
+          "description": "",
+          "link": "https://forest.watch.impress.co.jp/docs/update/driver/1426741.html",
+          "publishedOn": "2022-07-22T00:30:00.000Z",
+          "wordCount": 4310,
+          "title": "【アップデート情報】パッケージ・ドライバー関連　7月22日　～Dynabookなど",
+          "imageUrl": "https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/bookwatch/sale/1426295.html",
+          "author": null,
+          "description": "Amazon.co.jpのKindleストアでは現在、7月28日までの期間限定で「コンピュータ・ITキャンペーン」を開催中です。本キャンペーンでは、1,000冊以上の書籍がセール対象となっており、最大50％OFFの割引価格で販売されています。プログラミング関連書籍も多数ラインナップされており、以下の6冊もすべて50％OFFとなっています。",
+          "link": "https://forest.watch.impress.co.jp/docs/bookwatch/sale/1426295.html",
+          "publishedOn": "2022-07-21T23:35:00.000Z",
+          "wordCount": 4317,
+          "title": "Kindleストアでプログラミング関連書籍が安い！ 7月28日まで限定のIT本のセール／『作業が一瞬で片付く　Python自動化仕事術』なと多数の書籍が50％OFF【Book Watch/セール情報】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/295/image_top.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1426674.html",
+          "author": null,
+          "description": "米Microsoftは7月19日（現地時間）、ビジネスコミュニケーションアプリ「Microsoft Teams」について、Web会議中に質問とその回答ができるQ＆A機能を一般提供したと発表した。アプリ版・Webブラウザー版ともに利用可能。これまで「Teams」内のアプリストアで提供されていたアプリ版「Q＆A」は8月をもって配布を終了する。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1426674.html",
+          "publishedOn": "2022-07-21T23:00:00.000Z",
+          "wordCount": 4351,
+          "title": "「Microsoft Teams」のQ＆A機能が一般提供開始 ～Web会議・セミナー中にも有効化可能に／「Teams」内アプリストアから入手した既存の「Q＆A」アプリは削除を推奨",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/674/1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/update/library/1426594.html",
+          "author": null,
+          "description": "定番のオンラインストレージ",
+          "link": "https://forest.watch.impress.co.jp/docs/update/library/1426594.html",
+          "publishedOn": "2022-07-21T22:30:00.000Z",
+          "wordCount": 4307,
+          "title": "【アップデート情報】窓の杜収録ソフト　7月22日　～「Oracle VM VirtualBox」や「CCleaner」など",
+          "imageUrl": "https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/bookwatch/news/1426639.html",
+          "author": null,
+          "description": "（株）インプレスR＆Dは、書籍『JavaScript徹底攻略 関数編』（著：澁谷真帆氏）を7月22日に発売した。価格は、電子版が1,760円、印刷版が2,200円。",
+          "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/1426639.html",
+          "publishedOn": "2022-07-21T22:15:00.000Z",
+          "wordCount": 4344,
+          "title": "関数のカリー化って何だ？ JavaScriptの関数の使い方をマスターできる解説書が発売／ECMAScript 2021に対応。関数定義の書き方からクロージャや再帰の応用までカバー【Book Watch/ニュース】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/639/01.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1426698.html",
+          "author": null,
+          "description": "本連載では、無料の高機能3Dモデリングツール「Blender」の使い方や関連情報を幅広くお伝えします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1426698.html",
+          "publishedOn": "2022-07-21T21:55:00.000Z",
+          "wordCount": 4393,
+          "title": "「マテリアル」や「UVマップ」の意味を解説 ～用語を理解すれば3DCGは怖くない！【Blender ウォッチング】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/698/image-top.png"
+        }
+      ]
+    },
+    {
+      "title": "PC Watch",
+      "feedUrl": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+      "siteUrl": "https://pc.watch.impress.co.jp",
+      "articles": [
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427447.html",
+          "author": null,
+          "description": "パソコン工房はゲーミングPCシリーズのLEVEL∞より、「テイルズウィーバー」、「マビノギ」、「V4」の推奨PCを発売した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427447.html",
+          "publishedOn": "2022-07-25T09:28:08.000Z",
+          "wordCount": 5005,
+          "title": "【ニュース・フラッシュ】パソコン工房、テイルズウィーバー/マビノギ/V4の各推奨PC",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/447/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427432.html",
+          "author": null,
+          "description": "デル・テクノロジーズ株式会社は、日本語配列の無線キーボード「KB740」、「KB700」、「KB500」、および無線マウス「MS300」の計4製品を発売した。価格は順に9,020円、1万10円、4,950円、3,520円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427432.html",
+          "publishedOn": "2022-07-25T09:10:12.000Z",
+          "wordCount": 5004,
+          "title": "デル、最大3台のデバイスと接続できる2.4GHz無線/Bluetooth対応キーボード",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/432/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427375.html",
+          "author": null,
+          "description": "エムエスアイコンピュータージャパン株式会社(MSI)は、本社の創業36周年を記念したプレゼントキャンペーンを開催中。期間は9月1日0時59分まで。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427375.html",
+          "publishedOn": "2022-07-25T07:04:47.000Z",
+          "wordCount": 5000,
+          "title": "【ニュース・フラッシュ】MSI、ゲーミングモニター/ノートPCなどが抽選で当たるキャンペーン。創業36周年記念で",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/375/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427368.html",
+          "author": null,
+          "description": "ドスパラを展開する株式会社サードウェーブは、グローバルスポーツフランチャイズ「PARIS SAINT-GERMAIN」のeスポーツグループ「PARIS SAINT-GERMAIN ESPORTS」とスポンサーシップ契約を締結した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427368.html",
+          "publishedOn": "2022-07-25T06:39:32.000Z",
+          "wordCount": 5017,
+          "title": "【ニュース・フラッシュ】サードウェーブ、PARIS SAINT-GERMAIN ESPORTSとスポンサーシップ契約を締結",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/368/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427345.html",
+          "author": null,
+          "description": "株式会社オウルテックは、アッシュブルー、オリーブグリーン、ワインレッド、サンドベージュ、ワインレッドと4種類のカラーバリエーションを用意したシリコン素材のUSBケーブル「OWL-CBS」シリーズを発売した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/news_flash/1427345.html",
+          "publishedOn": "2022-07-25T05:55:24.000Z",
+          "wordCount": 5015,
+          "title": "【ニュース・フラッシュ】オウルテック、カラバリ4種のUSBシリコンケーブル",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/345/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427333.html",
+          "author": null,
+          "description": "Amazonで、Innocn製15.8型モバイルモニター「N2F」がセール特価で発売中。通常価格が2万1,980円のところ、7,981円引きの1万3,999円で購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427333.html",
+          "publishedOn": "2022-07-25T05:32:16.000Z",
+          "wordCount": 4994,
+          "title": "本日みつけたお買い得品15.8型モバイルモニターが7,981円引き！Amazonでセール中",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/333/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427322.html",
+          "author": null,
+          "description": "Samsung Electronicsは21日(現地時間)、データ処理機能を内蔵したデータセンター向けストレージ「SmartSSD」の第2世代製品を開発したと発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427322.html",
+          "publishedOn": "2022-07-25T05:30:44.000Z",
+          "wordCount": 4997,
+          "title": "Samsung、処理時間を半減できるデータセンター向け第2世代「SmartSSD」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/322/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427300.html",
+          "author": null,
+          "description": "ベルキン株式会社は、最大65W出力のUSB PD対応Type-C充電器「BOOST↑CHARGE PRO 65W DUAL USB-C GAN WALL CHARGER WITH PPS」を発売した。価格は4,790円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427300.html",
+          "publishedOn": "2022-07-25T04:48:13.000Z",
+          "wordCount": 5062,
+          "title": "ベルキン、M2 MacBook Airに好適と謳うUSB Type-Cポート×2搭載のPD充電器",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/300/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427258.html",
+          "author": null,
+          "description": "米Googleは21日(現地時間)、Google MeetのWeb会議をYouTubeでライブ配信できる機能を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427258.html",
+          "publishedOn": "2022-07-25T03:46:35.000Z",
+          "wordCount": 5003,
+          "title": "Google MeetがYouTubeでライブ配信できるように",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/258/main.png"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427254.html",
+          "author": null,
+          "description": "ASUS JAPAN株式会社は、50mm径のASUS Essenceドライバーを搭載したゲーミングヘッドセット「ROG Delta S Core」および「ROG Delta S Wireless」を発表した。前者は8月5日、後者は9月2日に発売し、実売予想価格はそれぞれ1万2,980円前後、2万1,800円前後の見込み。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427254.html",
+          "publishedOn": "2022-07-25T03:36:37.000Z",
+          "wordCount": 5030,
+          "title": "ASUS、独自50mm径ドライバー採用のゲーミングヘッドセット2機種",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/254/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427238.html",
+          "author": null,
+          "description": "ASUSは、Ryzen 5000シリーズ搭載のミニPC「Mini PC PN51-S1」シリーズに2モデルを追加し、29日に発売する。追加モデルはRyzen 5 5500Uの「B5354AD」とRyzen 3 5300Uの「B3353AD」で、実売価格は前者が7万6,320円、後者が6万7,320円の見込み。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427238.html",
+          "publishedOn": "2022-07-25T03:20:13.000Z",
+          "wordCount": 5020,
+          "title": "Ryzen搭載115mm四方のミニPC「PN51-S1」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/238/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1426023.html",
+          "author": null,
+          "description": "株式会社テックワンは、One-Netbook製の7型ポータブルゲーミングPC「ONEXPLAYER mini Ryzen版」に、ホワイト筐体モデルを追加発売した。価格は18万2,710円。7月31日まではOne-Netbook公式ストアにて10%オフクーポン「4NU4BNMM3H」を配布中。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1426023.html",
+          "publishedOn": "2022-07-25T02:45:00.000Z",
+          "wordCount": 5065,
+          "title": "7型ポータブルゲーミングPC「ONEXPLAYER mini Ryzen版」にホワイトモデル",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1426/023/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427198.html",
+          "author": null,
+          "description": "エムエスアイコンピュータージャパン株式会社(MSI)は、有線/無線接続に両対応したゲームコントローラ「FORCE GC30 V2」を発売した。価格は4,950円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427198.html",
+          "publishedOn": "2022-07-25T01:55:33.000Z",
+          "wordCount": 5003,
+          "title": "MSI、有線/2.4GHz無線両対応のゲームコントローラ",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/198/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1427183.html",
+          "author": null,
+          "description": "MINISFORUMは、Ryzen 7 5800H搭載ミニPC「UM580」の予約販売を開始した。現在割引が適用されており、ベアボーンキットが1万円強安い5万7,980円、最上位の32GBメモリ/512GB SSD搭載モデルが2万円弱安い7万9,980円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1427183.html",
+          "publishedOn": "2022-07-25T01:49:55.000Z",
+          "wordCount": 5018,
+          "title": "MINISFORUM、Ryzen 7 5800H搭載のミニPC「UM580」を8月末出荷",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/183/00.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427174.html",
+          "author": null,
+          "description": "Amazonにおいて、KIMOブランドのインパクトレンチ「QM-3601」が1,647円(15%)オフの9,333円で販売中だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427174.html",
+          "publishedOn": "2022-07-25T01:21:21.000Z",
+          "wordCount": 4992,
+          "title": "本日みつけたお買い得品ボルト締めがラクになる電動インパクトレンチが15%オフの9,333円",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/174/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427164.html",
+          "author": null,
+          "description": "NECの小型デスクトップPC「LAVIE Direct DT Slim」シリーズのWeb限定モデルを対象に、Amazonにて4万6,300円オフのクーポンが用意されるなど、大きな値引きが実施されている。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427164.html",
+          "publishedOn": "2022-07-25T00:41:41.000Z",
+          "wordCount": 5037,
+          "title": "本日みつけたお買い得品NECのスリムPCが4万6千円超の値引き、Amazonセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/164/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/easygame/1427162.html",
+          "author": null,
+          "description": "今回紹介するのは、猫を操作して近未来の荒廃した世界を彷徨うアクションアドベンチャー「Stray」だ。PC版は7月20日発売で、Steamでの販売価格は3,500円。開発はBlueTwelve Studioで、2年前にPlayStation 5のトレイラーで発表された時から話題になっていたが、このたび無事、PS4/PS5/PC版がほぼ同時発売となった。なお、発売直後にも関わらず、PS4/5では単体購入しなくても、有料の遊び放題サービス「PS Plusエクストラ/プレミアム」でもプレイできる。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/easygame/1427162.html",
+          "publishedOn": "2022-07-25T00:35:22.000Z",
+          "wordCount": 5053,
+          "title": "【週末カジュアルPCゲーム部】アクションがハードな謎解きSF猫アクション「Stray」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/162/ss.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427161.html",
+          "author": null,
+          "description": "Amazonにて、4K解像度(3,840×2,160ドット)に対応するモバイルモニターがお買い得となっている。cocopar「ZB-14K」の場合、6,000円オフのクーポンを適用でき、2万8,999円にて購入可能だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1427161.html",
+          "publishedOn": "2022-07-25T00:34:22.000Z",
+          "wordCount": 5004,
+          "title": "本日みつけたお買い得品4Kモバイルモニターが6千円引き中。有機ELモデルなら1万6千円オフ！ Amazonセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1427/161/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/special/1426592.html",
+          "author": null,
+          "description": "GIGABYTEから発表された新ゲーミングノート「AORUS 17」。14コア20スレッドのCPU、GPUにはノート版のRTX 3070 Ti、ディスプレイは360Hzの超高リフレッシュレートとガチなゲーマーも満足できる高スペックだ。今回は人気ゲーム8本をプレイして性能をチェックするだけでなく、TPS/FPSを主にPS4でプレイしている高校生の息子にも使ってもらい感想を聞いてみた。FPS/TPSに関しては、360Hz液晶をなるべく活かせる高フレームレート設定も探っている。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/special/1426592.html",
+          "publishedOn": "2022-07-24T21:30:00.000Z",
+          "wordCount": 5211,
+          "title": "PS4メインのFPS好き高校生は、360Hz液晶搭載ハイエンドゲーミングノートをどう評価する？ ～14コアCPU＋GTX 3070 Ti採用のGIGABYTE「AORUS 17」[Sponsored]",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1426/592/202207-6690w.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1425529.html",
+          "author": null,
+          "description": "LGエレクトロニクス・ジャパンは画面比率16:18の27.6型モニター「28MQ780-B」を4月19日に発表、5月16日に販売開始した。本製品はWQHD(2,560×1,440ドット)を縦に2つ並べた「2,560×2,880ドット」という縦長の液晶パネルを採用した新スタイルのモニター。通常スタンドの代わりにアームスタンドが同梱されており、設置自由度の高さも本製品の大きなポイントだ。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/hothot/1425529.html",
+          "publishedOn": "2022-07-24T21:25:00.000Z",
+          "wordCount": 5077,
+          "title": "【Hothotレビュー】画面比率16:18の27.6型モニター「28MQ780-B」実機レビュー。そしてゲームも遊んでみた！",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1425/529/PH01.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
