@@ -6,6 +6,356 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://bookmark.hatenastaff.com/entry/mute",
+          "author": null,
+          "description": "いつもはてなブックマークをご利用いただき誠にありがとうございます。はてなブックマーク開発チーム、ディレクターのid:yone-yamaです。 8月15日（月）にリリースされたはてなブックマークアプリの最新バージョン（iOSバージョン5.51.0、Androidバージョン5.57.0）より、ログイン時限定のβ版機能として 「ミュート機能...",
+          "link": "https://bookmark.hatenastaff.com/entry/mute",
+          "publishedOn": "2022-08-15T03:36:23.000Z",
+          "wordCount": 291,
+          "title": "はてなブックマークアプリでミュート機能（β）の提供を開始しました - はてなブックマーク開発ブログ",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenabookmark/20220812/20220812165851.png"
+        },
+        {
+          "id": "https://www.techno-edge.net/article/2022/08/15/177.html",
+          "author": null,
+          "description": "ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 気に入らない知人や何らかの理由で敵対する相手に対し、匿名で動物の糞尿にメッセージを添えて送りつけられるサービス「ShitExpress」が、サイトの脆弱性を突かれて...",
+          "link": "https://www.techno-edge.net/article/2022/08/15/177.html",
+          "publishedOn": "2022-08-15T01:06:34.000Z",
+          "wordCount": 528,
+          "title": "嫌いな相手に糞尿を匿名配送するサービス「ShitExpress」から顧客情報漏れる。利用者のハッカーが脆弱性突く | TechnoEdge テクノエッジ",
+          "imageUrl": "https://www.techno-edge.net/imgs/ogp_f/1209.jpg"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220815/k10013770891000.html",
+          "author": null,
+          "description": "「終戦の日」の15日、自民党の萩生田政務調査会長らが、東京・九段の靖国神社に参拝しました。 自民党の萩生田政務調査会長は15日午前8時ごろ、靖国神社に参拝しました。 参拝を終えたあと萩生田氏は記者団に対し「先の大戦で尊い犠牲となられた先人のみ霊に謹んで哀悼の誠をささげ、あわせて恒久平和をあらためてお誓い...",
+          "link": "https://www3.nhk.or.jp/news/html/20220815/k10013770891000.html",
+          "publishedOn": "2022-08-15T00:31:51.000Z",
+          "wordCount": 874,
+          "title": "自民党 萩生田政務調査会長らが靖国神社に参拝 | NHK",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220815/K10013770891_2208150816_0815081806_01_02.jpg"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUE243J00U2A720C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新年を待たずに合格を決める「年内入試」が主流になり、受験生の3分の2が第1志望の大学に進む――。受験地獄といわれた入試環境が18歳人口の減少で激変し、偏差値で大学...",
+          "link": "https://www.nikkei.com/article/DGXZQOUE243J00U2A720C2000000/",
+          "publishedOn": "2022-08-14T23:54:23.000Z",
+          "wordCount": 183,
+          "title": "大学入試、偏差値時代終幕の足音　推薦・総合型が過半に",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2282601012082022000000-2.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=c4d29d52e7c0c79d8556e7c15de72c88"
+        },
+        {
+          "id": "https://little-hands.hatenablog.com/entry/2022/08/15/value-object-in-ddd",
+          "author": null,
+          "description": "最近、値オブジェクトに関して書かれているブログ記事を見ますが、 SNSなどにおいてDDDにおける値オブジェクトについて誤解されているような反応が見受けられました。 そこで、この記事では「DDDにおける値オブジェクトの位置付け」について解説し、具体的なモデル・コードを用いながら誤解を解いていきたいと思います。...",
+          "link": "https://little-hands.hatenablog.com/entry/2022/08/15/value-object-in-ddd",
+          "publishedOn": "2022-08-14T23:40:21.000Z",
+          "wordCount": 505,
+          "title": "DDDにおける値オブジェクトの位置付け(モデルとコード事例あり)[ドメイン駆動設計] - little hands' lab",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/l/little_hands/20220815/20220815005816.png"
+        },
+        {
+          "id": "https://twitter.com/norihiko_sasaki/status/1558457932559224832",
+          "author": null,
+          "description": "政治を担ったことがない人間が政治を評し、お金を稼いだことがない人間がビジネスを語る。その違和感に向き合うことから全ては始まる気がします。もちろん、「最高の傍観者」という立場はあり得ますが、そのためには圧倒的な専門性と知見が必要だと思います。一流の批評家への道は甘くありません。",
+          "link": "https://twitter.com/norihiko_sasaki/status/1558457932559224832",
+          "publishedOn": "2022-08-14T23:25:51.000Z",
+          "wordCount": 383,
+          "title": "佐々木紀彦@PIVOT ビジネスメディア on Twitter: \"政治を担ったことがない人間が政治を評し、お金を稼いだことがない人間がビジネスを語る。その違和感に向き合うことから全ては始まる気がします。もちろん、「最高の傍観者」という立場はあり得ますが、そのためには圧倒的な専門性と知見が必要だと思います。一流の批評家への道は甘くありません。\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://courrier.jp/news/archives/297533/",
+          "author": null,
+          "description": "札幌市が現在2030年冬季五輪の招致活動を進めている。しかし1年前の東京大会が日本に数多くの問題を残したばかりなのに、なぜ日本はまたオリンピックをやりたいのか。英紙「フィナンシャル・タイムズ」が考察した。 忘れられた1年前の東京五輪 1年前、走り高跳びの選手2人がオリンピックの金メダルを同時受賞した、あの...",
+          "link": "https://courrier.jp/news/archives/297533/",
+          "publishedOn": "2022-08-14T22:50:02.000Z",
+          "wordCount": 3967,
+          "title": "英紙が一刀両断「日本が札幌冬季五輪を開催したいのは、“感動”中毒に陥っているからだ」 | 日本は東京五輪の問題を再び繰り返すのか",
+          "imageUrl": "https://courrier.jp/media/2022/08/12094745/GettyImages-1330222233-e1660232945867.jpg"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUB1120J0R10C22A8000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 消費者がスマホ決済アプリ「PayPay」などから別の決済アプリや銀行に来年にも直接送金ができる見通しとなった。全国銀行協会は電子マネーを提供するフィンテック企業が...",
+          "link": "https://www.nikkei.com/article/DGXZQOUB1120J0R10C22A8000000/",
+          "publishedOn": "2022-08-14T22:45:26.000Z",
+          "wordCount": 184,
+          "title": "決済アプリで銀行送金　23年にも、事業者の日銀口座条件",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2278541012082022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=6c8da936b2329d4556bec4d138746b90"
+        },
+        {
+          "id": "https://webtan.impress.co.jp/e/2022/08/15/43131",
+          "author": null,
+          "description": "新規ウェブサイトのSEO戦略を構築するのに必要な10のステップ#6～#10ステップ6戦略的なコンテンツカレンダーを作成する（そしてコンテンツを継続的に投入する）戦略的なコンテンツカレンダーは、一貫性を持って意図的に利用すれば、必然的に顧客を引き付け、キーワードに対して上位に表示されるようにするのに役立つ。そ...",
+          "link": "https://webtan.impress.co.jp/e/2022/08/15/43131",
+          "publishedOn": "2022-08-14T22:38:23.000Z",
+          "wordCount": 3857,
+          "title": "新規WebサイトのSEOで見落としがちな問題に対処する5つのポイント（#6～#10） | Moz - SEOとインバウンドマーケティングの実践情報",
+          "imageUrl": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/seomoz/2022/moz220801-0822-fig07b.png?itok=Lb8Mdm8Q"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/080500068/",
+          "author": null,
+          "description": "兵庫県尼崎市は全市民の個人情報が入ったUSBメモリーを一時紛失した。業務再々委託先の社員がデータを無断で持ち出したことがきっかけだった。実はバックアップ用のUSBメモリーも保持し、2本同時に紛失していたと判明した。尼崎市はセキュリティーポリシーを定めていたが、全く機能していなかった。委託先を管理できてい...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/080500068/",
+          "publishedOn": "2022-08-14T21:58:48.000Z",
+          "wordCount": 999,
+          "title": "全市民46万人の個人情報が流出の危機、 バックアップ用のUSBも同時に紛失",
+          "imageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/080500068/topm.jpg?20220512"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20220812/k00/00m/010/001000c",
+          "author": null,
+          "description": "安倍晋三元首相の銃撃事件を契機に、白日の下にさらされた世界平和統一家庭連合（旧統一教会）と保守系政治家の“蜜月”。教団並みの組織票を持つ団体はほかにもあるのに、なぜ政界にこれほど食い込んでいるのか。山上徹也容疑者（41）＝殺人容疑で送検＝がのちに、襲撃対象を教団トップから安倍氏に切り替える要因の一つ...",
+          "link": "https://mainichi.jp/articles/20220812/k00/00m/010/001000c",
+          "publishedOn": "2022-08-14T20:37:22.000Z",
+          "wordCount": 1164,
+          "title": "そんたくのつもりだった？　旧統一教会の儀式に参加した議員たち | 毎日新聞",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/08/12/20220812k0000m010114000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://www.lifehacker.jp/article/2208-app-store/",
+          "author": null,
+          "description": "AppleのデバイスとApp Storeは、AndroidやWindowsなどの競合と比べて、一般的に安全だと思われています。しかし、App Storeで頻繁にダウンロードされているアプリでも、マルウェアが潜んでいる可能性があることがここ数週間でわかりました。",
+          "link": "https://www.lifehacker.jp/article/2208-app-store/",
+          "publishedOn": "2022-08-14T17:51:56.000Z",
+          "wordCount": 1230,
+          "title": "iPhoneから削除しよう！ 人気1位だったPDFアプリにマルウェアが潜んでいた | ライフハッカー［日本版］",
+          "imageUrl": "https://media.loom-app.com/loom/2022/08/10/8666c518-f8a1-452b-94a6-97e10486dcac/original.jpg?w=1280&h=630&f=jpg"
+        },
+        {
+          "id": "https://www.nikkei.com/telling/DGXZTS00002010S2A800C2000000/",
+          "author": null,
+          "description": "「サブスク疲れ」や「サブスク貧乏」といった言葉が広がっている。新型コロナウイルス下で定額・使い放題のサブスクリプション契約を増やしたものの、サービスを使い切れなかったり出費がかさんだりする人が多いためだ。日本経済新聞が1000万人規模のデータを分析すると、利用者がシビアに契約を選別する姿が浮かび上が...",
+          "link": "https://www.nikkei.com/telling/DGXZTS00002010S2A800C2000000/",
+          "publishedOn": "2022-08-14T17:30:40.000Z",
+          "wordCount": 1475,
+          "title": "「サブスク疲れ」 進む選別 利用者数、ピークの3割減",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2285569015082022000000-1.jpg?ixlib=js-2.3.2&auto=format&q=45&w=1600&s=88834e0a737c2922d2cc9fa9bb10e910"
+        },
+        {
+          "id": "https://togetter.com/li/1930630",
+          "author": null,
+          "description": "たまき｜高卒でも2億！ @tamachan_1218 ◾️全コンビニこれあるといい。 ◾️持ち帰ってそのまま使える。 ◾️2円のレジ袋が不要になる。 ◾️持ち帰るの少し「恥ずかしい」けど、僕みたいに気にならない人からすればコレはすごい画期的なアイデア。 2022-08-14 06:52:47",
+          "link": "https://togetter.com/li/1930630",
+          "publishedOn": "2022-08-14T16:16:15.000Z",
+          "wordCount": 1930,
+          "title": "有料のレジ袋の代わりに市指定のゴミ袋を売るホームセンターが話題に「無駄がない」「自分の住んでいるところでもやって欲しい」",
+          "imageUrl": "https://s.togetter.com/ogp/bb15541813d7e19a9342044a4ca67199-1200x630.png"
+        },
+        {
+          "id": "https://narenohatebu.jp/",
+          "author": null,
+          "description": "嫁のはてブが閉鎖しツラいので作りました",
+          "link": "https://narenohatebu.jp/",
+          "publishedOn": "2022-08-14T16:05:06.000Z",
+          "wordCount": 346,
+          "title": "なれのはてブ - 嫁のはてブが閉鎖しツラいので作りました。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220814211842",
+          "author": null,
+          "description": "昨日、半年ぶりくらいに幼馴染と遊んだ。台風予報だったので、出歩かずに遊べるように、とホテルのアフタヌーンティーに行くことにした。 一杯目の紅茶を持ってきてもらって、さて何の話をしよう、という段階で、幼馴染はにっこり笑って、この後買い物に行こう、と言ってきた。こんな雨の日に何を買うの？と聞くと、私の...",
+          "link": "https://anond.hatelabo.jp/20220814211842",
+          "publishedOn": "2022-08-14T15:21:18.000Z",
+          "wordCount": 688,
+          "title": "35歳女オタクが幼馴染から服装のダメ出し食らった話",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUC167DR0W2A610C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら スマートフォン向けゲームを提供する世界大手がビジネスモデルを転換している。中国の騰訊控股（テンセント）などは有料チケット方式に力を入れ、人気を集めている。一...",
+          "link": "https://www.nikkei.com/article/DGXZQOUC167DR0W2A610C2000000/",
+          "publishedOn": "2022-08-14T14:28:11.000Z",
+          "wordCount": 180,
+          "title": "スマホゲーム「ガチャ」頼み転機　日本勢、世界展開に壁",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2284595014082022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=eda92adbf405d9e00ff6d3cca6ccce2e"
+        },
+        {
+          "id": "https://courrier.jp/news/archives/296549/",
+          "author": null,
+          "description": "今年7月8日、安倍晋三元首相が奈良市内で参議院選の選挙演説中に暗殺された。安倍政権は7年8ヵ月という戦後、最も長い政権だったが、森友学園事件など多くの疑惑が、いまだ曖昧のままにされている。森友学園事件の財務省による文書の改ざん問題で、自殺に追い込まれた近畿財務局の赤木俊夫さんの妻・赤木雅子氏に、米国...",
+          "link": "https://courrier.jp/news/archives/296549/",
+          "publishedOn": "2022-08-14T14:23:43.000Z",
+          "wordCount": 4061,
+          "title": "それでも森友事件に蓋をしてはいけない。日本の民主主義を守るためにも | 【特別対談】赤木雅子×マーティン・ファクラー",
+          "imageUrl": "https://courrier.jp/media/2022/08/14210820/GettyImages-932811518.jpg"
+        },
+        {
+          "id": "https://twitter.com/ouendan10/status/1558577676260343808",
+          "author": null,
+          "description": "今朝のNHKラジオ、文鮮明没後10年でその偉業をたたえている。これは悪夢か。",
+          "link": "https://twitter.com/ouendan10/status/1558577676260343808",
+          "publishedOn": "2022-08-14T13:37:13.000Z",
+          "wordCount": 383,
+          "title": "青木正雄 on Twitter: \"今朝のNHKラジオ、文鮮明没後10年でその偉業をたたえている。これは悪夢か。\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220814/k10013770761000.html",
+          "author": null,
+          "description": "独自の主張でがん医療の在り方に一石を投じた医師の近藤誠さんが13日に亡くなりました。73歳でした。 近藤さんは1948年に東京都で生まれ、慶応大学医学部を卒業後、慶応大学病院でがんの放射線治療を行い、乳がんの治療で乳房全体を手術で切除することが多かった1980年代に、乳房を温存する治療法を提唱しました。 その...",
+          "link": "https://www3.nhk.or.jp/news/html/20220814/k10013770761000.html",
+          "publishedOn": "2022-08-14T13:21:08.000Z",
+          "wordCount": 996,
+          "title": "がん医療 独自の主張でベストセラー 医師の近藤誠さん死去 | NHK",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220814/K10013770761_2208142213_0814221710_01_02.jpg"
+        },
+        {
+          "id": "https://nlab.itmedia.co.jp/nl/articles/2208/14/news053.html",
+          "author": null,
+          "description": "UUUMが主催するオフラインのゲームイベント「オールスター大運動会」の開催中、傘をさした男性が壇上に乱入し、司会席にいた人気YouTuber・HIKAKINさんに抱きつき、マイクを奪いとる一幕がありました。 画像はイベント公式Twitterより 同イベントは8月14日、東京都 国立代々木競技場 第一体育館で開催されたもの。人気ス...",
+          "link": "https://nlab.itmedia.co.jp/nl/articles/2208/14/news053.html",
+          "publishedOn": "2022-08-14T12:50:36.000Z",
+          "wordCount": 2743,
+          "title": "HIKAKINさん、イベント中に不審者に絡まれマイク奪われる　視聴者から「ガチの放送事故」「無事でよかった」の声",
+          "imageUrl": "https://image.itmedia.co.jp/nl/articles/2208/14/cover_news053.jpg"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASQ8B544TQ85PTIL03R.html",
+          "author": null,
+          "description": "性別でデザインを分けず、性差が目立ちにくい「ジェンダーレス水着」という選択肢が生まれています。 ジェンダーレス水着、どう思う？子どもの頃の水着の思い出は？　「#ニュース4U」で募ったところ、主に女性から、従来のスクール水着で嫌な思いをしたという意見が多数寄せられました。 「水着が恥ずかしい」見学続出　...",
+          "link": "https://www.asahi.com/articles/ASQ8B544TQ85PTIL03R.html",
+          "publishedOn": "2022-08-14T11:59:33.000Z",
+          "wordCount": 733,
+          "title": "ジェンダーレス水着、あの頃にあれば　体形、日焼け、尽きない悩み：朝日新聞デジタル",
+          "imageUrl": "https://imgopt.asahi.com/ogp/AS20220810002058_comm.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/1930512",
+          "author": null,
+          "description": "俺がガキンチョのころのホールケーキというのはもっとデカかった記憶がある（ついでに高さは低かったかもしれん）３号とか４号とか大きさの規格みたいのがあると思うんだが規格自体変わったのか？",
+          "link": "https://togetter.com/li/1930512",
+          "publishedOn": "2022-08-14T11:43:46.000Z",
+          "wordCount": 3524,
+          "title": "お菓子が年々小さくなってるので2030年のコンビニケーキを予想したらディストピアになった「絵に描いたようなケーキだ」",
+          "imageUrl": "https://s.togetter.com/ogp/6e9b40b45c89c35374370fa87b6592b2-1200x630.png"
+        },
+        {
+          "id": "https://www.tokyo-sports.co.jp/entame/news/4383587/",
+          "author": null,
+          "description": "古市憲寿氏（東スポWeb） 社会学者の古市憲寿氏が１４日、日本テレビ系「真相報道　バンキシャ！」に出演。政治家とのかかわりが次々露呈している世界平和統一家庭連合（旧統一教会）の問題についてコメントした。 岸田文雄首相は旧統一教会との関係があった７人の閣僚を交代させたが、改造内閣では新たに７人の閣僚が旧...",
+          "link": "https://www.tokyo-sports.co.jp/entame/news/4383587/",
+          "publishedOn": "2022-08-14T11:33:47.000Z",
+          "wordCount": 953,
+          "title": "古市憲寿氏　宗教と政治の問題に「統一教会バッシングだけしても生産的ではない」の持論 – 東京スポーツ新聞社",
+          "imageUrl": "\n\thttps://www.tokyo-sports.co.jp/wp-content/uploads/2022/08/c3276540c0482b4f3de071a15d15c1af-600x314.jpg"
+        },
+        {
+          "id": "https://note.com/nomizone/n/ne598509d2de3",
+          "author": null,
+          "description": "のみぞうと申します。ども… タイトルの通りなんですが、縁あってコミックマーケット100（通称：コミケ/夏コミ）に久しぶりにサークル参加してみて、当然といえば当然なんですが、同じ世界なのに時代が違えば中身がぜんぜん違っててカルチャーショックを受けました。これを書かないと俺達のコミケは終われねえぜって気が...",
+          "link": "https://note.com/nomizone/n/ne598509d2de3",
+          "publishedOn": "2022-08-14T11:29:14.000Z",
+          "wordCount": 3025,
+          "title": "アラフォー同人女が20年ぶりにコミケにサークル参加したらほぼ異世界転生だった件｜のみぞう｜note",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/84715506/rectangle_large_type_2_1f5073db25964bfa7ebc3d94f304fc57.png?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220814200739",
+          "author": null,
+          "description": "30代共働き。妻は2カ月前から休職(有給+産前)、私は半在宅勤務。息子4才。ワクチンは二人とも3回接種済み。息子は打ってない。 予定日は8/12。 7/31妻が少し体調悪いと言い出す。 半月くらい前からつわりぽい症状があり、この時点で私は後期つわりが悪化してきたかと思っていた。 8/1妻の体調戻らず。寝込まないといけな...",
+          "link": "https://anond.hatelabo.jp/20220814200739",
+          "publishedOn": "2022-08-14T11:17:32.000Z",
+          "wordCount": 684,
+          "title": "臨月の妻がコロナになった",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://ezdog.press/shinzo-abe-shooting-from-the-socionarratological-point-of-view.html",
+          "author": null,
+          "description": "安倍元首相銃撃事件を受けて 2022年7月に 「父、 文鮮明のこと——負の現人神」 という記事を書いた。 だいたい次のような話だ。 終戦後、 大日本帝国の天皇の消滅した朝鮮半島に再臨の現人神あらひとがみを名乗る教祖たちが雨後の竹の子のように生まれる。 はじめはどんぐりの背比べじみたところがあった。 けれどもその...",
+          "link": "https://ezdog.press/shinzo-abe-shooting-from-the-socionarratological-point-of-view.html",
+          "publishedOn": "2022-08-14T10:19:10.000Z",
+          "wordCount": 2126,
+          "title": "僕もまた山上徹也のひとりにすぎないということ",
+          "imageUrl": "https://ezdog.press/wp-content/uploads/9c8a18c862cc4aa01bd3eac31b91642e.jpg"
+        },
+        {
+          "id": "https://note.com/koh__dai/n/nd97355016573",
+          "author": null,
+          "description": "他にも「LatentMajestyDiffusion」「centipidediffusion」「latenddiffusion」「discodiffusion」「dalle2」など存在します。アルゴリズムが違うと同じ呪文でも質の違う画像が生成されるので、気が向いた人は色々と試してみることをお勧めします。 画像生成に関する基本知識画像生成に関するベーススキルは、どんなもの...",
+          "link": "https://note.com/koh__dai/n/nd97355016573",
+          "publishedOn": "2022-08-14T10:18:03.000Z",
+          "wordCount": 2911,
+          "title": "AI画像生成で建築パース用の添景を無限生成するまとめ｜宮下巧大｜note",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/84630253/rectangle_large_type_2_37ad236de9937e179e1785f678c34b7f.jpeg?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://togetter.com/li/1930520",
+          "author": null,
+          "description": "まとめ 【新世代コミPo】「Midjouney」にマンガを描かせてみるテストで出来上がった超美麗フルカラー漫画「サイバーパン.. 「作れるかも」といっている暇があったら「作ってしまってから考えればいい」という精神、実にクリエイターらしくて良い 91066 pv 457 621 users 255 中本アイアール @air_nakamoto Midjourneyさ...",
+          "link": "https://togetter.com/li/1930520",
+          "publishedOn": "2022-08-14T09:46:23.000Z",
+          "wordCount": 3879,
+          "title": "キャラを自分で描ける人によって「Midjourney」にマンガやイラストの背景を描かせる研究が着々と進んでいる模様",
+          "imageUrl": "https://s.togetter.com/ogp/6cbfe758b0891407abfa8b2bf639f2ff-1200x630.png"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220814182851",
+          "author": null,
+          "description": "まどマギぐらいで止まってない？ あの花も同じぐらいか。 どっちも11年前。 惜しいところまでいったのはタイバニ、おそ松くんくらいか。 もうアニメの進化って止まっているんじゃない？",
+          "link": "https://anond.hatelabo.jp/20220814182851",
+          "publishedOn": "2022-08-14T09:39:22.000Z",
+          "wordCount": 764,
+          "title": "社会現象になるオリジナルアニメってもう10年ぐらい出てなくない？",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://twitter.com/hosomacho1/status/1558690606817615872",
+          "author": null,
+          "description": "クイーンズランド大学が開発したHIITがすごい。HIIT WBというエクササイズで、たった4分間の運動で30分の有酸素運動を遥かに凌ぐ効果を発揮する。心肺機能と筋肉量の増加、脂肪減まで期待でき、抗老化に繋がる。動画をそのまま真似し… https://t.co/FWvRp0RAaR",
+          "link": "https://twitter.com/hosomacho1/status/1558690606817615872",
+          "publishedOn": "2022-08-14T09:10:07.000Z",
+          "wordCount": 383,
+          "title": "Seiya on Twitter: \"クイーンズランド大学が開発したHIITがすごい。HIIT WBというエクササイズで、たった4分間の運動で30分の有酸素運動を遥かに凌ぐ効果を発揮する。心肺機能と筋肉量の増加、脂肪減まで期待でき、抗老化に繋がる。動画をそのまま真似し… https://t.co/FWvRp0RAaR\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://number.bunshun.jp/articles/-/854247",
+          "author": null,
+          "description": "ところが、昨年12月になってイチローが突然「日が迫ってるからしっかりやれ」と言い出した。打撃投手やノッカーを務めるのは、本気モードのイチロー自身だ。 高田たちが練習場で歩いていただけで、「ダッシュだ！」とどやされる。イチローがノックする打球を下がって捕ったら「前へ出ろ、前へ！」。打球を身体で止めると...",
+          "link": "https://number.bunshun.jp/articles/-/854247",
+          "publishedOn": "2022-08-14T08:54:35.000Z",
+          "wordCount": 850,
+          "title": "高校生イチローは“練習しない天才”？ 同級生が語る真相「一朗にとって名電も甲子園も通過点」「日経新聞読んでた」「2本は予告付き本塁打」（赤坂英一）",
+          "imageUrl": "https://number.ismcdn.jp/mwimgs/d/4/-/img_d49217dbefb793f4eea8d357d341ec0d152682.jpg"
+        },
+        {
+          "id": "https://twitter.com/norihiko_sasaki/status/1558443387161677824",
+          "author": null,
+          "description": "メディア業界にいると野党精神が骨の髄まで染み込んでしまう。批判すること自体が仕事になる。これからの時代に必要なのは、与党精神を持ったメディア人であり、そうした人は伝統メディアから生まれないように思う。メディアがオープン化された今、メディアがメディア人に閉ざされる意味はないですね。",
+          "link": "https://twitter.com/norihiko_sasaki/status/1558443387161677824",
+          "publishedOn": "2022-08-14T07:36:13.000Z",
+          "wordCount": 383,
+          "title": "佐々木紀彦@PIVOT ビジネスメディア on Twitter: \"メディア業界にいると野党精神が骨の髄まで染み込んでしまう。批判すること自体が仕事になる。これからの時代に必要なのは、与党精神を持ったメディア人であり、そうした人は伝統メディアから生まれないように思う。メディアがオープン化された今、メディアがメディア人に閉ざされる意味はないですね。\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://togetter.com/li/1930124",
+          "author": null,
+          "description": "米村歩@日本一残業の少ないIT企業社長 @yonemura2006 昔は「プログラミングできます」と言うと「え〜、きもーい！」とか言われたりしてたんですけど、そういうエンジニアの歴史を駆け出しエンジニアの皆さんは知ってますか？エンジニアかっこいい！と言われるようになった今は本当に良い時代になったものだと思います。 ...",
+          "link": "https://togetter.com/li/1930124",
+          "publishedOn": "2022-08-14T04:10:26.000Z",
+          "wordCount": 1917,
+          "title": "昔は「プログラミングできます」と言うと「え〜、きもーい！」とか言われる時代があった→「犯罪者扱いされてた」「良い時代になったな」",
+          "imageUrl": "https://s.togetter.com/ogp/eb1a00f91c3a1ba420bb25f9d83140a2-1200x630.png"
+        },
+        {
+          "id": "https://qiita.com/c60evaporator/items/b9e645b96afa3a34f41e",
+          "author": null,
+          "description": "はじめに Amazon VPCは、AWS上で仮想ネットワークを構築できるサービスです。 VPCの概要や理論については以下の記事で詳細に解説しました。 一方で、「理論だけでなく実践も重要！」 と思われる方も多いと思いますので、 本記事では実際にVPCによる仮想ネットワークを構築する方法を解説します。 構築の指針として、以下...",
+          "link": "https://qiita.com/c60evaporator/items/b9e645b96afa3a34f41e",
+          "publishedOn": "2022-08-14T03:06:44.000Z",
+          "wordCount": 5537,
+          "title": "【ベストプラクティス】Amazon VPC の構築方法を分かりやすく解説 - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwJUUzJTgzJTk5JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUFGJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJUI5JUUzJTgwJTkxQW1hem9uJTIwVlBDJTIwJUUzJTgxJUFFJUU2JUE3JThCJUU3JUFGJTg5JUU2JTk2JUI5JUU2JUIzJTk1JUUzJTgyJTkyJUU1JTg4JTg2JUUzJTgxJThCJUUzJTgyJThBJUUzJTgyJTg0JUUzJTgxJTk5JUUzJTgxJThGJUU4JUE3JUEzJUU4JUFBJUFDJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00N2Y0NThkNDBiMzRlMmRiMTk3MjIzZThhNjk2ODZmMQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwYzYwZXZhcG9yYXRvciZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YzY1MDI2YzI0ZmFkYzE0OTk1MjhjZjJmNDAzMDZhOWY&blend-x=142&blend-y=491&blend-mode=normal&s=c2caaffafb08d3ec4417a6e7e4cd2b2a"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20220814/k10013769711000.html",
           "author": null,
           "description": "北朝鮮は、韓国で創設された旧統一教会、いまの「世界平和統一家庭連合」の創始者で、経済事業を通じて北朝鮮との関わりが深かったムン・ソンミョン（文鮮明）氏の死去から10年となるのを前に、遺族に弔電を送ったと発表しました。 北朝鮮の対外関係の窓口であるアジア太平洋平和委員会は、韓国で創設された旧統一教会、...",
@@ -14,6 +364,26 @@
           "wordCount": 682,
           "title": "北朝鮮が旧統一教会の創始者遺族に弔電 死去10年で | NHK",
           "imageUrl": "https://www3.nhk.or.jp/news/html/20220814/K10013769711_2208140958_0814095925_01_02.jpg"
+        },
+        {
+          "id": "https://toyokeizai.net/articles/-/610948",
+          "author": null,
+          "description": "レストランではウェイターだけでなく、シェフが足りない事態が起きている（写真：Nathan Laine／Bloomberg） フランスのレストランやバーのオーナーは最近みんな、同じようなことを言っています。「もうこれ以上はスタッフを見つけられない」「ウェイターもシェフもパティシエもいない」……。 仕事中は長時間立ちっぱなし...",
+          "link": "https://toyokeizai.net/articles/-/610948",
+          "publishedOn": "2022-08-14T01:01:02.000Z",
+          "wordCount": 2100,
+          "title": "フランスで今起きている｢働かない若者｣問題",
+          "imageUrl": "https://tk.ismcdn.jp/mwimgs/6/9/1200w/img_69571a163d85cf81024b43585381b21d779752.jpg"
+        },
+        {
+          "id": "https://www.slideshare.net/storywriterjp/45-252537767",
+          "author": null,
+          "description": "“UXデザイン”のキモ『ユーザーインタビュー』の具体的テクニックを詳解！| UXデザイン基礎セミナー 第2回",
+          "link": "https://www.slideshare.net/storywriterjp/45-252537767",
+          "publishedOn": "2022-08-13T23:16:58.000Z",
+          "wordCount": 6638,
+          "title": "45分間で「ユーザー中心のものづくり」ができるまで詰め込む",
+          "imageUrl": "https://cdn.slidesharecdn.com/ss_thumbnails/20220809-45-minutes-introduction-to-ux-220813164339-7c3bf2c5-thumbnail-4.jpg?cb=1660409596"
         },
         {
           "id": "https://www.nikkan-gendai.com/articles/view/life/309731",
@@ -124,6 +494,16 @@
           "wordCount": 2228,
           "title": "【悲報】ワイPythonプログラマー、Go言語が難しいすぎて咽び泣く : IT速報",
           "imageUrl": "https://livedoor.blogimg.jp/itsoku/imgs/b/4/b40b7d87-s.png"
+        },
+        {
+          "id": "https://togetter.com/li/1891249",
+          "author": null,
+          "description": "擲弾兵＠ブースター接種終わり @tekidanhei 高畑勲については興行的には「宮崎駿の稼いだ金を全てㇲってしまうダメ亭主」だけど、彼自身は宮崎氏よりも新技術・手法の導入に熱心でその結果赤字額が膨らんでしまうのだが、しかし高畑勲作品で底上げされたジブリの制作力は次の宮崎作品にちゃんと反映されるから一概にダメ...",
+          "link": "https://togetter.com/li/1891249",
+          "publishedOn": "2022-08-13T15:59:58.000Z",
+          "wordCount": 3335,
+          "title": "高畑勲については興行的には「宮崎駿の稼いだ金を全てㇲってしまうダメ亭主」だけど",
+          "imageUrl": "https://s.togetter.com/ogp/8fb9412305833991f562d86ab01a848c-1200x630.png"
         },
         {
           "id": "https://anond.hatelabo.jp/20220814000656",
@@ -614,6 +994,16 @@
           "wordCount": 1958,
           "title": "Python互換の静的型付け言語「Erg」",
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fk-oUBcV--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mtshiba%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Python%25E4%25BA%2592%25E6%258F%259B%25E3%2581%25AE%25E9%259D%2599%25E7%259A%2584%25E5%259E%258B%25E4%25BB%2598%25E3%2581%2591%25E8%25A8%2580%25E8%25AA%259E%25E3%2580%258CErg%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2g0WVFyaVliOXdBdEtlTUJXZjd1REJ5d2Q3UnJCYW5TSmlQYkRGPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220812210635",
+          "author": null,
+          "description": "タイトルの通りなんだけど最近事あるごとに言葉がキツイいと言われてへこんでいる。 自分からしたら大した事を言ってないのに大袈裟に捉えられて何を言っても空回ってる気がして人間関係が嫌になってきた。 昨日なんか友達と2人で行った居酒屋チェーンで店員さんが3枚お皿を出してきた事に「え！？なんで！怖い！」とホ...",
+          "link": "https://anond.hatelabo.jp/20220812210635",
+          "publishedOn": "2022-08-12T13:50:32.000Z",
+          "wordCount": 699,
+          "title": "人から言い方がキツイいと言われる事が多くなった",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
         },
         {
           "id": "https://togetter.com/li/1929648",
@@ -8323,6 +8713,46 @@
       "siteUrl": "https://forest.watch.impress.co.jp",
       "articles": [
         {
+          "id": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/1426136.html",
+          "author": null,
+          "description": "本人曰く「おそらく世界初」の試み",
+          "link": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/1426136.html",
+          "publishedOn": "2022-08-15T03:00:00.000Z",
+          "wordCount": 4285,
+          "title": "「太鼓の達人」で阿部寛ホームページを開くという意味不明（褒）の偉業が達成されてしまう【再掲】【今すぐ読みたい！人気記事】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/136/image0001.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/shseri/usefulkeys/1431443.html",
+          "author": null,
+          "description": "「クリップボード」はデータを一時保管できる領域で、選択した項目を移動させたり（切り取り）、コピーしたり、取り出したり（貼り付け）できます。ショートカットキーは以下の通りです。",
+          "link": "https://forest.watch.impress.co.jp/docs/shseri/usefulkeys/1431443.html",
+          "publishedOn": "2022-08-15T02:00:00.000Z",
+          "wordCount": 4366,
+          "title": "作業効率を引き上げる「クリップボード」系の上級ショートカットキーをマスターしよう【脱初心者！すぐに役立つショートカットキー】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1431/443/image_top.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/1426140.html",
+          "author": null,
+          "description": "どっちが自然に見えますか？",
+          "link": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/1426140.html",
+          "publishedOn": "2022-08-15T00:00:00.000Z",
+          "wordCount": 4290,
+          "title": "MicrosoftがひっそりとWindows 11に「重大な」変更を加える模様 ～気付いた人はえらい！【再掲】【今すぐ読みたい！人気記事】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1426/140/image-1.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/offitech/1430264.html",
+          "author": null,
+          "description": "「フォルダー内のファイル名をExcelでリスト化しておいて」といった指示を受けたことがありませんか？　［F2］キーでファイル名を編集状態にしてコピー＆ペーストを繰り返した人もいるのではないでしょうか。単純作業ですが不毛ですよね。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/offitech/1430264.html",
+          "publishedOn": "2022-08-14T21:55:00.000Z",
+          "wordCount": 4342,
+          "title": "Excelでのファイルリスト作成で［F2］キーを使うのは不毛！ 一気にファイル名を取得する方法【残業を減らす！Officeテクニック】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1430/264/Office2021_41-top.png"
+        },
+        {
           "id": "https://forest.watch.impress.co.jp/docs/shseri/readitnow/1426147.html",
           "author": null,
           "description": "「こちらのmain様は何もお受け取りにならず代わりにintをお返しになる関数でして……」",
@@ -10069,6 +10499,116 @@
       "feedUrl": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
       "siteUrl": "https://pc.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1432150.html",
+          "author": null,
+          "description": "クラウドファンディングサイトのKickstarterにおいて、24型の液晶パネルを縦に2枚並べ、ヒンジでパネルの角度も調整できるモニター「Geminos」が出資を集めている。製品を入手するために必要な出資額は、フルHD(1,920×1,080ドット)×2の「Geminos」が499ドル以上、WQHD(2,560×1,440ドット)×2の「Geminos X」が649ドル以上。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1432150.html",
+          "publishedOn": "2022-08-15T03:00:44.000Z",
+          "wordCount": 5017,
+          "title": "24型を縦に2枚並べた豪快な液晶モニター。ヒンジ+スライダー機構",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/150/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1432145.html",
+          "author": null,
+          "description": "Club 3Dは、映像変換ケーブル「CAC-1335」および「CAC-1336」を発売した。前者はHDMI出力をDisplayPortに、後者はHDMI出力をUSB Type-Cに変換でき、価格はともに8,980円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1432145.html",
+          "publishedOn": "2022-08-15T02:43:17.000Z",
+          "wordCount": 5019,
+          "title": "Club 3D、HDMIをDisplayPortまたはUSB Type-Cに変換できるケーブル",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/145/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432141.html",
+          "author": null,
+          "description": "Amazonにおいて、Coolpoの話者自動追尾カメラを搭載したスピーカーフォン「CP-P20A」が、通常価格から20%オフとなる6万8,719円で販売中となっている。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432141.html",
+          "publishedOn": "2022-08-15T02:15:08.000Z",
+          "wordCount": 5008,
+          "title": "本日みつけたお買い得品360度カメラ搭載、AIで人物を自動追尾する会議用Webカメラが20%オフ。3mケーブル付属モデルも",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/141/1.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1432136.html",
+          "author": null,
+          "description": "パソコンショップアークは12日、arkhiveブランドから、Ryzen Threadripper PRO 5975WXを搭載したエンスージアストゲーマー/クリエイター向けPC「CL-AT5G37R」を受注開始した。価格は標準構成時の場合、109万8,000円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1432136.html",
+          "publishedOn": "2022-08-15T01:56:39.000Z",
+          "wordCount": 5053,
+          "title": "アーク、Ryzen Threadripper PRO 5975WX/128GBメモリ搭載PC",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/136/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1432135.html",
+          "author": null,
+          "description": "スタジオジブリの公式Twitterアカウントで、会話の相づちなどに使えそうなキャラクターとセリフ入り画像11枚を公開した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1432135.html",
+          "publishedOn": "2022-08-15T01:45:55.000Z",
+          "wordCount": 5027,
+          "title": "【やじうまPC Watch】今回も「常識の範囲内で」。ジブリが会話で使える相づち用(?)画像を公開",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/135/ss.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/nishikawa/1432127.html",
+          "author": null,
+          "description": "ここのところデスクトップPCに関してはNUCタイプのものが続いているが、今回はNECの企業向けでコンパクトなPC「Mate タイプMC＜MC-C＞」が編集部から送られてきたので試用レポートをお届けしたい。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/1432127.html",
+          "publishedOn": "2022-08-15T01:08:12.000Z",
+          "wordCount": 5222,
+          "title": "【西川和久の不定期コラム】約1Lの筐体に第12世代Coreを搭載したコンパクトPC！「NEC Mate タイプMC＜MC-C＞」。光学ドライブとの一体感も高い",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/127/H07.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432120.html",
+          "author": null,
+          "description": "第12世代Coreプロセッサに対応するASRockのマザーボードを対象に、Amazonにて割引クーポンが提供されている。「Z690 Steel Legend WiFi 6E/D5」では、5,000円オフのクーポンを利用でき、4万141円での購入が可能だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432120.html",
+          "publishedOn": "2022-08-15T00:58:55.000Z",
+          "wordCount": 5037,
+          "title": "本日みつけたお買い得品ASRockのZ690マザーが5千円引きで販売中。Amazonセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/120/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432118.html",
+          "author": null,
+          "description": "Amazonにて、バッファローのWi-Fi 6ルーターが割り引き価格で販売中だ。「WSR-1800AX4S」の場合、10%オフにあたる880円引きにより、7,920円にて購入できる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432118.html",
+          "publishedOn": "2022-08-15T00:51:08.000Z",
+          "wordCount": 5025,
+          "title": "本日みつけたお買い得品バッファローのWi-Fi 6ルーターが10%オフ。Amazonセール",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/118/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432113.html",
+          "author": null,
+          "description": "第12世代Core i7を搭載するMSIのゲーミングノートPC「Katana GF66 12U」が、Amazonにて大幅な値引きとなっている。直近の販売価格から2万6,732円の値引きにより、22万3,068円で購入可能だ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/1432113.html",
+          "publishedOn": "2022-08-15T00:37:06.000Z",
+          "wordCount": 5067,
+          "title": "本日みつけたお買い得品Amazonにて、RTX 3070 Ti採用のゲーミングノートが2万6千円以上オフ",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/113/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1432040.html",
+          "author": null,
+          "description": "LattePandaは、Jasper Lake世代のCeleron N5105を搭載したボードコンピュータ「LattePanda 3 Delta」を発売した。価格は279ドル。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1432040.html",
+          "publishedOn": "2022-08-14T21:10:00.000Z",
+          "wordCount": 5051,
+          "title": "Jasper Lake搭載で性能倍増のボードコンピュータ「LattePanda 3 Delta」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/040/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/dekirunet/1432034.html",
+          "author": null,
+          "description": "新型コロナウイルス感染症の第7波の中、2022年のお盆休みシーズンを迎えます。新型コロナウイルス接触確認アプリ「COCOA」からの通知が何もなく、本当に動作しているのか心配なら、スマホでログを分析できる「COCOAログ.jp」を使ってみましょう。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/dekirunet/1432034.html",
+          "publishedOn": "2022-08-14T21:00:00.000Z",
+          "wordCount": 5008,
+          "title": "【本日のできるネット】新型コロナ陽性者との接触状況を詳しく知りたい！ スマホでログを分析できる「COCOAログ.jp」の使い方",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1432/034/01.png"
+        },
         {
           "id": "https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1432015.html",
           "author": null,
