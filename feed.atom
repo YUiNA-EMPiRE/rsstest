@@ -2,10 +2,648 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YUiNA-EMPiRE.github.io/rsstest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-22T04:53:08.958Z</updated>
+    <updated>2022-08-23T05:05:31.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://YUiNA-EMPiRE.github.io/rsstest/index.html"/>
     <link rel="self" href="https://YUiNA-EMPiRE.github.io/rsstest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カシオ、ベゼルとバンドが一体の新構造G-SHOCK]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1434005.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1434005.html"/>
+        <updated>2022-08-23T04:39:01.000Z</updated>
+        <summary type="html"><![CDATA[カシオ計算機株式会社は、ベゼルとバンドが一体の腕時計「GA-B001」シリーズと「B001G」シリーズを9月23日に発売する。前者は色にブラックとレッドを用意し、価格が1万7,600円、後者は色にブラック×レッドとブラック×ブルーを用意し、価格が1万9,800円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北欧発、たった62gの無線ゲーミングマウス。Xtrfyから]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433977.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433977.html"/>
+        <updated>2022-08-23T04:24:06.000Z</updated>
+        <summary type="html"><![CDATA[テクテク株式会社は、スウェーデンのゲーミング機器メーカー「Xtrfy」(エクストリファイ)製のゲーミングマウス「MZ1 ワイヤレス RGB 左右対称 超軽量 ゲーミングマウス」を発売した。価格は1万7,386円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft To-Do」のAndroid版にチェックリスト候補の自動提案機能／メモがリッチテキストに対応し、ウィジェットのカスタマイズ機能も拡充]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1433996.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1433996.html"/>
+        <updated>2022-08-23T04:21:11.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは8月19日（現地時間）、タスク管理アプリ「Microsoft To-Do」のAndroid版に実装した3つの新機能を解説したブログ記事を公開した。現在、Androidアプリ版の最新バージョンは8月10日付で配信されたv2.76.320.02となっている。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VESA、モニターのぼやけ具合を評価する新指標「ClearMR」]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433985.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433985.html"/>
+        <updated>2022-08-23T04:05:33.000Z</updated>
+        <summary type="html"><![CDATA[VESA(Video Electronics Standards Association)は22日(米国時間)、モニターのモーションブラーを評価するための指標「ClearMR」を発表した。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation VR2、2023年初頭発売と公式発表]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433961.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433961.html"/>
+        <updated>2022-08-23T03:27:42.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ソニー・インタラクティブエンタテインメントは23日、家庭用ゲーム機「PlayStation」向けのVRヘッドセット「PlayStation VR2」を2023年初頭に発売することを明らかにした。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEC PC、10.1型Androidタブレット「LAVIE Tab T10」]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433944.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433944.html"/>
+        <updated>2022-08-23T03:18:16.000Z</updated>
+        <summary type="html"><![CDATA[NECパーソナルコンピュータ株式会社(NEC PC)は、Androidタブレット「LAVIE Tab T10(T1055/EAS)」を発表、25日から発売する。直販価格は3万7,180円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相後援会長は統一教会系団体の議長だった | 週刊文春 電子版]]></title>
+        <id>https://bunshun.jp/denshiban/articles/b3841</id>
+        <link href="https://bunshun.jp/denshiban/articles/b3841"/>
+        <updated>2022-08-23T03:16:37.000Z</updated>
+        <summary type="html"><![CDATA[文鮮明が提唱した統一世界実現のための「日韓トンネル」。その名目で巨額の献金も集めてきた。実現を目指す会議のトップは岸田首相誕生のキーマンだった。 ▶岸田首相は総裁選前に教団関連雑誌に… ▶岸田地元選対責任者、“秘蔵っ子議員”も密接交際 ▶萩生田政調会長を熱烈支援する文鮮明の親族 その会合は、最高権力者のポ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PC用トレイなどをモジュールで拡張できる幅広昇降デスク]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433934.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433934.html"/>
+        <updated>2022-08-23T03:02:53.000Z</updated>
+        <summary type="html"><![CDATA[PREDUCTS株式会社は、モジュール式拡張デスクの「PREDUCTS DESK」から、DESK - POLARのワイドモデルの受注販売を開始した。価格は11万8,800円から。8月31日まで注文を受け付ける。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KSY、Raspberry Pi製品の販売に制限]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433929.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433929.html"/>
+        <updated>2022-08-23T02:48:10.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ケイエスワイ(KSY)は、RS Groupの製造ライセンス終了によるRaspberry Pi製品の供給終了に伴う公認販売代理店としての対応について案内した。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NISAの投資上限引き上げへ、恒久化も検討　金融庁要望]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUA2301C0T20C22A8000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUA2301C0T20C22A8000000/"/>
+        <updated>2022-08-23T02:36:42.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 金融庁は2023年度の税制改正要望に個人が少額投資非課税制度（NISA）を使って投資できる上限を引き上げる措置を盛り込む。年間投資枠が120万円で期間が5年の一般NISAや...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日本人はおいしいものを知らない」中国で大人気のザリガニを追う（毎日新聞） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/39e7f36f7d34f24d4e267b499407650497db3969</id>
+        <link href="https://news.yahoo.co.jp/articles/39e7f36f7d34f24d4e267b499407650497db3969"/>
+        <updated>2022-08-23T02:29:05.000Z</updated>
+        <summary type="html"><![CDATA[さまざまな方法で調理されたザリガニ料理＝中国湖北省潜江市で2022年7月14日午後6時15分、岡崎英遠撮影 アメリカザリガニは日本で生態系などに被害を及ぼす外来生物として規制する対象だが、中国では近年、夏の味覚として人気だ。飲食など関連産業を含めた市場規模は4200億元（約8・4兆円）に上る。日本の国会がアメリカ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UGREEN、Type-C×2搭載で最大45W出力の小型USB PD充電器]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433906.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433906.html"/>
+        <updated>2022-08-23T02:23:21.000Z</updated>
+        <summary type="html"><![CDATA[UGREENは、USB Type-Cポートを2基搭載した45W出力対応の小型USB充電器「Nexode Mini 45W」を発売した。価格は3,980円だが、発売を記念して30%オフクーポン「UGREEN45WPD」をAmazonにて配布しており、2,786円にて購入できる。期間は8月26日まで。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「落合南長崎」には、弱いわたしが都会でなんとか生きるために必要な環境が全てそろっている | 文・ニシダ（ラランド） - SUUMOタウン]]></title>
+        <id>https://suumo.jp/town/entry/ochiaiminaminagasaki-nishida/</id>
+        <link href="https://suumo.jp/town/entry/ochiaiminaminagasaki-nishida/"/>
+        <updated>2022-08-23T02:00:05.000Z</updated>
+        <summary type="html"><![CDATA[著： ニシダ（ラランド） 親に勘当されたわたしが流れ着いたのは 落合南長崎に住み始めて約二年になる最近、引越しを考えている。 彼女と二人で1Kのけして広くはない部屋で暮らしている。向こうが一人で住む家に、わたしが転がり込んだ形だ。「野良猫を構ってやったら住み着いた」みたいなものだと思ってほしい。 その前...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レノボ、1kg切りでタッチ対応も選べる13.3型薄型モバイルノート]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433667.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433667.html"/>
+        <updated>2022-08-23T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[レノボ・ジャパン合同会社は、軽量薄型の13.3型モバイルノート「Yoga Slim 770i Carbon」を発表した。発売は9月2日を予定している。本体色はムーンホワイト(タッチ対応、量販店モデル)、オニキスグレー(タッチ非対応、直販モデル)の2種類で、価格は前者がオープンプライス、後者が18万円前後の見込み。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[話題のStable Diffusionがオープンソース化されたのでローカルで動かしてみる]]></title>
+        <id>https://zenn.dev/koyoarai_/articles/02f3ed864c6127bb2049</id>
+        <link href="https://zenn.dev/koyoarai_/articles/02f3ed864c6127bb2049"/>
+        <updated>2022-08-23T01:47:05.000Z</updated>
+        <summary type="html"><![CDATA[1. 環境 Razer Blade (RTX 2070) CUDA Toolkit 11.3 https://developer.nvidia.com/cuda-11-3-1-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_network Anaconda https://www.anaconda.com/products/distribution ※ 環境構築はこちらの記事が参考になりそうです。 2. セッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7連装CDチェンジャー付き光学ドライブ「MBR-7.4」（1995年頃～）：ロストメモリーズ File004 | TechnoEdge テクノエッジ]]></title>
+        <id>https://www.techno-edge.net/article/2022/08/23/200.html</id>
+        <link href="https://www.techno-edge.net/article/2022/08/23/200.html"/>
+        <updated>2022-08-23T01:24:09.000Z</updated>
+        <summary type="html"><![CDATA[[名称] 多連装CD-ROMドライブ （製品名） Nakamichi MBR-7.4 [種類] 光ディスク [記録方法] ---- [容量] 最大7枚 [サイズ] 195×320×95mm [接続] SCSI-2 [電源] 100V AC [登場年] 1995年頃～ ひとつ、またひとつと消えていき、記憶からも薄れつつあるリムーバブルメディア。この連載では、ゆるっと集めているメディアやド...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel、Core i9-12900Kのボックスを小型化]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433886.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433886.html"/>
+        <updated>2022-08-23T01:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Intelは19日(現地時間)、第12世代Core i9-12900Kのボックスパッケージを変更すると発表した。Core i9-12900Kの現行パッケージにはプロセッサのウェハを象った金色のプラケースが付属しているが、これを廃止し、Core i7以下の現行パッケージと同様のボックスに置き換える。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国 長江 猛暑で水位低下し仏像現れる 約600年前の制作か | NHK]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220823/k10013783231000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220823/k10013783231000.html"/>
+        <updated>2022-08-23T01:06:39.000Z</updated>
+        <summary type="html"><![CDATA[記録的な暑さとなっている中国では、猛暑と干ばつにより水位が低下した川で、およそ600年前に制作されたとみられる3体の仏像が現れ、話題になっています。 ロイター通信によりますと、仏像が見つかったのは、中国内陸部 重慶を流れる長江の岩礁で、通常は水の底に沈んでいる場所だということです。 水位の低下によって、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品NTT-X、デジタルペン付属の2in1タブレットを1万2千円切りで販売]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1433881.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1433881.html"/>
+        <updated>2022-08-23T00:42:15.000Z</updated>
+        <summary type="html"><![CDATA[NTT-X Storeは、マウスコンピューターの2in1タブレットPC「mouse E10-VL」を対象に、会員限定の1,000円引きクーポンを提供している。クーポンの適用により、1万1,980円にて購入が可能である。期限は8月28日23時59分まで。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫画アプリ「ピッコマ」が日本上場へ、時価総額8000億円超も－関係者]]></title>
+        <id>https://www.bloomberg.co.jp/news/articles/2022-08-22/RGHABST0G1KW01</id>
+        <link href="https://www.bloomberg.co.jp/news/articles/2022-08-22/RGHABST0G1KW01"/>
+        <updated>2022-08-23T00:34:47.000Z</updated>
+        <summary type="html"><![CDATA[韓国のメッセージアプリ大手カカオの日本法人で、漫画アプリの「ピッコマ」を手掛けるカカオピッコマ（東京都港区、金在龍社長）が2023年上期（１－６月期）にも新規株式公開（ＩＰＯ）を行う考えであることが複数の関係者への取材で分かった。 関係者らによると、カカオピッコマの上場先は東京証券取引所で、時価総額は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品Xiaomiのスマートバンドが10%オフ。Amazonでセール中]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1433879.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1433879.html"/>
+        <updated>2022-08-23T00:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazonにて、スマートバンド/ウォッチがお買い得となっている。Xiaomiの「Mi スマートバンド 6」では、10%オフのクーポンが用意されており、5,391円にて購入が可能だ。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップデート情報】パッケージ・ドライバー関連　8月23日　～アイ・オー・データ機器など]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/update/driver/1433866.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/update/driver/1433866.html"/>
+        <updated>2022-08-23T00:30:00.000Z</updated>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本日みつけたお買い得品Surface Laptop 4が2万円以上の値引き。Officeも搭載。Amazonセール]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/todays_sales/1433874.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/todays_sales/1433874.html"/>
+        <updated>2022-08-23T00:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Amazonにて、MicrosoftのノートPC「Surface」シリーズに割引クーポンが提供されている。「Surface Laptop 4」の場合、10%オフのクーポンを利用でき、19万4,832円での購入が可能だ。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「クリスタ」の次期バージョンv2.0は2023年前半リリース、サブスクリプションが基本に／買い切り版も存続]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1433870.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1433870.html"/>
+        <updated>2022-08-23T00:16:04.000Z</updated>
+        <summary type="html"><![CDATA[（株）セルシスは8月22日、定番ペイントソフト「CLIP STUDIO PAINT」（クリスタ）の次期バージョンv2.0を2023年前半にリリースすると発表した。これに伴い、バージョンの体系と提供形態が一部変更されるという。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[66分かかる同期処理を10分以内に短縮せよ！～商品情報同期システムでの、処理速度と運用の改善～ - MonotaRO Tech Blog]]></title>
+        <id>https://tech-blog.monotaro.com/entry/2022/08/23/090000</id>
+        <link href="https://tech-blog.monotaro.com/entry/2022/08/23/090000"/>
+        <updated>2022-08-23T00:07:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この記事では、モノタロウの基幹系を構成するシステムの一つである、商品情報管理システム（PIM：Product Information Management システム）の導入プロジェクトで、商品情報を基幹系と同期するシステム（商品情報同期機能）の性能や運用環境の改善を行った話をご紹介します。 背景 モノタロウの基幹系は、長年...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[すべてが成長する時代は終わり、素晴らしい停滞の時代が始まる──『Slowdown 減速する素晴らしき世界』 - 基本読書]]></title>
+        <id>https://huyukiitoichi.hatenadiary.jp/entry/2022/08/23/080000</id>
+        <link href="https://huyukiitoichi.hatenadiary.jp/entry/2022/08/23/080000"/>
+        <updated>2022-08-22T23:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Ｓｌｏｗｄｏｗｎ　減速する素晴らしき世界 作者:ダニー・ドーリング東洋経済新報社Amazonこの『Slowdown 減速する素晴らしき世界』は、世界人口の増加も、経済の発展も、平均寿命も、負債も、技術革新も、すべての「加速」が終わって減速、あるいは停滞に向かうことを各種データから示していく一冊だ。加速する世界がい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本語で指示するだけでAIが作画する無料Webサービスを公開しました #Stable Diffusion｜shi3z｜note]]></title>
+        <id>https://note.com/shi3zblog/n/n0e8be0db9100</id>
+        <link href="https://note.com/shi3zblog/n/n0e8be0db9100"/>
+        <updated>2022-08-22T22:59:42.000Z</updated>
+        <summary type="html"><![CDATA[夜更かしをしていたらすごい勢いでStable Diffusionが落ちてきて、あまりにうれしいのでこの喜びを皆様と分かち合いたく、無償で公開します。 使い方低コスト運用ですので、テキストボックスに文字を入力したあと、Requestボタンを押して、しばらくしたらリロードしてみるとどこかに自分の入れたものが表示されているは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[息子の夏休みの宿題で気づいた、日本の水産業の“異常”とは？マルハニチロ・片野歩さんが業界に「警鐘」を鳴らし続けた思い]]></title>
+        <id>https://www.huffingtonpost.jp/entry/story_jp_62ff3380e4b0a85a819a8a1d</id>
+        <link href="https://www.huffingtonpost.jp/entry/story_jp_62ff3380e4b0a85a819a8a1d"/>
+        <updated>2022-08-22T22:38:39.000Z</updated>
+        <summary type="html"><![CDATA[息子の夏休みの宿題で気づいた、日本の水産業の“異常”とは？マルハニチロ・片野歩さんが業界に「警鐘」を鳴らし続けた思い]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アップデート情報】窓の杜収録ソフト　8月23日　～「Microsoft Edge」や「PeaZip」など]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/update/library/1433766.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/update/library/1433766.html"/>
+        <updated>2022-08-22T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[180以上のファイル形式をサポートしたオープンソースの圧縮・解凍ソフト]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUMMER SONIC 2022で観たヤツのこと - WASTE OF POPS 80s-90s]]></title>
+        <id>https://www.wasteofpops.com/entry/2022/08/22/000000</id>
+        <link href="https://www.wasteofpops.com/entry/2022/08/22/000000"/>
+        <updated>2022-08-22T21:58:34.000Z</updated>
+        <summary type="html"><![CDATA[3年ぶりのサマーソニックですよ。 もうあんまり無理はできないお年頃なので、きちんと2月の時点で千葉市内に宿を取り、かつ現場でも頑張りすぎないプランを検討した結果、今回はBEACH STAGEは全無視する方針を決定。だって遠いんだもの。 1日目はメッセとスタジアム1往復で済み、2日目はおよそメッセ内で完結する形でプ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本製の「Firefox」強化版「Floorp」は標準装備でも使い勝手良好でカスタマイズ性も強力／縦型のツリータブやページ翻訳、QRコード表示機能などを初期状態で搭載【レビュー】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/review/1433448.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/review/1433448.html"/>
+        <updated>2022-08-22T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[「Floorp」は、「Firefox」をベースに機能を強化したWebブラウザー。Windows/macOS/Linuxで動作し、Windows版はWindows 10/11に対応している。公式サイトから無料でダウンロードできる。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi、超薄型でライカカメラ搭載の折りたたみスマホ]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433830.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433830.html"/>
+        <updated>2022-08-22T21:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomiは11日(中国時間)、フォルダブルスマートフォンのフラグシップモデル「MIX Fold 2」を発表した。日本での発売は未定。価格は8,999元(約18万円)から。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【大原雄介の半導体業界こぼれ話】GlobalFoundries、無償でカスタムASICが作れるOpen Source Silicon Initiativeに参加]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/tidbit/1433235.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/tidbit/1433235.html"/>
+        <updated>2022-08-22T21:14:00.000Z</updated>
+        <summary type="html"><![CDATA[今月はあんまり変な枕を入れずに、いきなり本題。8月3日、GlobalFoundries(GF)が、GoogleのOpen Source Silicon Initiativeに参加したことが発表された。ただGoogle側のリリースだけで、GFはこの件に関して特にリリースを出していないあたりに、ちょっと温度差を感じなくはないのだが。もっともこの時期GFにとってはCHIPS Actの動向の方が重要だった、という話はもちろんあるのだが。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガチくんに! 第233回 ガチ/カワノの覇者2人が視聴者とラウンジ対戦]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433863.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433863.html"/>
+        <updated>2022-08-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※毎週金曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイターV攻略企画「ガチくんに!」をTwitchで配信しています。レギュラー出演者はカワノ、ぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードしたアーカイブの動画を掲載しています。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【本日のできるネット】エクセル関数の入力方法は5つあるって知ってた？ すべてを知ったうえで正確に入力しよう【Excel講師の仕事術】]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/dekirunet/1433810.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/dekirunet/1433810.html"/>
+        <updated>2022-08-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Excelでの業務に欠かせない関数ですが、入力方法が5通りあることを知っていますか？ Excelでもっとも重要なのは、正確な数値と正確な操作です。それぞれの入力方法を理解しつつ、自分にあった方法で入力しましょう。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杉田氏らの起用　差別発言は不問なのか：中日新聞Web]]></title>
+        <id>https://www.chunichi.co.jp/article/531405</id>
+        <link href="https://www.chunichi.co.jp/article/531405"/>
+        <updated>2022-08-22T20:47:43.000Z</updated>
+        <summary type="html"><![CDATA[岸田文雄首相がＬＧＢＴなど性的少数者への差別的な発言が問題になった衆院議員二人を政務官と副大臣に起用した。差別的発言を不問に付し、政権が掲げる多様性の尊重に疑問符が付く人事だ。直ちに見直すべきである。 首相は内閣改造に伴い、総務政務官に杉田水脈（みお）氏（比例中国、当選三回）＝写真、文部科学副大臣...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[田中角栄は｢赤字ローカル線｣をどう考えていたか]]></title>
+        <id>https://toyokeizai.net/articles/-/611246</id>
+        <link href="https://toyokeizai.net/articles/-/611246"/>
+        <updated>2022-08-22T19:32:23.000Z</updated>
+        <summary type="html"><![CDATA[1972年6月に刊行された『日本列島改造論』で、田中角栄は日本における鉄道の重要性を説いていました。全国を新幹線ネットワークで結ぶ構想を提唱したのが田中角栄であることはよく知られていますが、地方の鉄道路線についてはどう考えていたのか。作家の小牟田哲彦氏が新著、『「日本列島改造論」と鉄道』（交通新聞社新...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable Diffusion Public Release — Stability.Ai]]></title>
+        <id>https://stability.ai/blog/stable-diffusion-public-release</id>
+        <link href="https://stability.ai/blog/stable-diffusion-public-release"/>
+        <updated>2022-08-22T19:17:03.000Z</updated>
+        <summary type="html"><![CDATA[It is our pleasure to announce the public release of stable diffusion following our release for researchers [https://stability.ai/blog/stable-diffusion-announcement] Over the last few weeks we all have been overwhelmed by the response and have been working hard to ensure a safe and ethical releas...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[若い頃は夜行バスでの移動が好きだった。]]></title>
+        <id>https://anond.hatelabo.jp/20220822215327</id>
+        <link href="https://anond.hatelabo.jp/20220822215327"/>
+        <updated>2022-08-22T18:08:49.000Z</updated>
+        <summary type="html"><![CDATA[東京駅の八重洲南口と、地元の西日本某県庁所在地との間を往復しているやつ。前日の夕方に地元を出発して、一晩かけて東京駅に到着する頃には、ちょうど東京駅は朝の通勤ラッシュの時間帯。都会の人波に圧倒されながら、立ち食いそばで朝食を済ませる。 東京での用事を済ませたら、東京駅の地下街で晩御飯として、普段暮...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近質が低いサイトが多くてGoogle離れが加速している→ではみんな何で検索しているのか？]]></title>
+        <id>https://togetter.com/li/1934158</id>
+        <link href="https://togetter.com/li/1934158"/>
+        <updated>2022-08-22T16:33:03.000Z</updated>
+        <summary type="html"><![CDATA[フーミン @FumingChrome 最近の検索ではGoogle離れが加速していると聞くが、その理由がわかった。 例えばさっき、通学用のリュックを検索したが上位に出てくるのは「リュックの選び方おすすめ15選」的なもの。内容を見るとほとんどがリンク切れ。さらに 2022-08-22 10:57:25 フーミン @FumingChrome そもそもの話だが、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、Amazon S3やEFSを爆速にする「Amazon File Cache」発表。複数のストレージを単一のビューでアクセス可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsamazon_s3ebsamazon_file_cache.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsamazon_s3ebsamazon_file_cache.html"/>
+        <updated>2022-08-22T15:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、8月10日に開催したオンラインイベント「AWS Storage Day 2022」で、新サービス「Amazon File Cache」を発表しました。 Amazon File Cacheはその名の通りAWSで利用できる高速なファイルベースのキャッシュです。特徴は2つあります。 1つ目は、ミリ秒以下のレイテンシと数百ギガバイト/秒の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[1話]長谷川智広の帰ってきたデジタル作画奮闘記～アンリアルエンジン編～ - 長谷川智広 | 少年ジャンプ＋]]></title>
+        <id>https://shonenjumpplus.com/episode/3270375685439979021</id>
+        <link href="https://shonenjumpplus.com/episode/3270375685439979021"/>
+        <updated>2022-08-22T15:07:40.000Z</updated>
+        <summary type="html"><![CDATA[長谷川智広の帰ってきたデジタル作画奮闘記～アンリアルエンジン編～ 長谷川智広 文明から孤立していた稀代のギャグ漫画家・長谷川智広先生が、ジャンプ編集部の策略によりデジタル作画の最先端「3D作画」に挑戦することに。デジタル作画に興味ある人必見！底辺から頂点を目指すルポ漫画!!]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel、Meteor Lakeで3Dチップレット技術を採用。計画通り2023年登場]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433845.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433845.html"/>
+        <updated>2022-08-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intelは、8月22日(現地時間)から行なわれる半導体設計に関する学会「HotChips」にて、同社が2023年に導入を計画しているクライアント向けSoC「Meteor Lake」(メテオレイク)の概要を明らかにする。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旭川市の「家庭教育支援条例」停滞必至　東氏会長の制定目指す会が旧統一教会と接点：北海道新聞 どうしん電子版]]></title>
+        <id>https://www.hokkaido-np.co.jp/article/720763</id>
+        <link href="https://www.hokkaido-np.co.jp/article/720763"/>
+        <updated>2022-08-22T14:36:44.000Z</updated>
+        <summary type="html"><![CDATA[旭川家庭教育を支援する会が５月に行った静岡県議の講演会のチラシ。事務局次長だった旧統一教会会員の連絡先が記されている（写真を一部加工しています） 自民党の東国幹衆院議員（衆院道６区）が会長を務める「旭川家庭教育を支援する会」と、世界平和統一家庭連合（旧統一教会）の一定の関係性が明らかになったことを...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幸村誠×諫山創が初対談！互いをリスペクトし合う2人が「ヴィンランド・サガ」を語り合う - コミックナタリー 特集・インタビュー]]></title>
+        <id>https://natalie.mu/comic/pp/vinlandsaga</id>
+        <link href="https://natalie.mu/comic/pp/vinlandsaga"/>
+        <updated>2022-08-22T14:31:48.000Z</updated>
+        <summary type="html"><![CDATA[ナタリー コミック 特集・インタビュー 幸村誠×諫山創が初対談！互いをリスペクトし合う2人が「ヴィンランド・サガ」を語り合う TVアニメ「ヴィンランド・サガ」 PR 2022年8月22日 11世紀初頭の北ヨーロッパを舞台に、熱きヴァイキングたちの生き様を描いたマンガ「ヴィンランド・サガ」。少年・トルフィンは、目の前で...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone買った、ガジェットとしてかなり良い - Lambdaカクテル]]></title>
+        <id>https://blog.3qe.us/entry/my-super-duper-cool-nothing-phone</id>
+        <link href="https://blog.3qe.us/entry/my-super-duper-cool-nothing-phone"/>
+        <updated>2022-08-22T13:13:12.000Z</updated>
+        <summary type="html"><![CDATA[日本でも結構話題になってたと思うけど、Nothing Phoneが最近ようやく日本でも発売開始されて、それなりに流通しだしている。 自分はいちはやくゲットしたかったのでスペインのAmazonで購入したんだけど、スペイン人がのんびりしているのか、なんの事情があるのか、結局日本発売よりも遅いタイミングで到着してしまった...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナでも公務の首相に「率先して休む方がいい」　共産・小池氏：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASQ8Q6DVSQ8QUTFK018.html</id>
+        <link href="https://www.asahi.com/articles/ASQ8Q6DVSQ8QUTFK018.html"/>
+        <updated>2022-08-22T13:00:37.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの感染が判明したばかりの岸田文雄首相が在宅で公務復帰したことについて、共産党の小池晃書記局長は22日の記者会見で、「コロナは大した病気ではないというメッセージになってしまうとまずい。感染したら率先して休む方が国民へのメッセージとしてはいい」と述べた。 首相は20日夜から微熱やせ…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インターネット番組「ポリタスTV」の出演休止/降板について]]></title>
+        <id>https://kyokotominaga.com/politas/</id>
+        <link href="https://kyokotominaga.com/politas/"/>
+        <updated>2022-08-22T12:56:07.000Z</updated>
+        <summary type="html"><![CDATA[2021年4月から隔週で、津田大介さんが務めるインターネット報道番組「ポリタスTV」に隔週で出演したのですが、8月をもって降板する（ウェブ番組でこういう言い方が正しいのかどうかわかりませんが）ことになりました。番組では「休止」とありますが、レギュラーとしては復帰の可能性が薄いので主観的な表現として「降板...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧統一教会との関係“閣僚らが絶つよう徹底が重要” 岸田首相 | NHK]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220822/k10013783111000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220822/k10013783111000.html"/>
+        <updated>2022-08-22T12:49:01.000Z</updated>
+        <summary type="html"><![CDATA[旧統一教会との関係をめぐって、岸田総理大臣は22日夜、政府が疑念を持たれないよう、閣僚らが関係を絶つよう徹底していくことが重要だという認識を示しました。 岸田総理大臣は、新型コロナに感染したため、22日夜、オンラインで取材に応じました。 この中で、旧統一教会と閣僚らとの関係が明らかになっていることにつ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ひとつマジレスするとな この傾向は1970年代のロボットアニメの時代からあっ..]]></title>
+        <id>https://anond.hatelabo.jp/20220822202356</id>
+        <link href="https://anond.hatelabo.jp/20220822202356"/>
+        <updated>2022-08-22T12:21:36.000Z</updated>
+        <summary type="html"><![CDATA[ひとつマジレスするとな この傾向は1970年代のロボットアニメの時代からあって 『超電磁マシーン ボルテスV』（1977年）のプリンス・ハイネルだの 『闘将ダイモス』（1978年）のリヒテルだの当時の女子にすごく人気があった 老害じじいの回顧になるが、当時から主人公側のキャラってのは 正義の建前があるからあんまり個...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲームシステムを高速化する社内ノウハウを無償公開　Unityエンジニア向けに　サイバーエージェント]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2208/22/news185.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2208/22/news185.html"/>
+        <updated>2022-08-22T12:01:03.000Z</updated>
+        <summary type="html"><![CDATA[社外への公開を決めた理由について同社は「内容は十分に汎用的であらゆるモバイルゲーム開発で役立つ知識がまとまっている。モバイルゲーム業界全体としてよりオープンでより良いモノ作りができる環境づくりの一助となればと、無料で公開を決めた」と説明している。 オープンソース化の理由については「パフォーマンスチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八木啓代のひとりごと 本当に怖い統一教会の実態 〜　ラテンアメリカでの暗躍]]></title>
+        <id>http://nobuyoyagi.blog16.fc2.com/blog-entry-803.html</id>
+        <link href="http://nobuyoyagi.blog16.fc2.com/blog-entry-803.html"/>
+        <updated>2022-08-22T11:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Twitterでは文字数制限があるので、少しまとめて、中南米での統一教会の活動について書こうと思う。 もともと、私は統一教会ウォッチャーではない。学生時代、「原理研に引っかかるとヤバい」という知識を持っていたぐらいだ。それが、これホントに、相当にヤバい団体ではないかと思うようになったのは、ラテンアメリカ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いつも「ここにいちゃいけない」気がする]]></title>
+        <id>https://anond.hatelabo.jp/20220822194538</id>
+        <link href="https://anond.hatelabo.jp/20220822194538"/>
+        <updated>2022-08-22T11:32:41.000Z</updated>
+        <summary type="html"><![CDATA[なんでかわからないのだけれど、いつも「ここにいちゃいけない」気がする。 本当は私はここにいてはいけないし、みんな早く出ていかないかなあと思っているのだけれど、まあなんか色々理由があってどうにかここにいさせてもらっている気がする。 職場は「上司が採用しちゃったから仕方なく」「辞めさせたら自分の仕事が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東映との闘いの一年間のまとめ（長時間労働・残業代不払・セクハラについて）｜総合サポートユニオン｜note]]></title>
+        <id>https://note.com/sguion/n/n2c706ee288bf</id>
+        <link href="https://note.com/sguion/n/n2c706ee288bf"/>
+        <updated>2022-08-22T10:17:23.000Z</updated>
+        <summary type="html"><![CDATA[◯はじめに私は東映株式会社に入社し、制作現場でパワハラ・セクハラ・過重労働の被害に遭い、適応障害で休職をしています。 休職期間中は、精神科やカウンセリングに通いながら、総合サポートユニオンに加盟し、東映と交渉を行ってきました。 総合サポートユニオンに加入し、交渉することを選んでから、約１年が経ったの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[くらみか®︎ on Twitter: "２５歳。高級外車に乗ってる人からデートのお誘い。家までお迎えに来てくれてエスコートは完璧。フレンチの店に着き、助手席のドアを開けたらお隣の車とタイミングがあっちゃった。『コツン』と音がしたと同時に、血相を変えた彼。急に扱いが冷たくなったのを感じ、車に見合った器が大事って学んだわ。"]]></title>
+        <id>https://twitter.com/mikaishikura/status/1561463164218527744</id>
+        <link href="https://twitter.com/mikaishikura/status/1561463164218527744"/>
+        <updated>2022-08-22T09:58:39.000Z</updated>
+        <summary type="html"><![CDATA[２５歳。高級外車に乗ってる人からデートのお誘い。家までお迎えに来てくれてエスコートは完璧。フレンチの店に着き、助手席のドアを開けたらお隣の車とタイミングがあっちゃった。『コツン』と音がしたと同時に、血相を変えた彼。急に扱いが冷たくなったのを感じ、車に見合った器が大事って学んだわ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遠隔診療のため幼児の股間を撮影した父親、Googleアカウントを永久消去される | TechnoEdge テクノエッジ]]></title>
+        <id>https://www.techno-edge.net/article/2022/08/22/198.html</id>
+        <link href="https://www.techno-edge.net/article/2022/08/22/198.html"/>
+        <updated>2022-08-22T09:39:29.000Z</updated>
+        <summary type="html"><![CDATA[怖い実話としてよく耳にする「ある日突然Goolgeアカウントから締め出され、抗議しても泣き寝入り」にこれまた強烈な例がありました。 遠隔診療のため医療機関の指示で幼児の生殖器の写真を送信した父親が、Googleから「有害なコンテンツ」のアップロードを理由にアカウント停止処分と当局への通報を受け、捜査の結果警察...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料公開】社内研修書籍『Unity パフォーマンスチューニングバイブル』のPDF公開&オープンソース化しました！ | CyberAgent Developers Blog]]></title>
+        <id>https://developers.cyberagent.co.jp/blog/archives/37085/</id>
+        <link href="https://developers.cyberagent.co.jp/blog/archives/37085/"/>
+        <updated>2022-08-22T09:27:28.000Z</updated>
+        <summary type="html"><![CDATA[【無料公開】社内研修書籍『Unity パフォーマンスチューニングバイブル』のPDF公開&オープンソース化しました！ ゲーム・エンターテイメント事業部では、社内研修用の書籍『Unity パフォーマンスチューニングバイブル』のPDFを公開し、同時にオープンソース化しました。 本記事ではこの書籍の概要とダウンロード方法、オ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[徳島発の移動スーパー、ローテクの高齢者支え拡大　国がハイテク起業促すなか - BBCニュース]]></title>
+        <id>https://www.bbc.com/japanese/video-62628715</id>
+        <link href="https://www.bbc.com/japanese/video-62628715"/>
+        <updated>2022-08-22T08:59:05.000Z</updated>
+        <summary type="html"><![CDATA[創業した10年前はたった2台だった販売トラックは、今年1000台を突破した。事業は日本全国に拡大し、年間売上高は200億円に到達した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VMware Workstation」にパスワード開示の脆弱性。深刻度は「Moderate」　ほか【ダイジェストニュース】]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/digest/1433797.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/digest/1433797.html"/>
+        <updated>2022-08-22T08:48:57.000Z</updated>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「史上最長の死刑」死刑囚が3時間苦悶、遺体の肉は裂け...人権団体が糾弾]]></title>
+        <id>https://www.newsweekjapan.jp/stories/world/2022/08/3-342.php</id>
+        <link href="https://www.newsweekjapan.jp/stories/world/2022/08/3-342.php"/>
+        <updated>2022-08-22T08:29:25.000Z</updated>
+        <summary type="html"><![CDATA[＜密室で行われる残酷な処刑がアメリカで問題に。矯正局は、腕の肉を切り込んで静脈を探した疑いがもたれている＞ 米アラバマ州の刑務所にて7月、収監されていた死刑囚が処刑された。執行から2週間以上が経過した8月中旬になって、刑務所側の不手際により刑の執行準備に3時間以上を要していたことが発覚している。 この...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLIP STUDIO PAINT、2023年登場の新バージョンはサブスクメインに]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433784.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433784.html"/>
+        <updated>2022-08-22T08:16:55.000Z</updated>
+        <summary type="html"><![CDATA[株式会社セルシスは、CLIP STUDIO PAINTのバージョン2.0を2023年前半にリリースすると発表した。あわせて、CLIP STUDIO PAINTバージョン1の無償アップデートによる機能拡張を2022年内で終了する。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11/Server 2022に対応するFAXシステム「STARFAX Server」の最新版が公開／複数回線を運用する業務システム向け3製品が更新]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1433649.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1433649.html"/>
+        <updated>2022-08-22T08:16:22.000Z</updated>
+        <summary type="html"><![CDATA[メガソフト（株）は8月22日、ナンバーディスプレイ情報の取得に対応するFAXシステム「STARFAX」のサーバー向け3製品「STARFAX Server STD」、「STARFAX Server SDK」、「STARFAX Server EX」の最新版を公開した。いずれも価格はオープン価格で、体験版も用意されている（要問合せ）。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユニーク、15cmの高さ/上下210度のチルト調節可能なアームスタンド]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1433737.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1433737.html"/>
+        <updated>2022-08-22T06:33:02.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ユニークは、12.9型までのタブレットに対応するモバイルアームスタンド「ファンタスティックアーム(UMS-FSAT12B)」を9月2日に発売する。価格は5,980円。]]></summary>
+        <author>
+            <name>PC Watch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Sysmon 14.0」が公開、マルウェアの検知・解析だけでなくブロックも可能に／Windows Sysinternalsのシステム監視ツール]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1433726.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1433726.html"/>
+        <updated>2022-08-22T05:49:39.000Z</updated>
+        <summary type="html"><![CDATA[高度なホスト監視ツール「Sysmon 14.0」が8月17日（現地時間）、Microsoftの「Windows Sysinternals」からリリースされた。 Windows 8.1/Server 2012 以降に対応しており、「sysinternals.com」から無償でダウンロードできる。]]></summary>
+        <author>
+            <name>窓の杜</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Office 2016」にVBAマクロを実行できない問題、Microsoftが修正パッチを公開／日本語ファイル・フォルダー名の場合に発生]]></title>
         <id>https://forest.watch.impress.co.jp/docs/news/1433669.html</id>
@@ -147,6 +785,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[正規表現の先読み・後読み]]></title>
+        <id>https://zenn.dev/usamik26/articles/regex-lookahead</id>
+        <link href="https://zenn.dev/usamik26/articles/regex-lookahead"/>
+        <updated>2022-08-22T01:12:20.000Z</updated>
+        <summary type="html"><![CDATA[正規表現の「先読み（lookahead）」「後読み（lookbehind）」について紹介します。 正規表現の「位置へのマッチ」 正規表現は、文字列のパターンマッチに使われます。例えば [0-9]{4} は数字4つが並ぶ文字列にマッチする表現です。 多くの正規表現は「文字列」にマッチしますが、「文字列」ではなく「位置」にマッチする...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 10環境の一部でオーディオが機能しない問題／2022年7月Cリリース「KB5015878」以降で発生]]></title>
         <id>https://forest.watch.impress.co.jp/docs/news/1433529.html</id>
         <link href="https://forest.watch.impress.co.jp/docs/news/1433529.html"/>
@@ -251,6 +899,16 @@
         <link href="https://yusukebe.com/posts/2022/how-i-got-2k-stars/"/>
         <updated>2022-08-21T23:41:21.000Z</updated>
         <summary type="html"><![CDATA[Honoという僕が作っているWebフレームワークのGitHubスター数が2,000に迫ってきた。これまで作ってきたOSSのソフトウェアでは最高で revealgo の221、次点で gh-markdown-preview の134だ。それが一気に2,000である。 もちろん、スターの数がソフトウェアの良し悪しを決めるものではない。 それに2,000はとりわけ多いわ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30代未経験からのエンジニア転職を諦めた話 - マトリョーシカ的日常]]></title>
+        <id>https://matoyomi.hatenablog.com/entry/20220822/1661111764</id>
+        <link href="https://matoyomi.hatenablog.com/entry/20220822/1661111764"/>
+        <updated>2022-08-21T23:29:18.000Z</updated>
+        <summary type="html"><![CDATA[表題の通りである。エンジニアになった話はたくさん見かけるが、諦めた話はあまりない。そういうことなのだろう。少し書くことにした。 エンジニア転職を考えたのはもう3年ほど前になる。昔からプログラミングは興味があり、学生のころもそれらしきことはしていた。ただ、専攻の関係で機械系の今の仕事を選択して、こん...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -18183,26 +18841,6 @@
         <summary type="html"><![CDATA[LGエレクトロニクス・ジャパンは画面比率16:18の27.6型モニター「28MQ780-B」を4月19日に発表、5月16日に販売開始した。本製品はWQHD(2,560×1,440ドット)を縦に2つ並べた「2,560×2,880ドット」という縦長の液晶パネルを採用した新スタイルのモニター。通常スタンドの代わりにアームスタンドが同梱されており、設置自由度の高さも本製品の大きなポイントだ。]]></summary>
         <author>
             <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SofTalkをご利用の皆様へのお知らせ - SofTalk【7/23更新】]]></title>
-        <id>https://w.atwiki.jp/softalk/pages/49.html</id>
-        <link href="https://w.atwiki.jp/softalk/pages/49.html"/>
-        <updated>2022-07-24T14:41:55.000Z</updated>
-        <summary type="html"><![CDATA[日頃よりご愛顧いただき誠にありがとうございます。 SofTalkは、長年AquesTalkに対応してまいりましたが、勝手ながら AquesTalkへの対応を中止させていただくこととしました。 SofTalkのようにAquesTalkを同梱している場合、利用者がAquesTalkの機能を使わずに、 OpenJTalkを商用利用する場合でも、AquesTalkのライセン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022年版ベストプラクティス】AWS IAMまとめ - Qiita]]></title>
-        <id>https://qiita.com/c60evaporator/items/0121399880625cc1de51</id>
-        <link href="https://qiita.com/c60evaporator/items/0121399880625cc1de51"/>
-        <updated>2022-07-24T09:04:46.000Z</updated>
-        <summary type="html"><![CDATA[はじめに AWSのアクセス制御サービスであるIAMについて、2022年7月時点での機能および使用法を、初学者でも理解しやすいことを心掛けてまとめました。 IAMをよく分からないまま適当に設定するとセキュリティ的にまずいので、これを機に設定を見直して頂き、セキュリティレベル向上に貢献できれば幸いです。 特に、後述す...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
 </feed>
