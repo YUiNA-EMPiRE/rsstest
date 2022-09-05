@@ -6,6 +6,386 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.nikkei.com/article/DGXZQOUB316ID0R30C22A8000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら JCBは2023年にも大手クレジットカード会社として初めてスマートフォンによる決済・送金サービスに参入する。政府が解禁を検討する給与のデジタル払いにも対応する。ス...",
+          "link": "https://www.nikkei.com/article/DGXZQOUB316ID0R30C22A8000000/",
+          "publishedOn": "2022-09-04T22:32:38.000Z",
+          "wordCount": 180,
+          "title": "JCBがスマホ決済参入　大手カード初、若年層取り込み",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2351482031082022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=7117070318261ada9f97bdc0ebfbfc14"
+        },
+        {
+          "id": "https://twitter.com/hayakawa2600/status/1566468716040458241",
+          "author": null,
+          "description": "知事が所属する政治セクトの系列によって災害対応が変わるんだ。大問題だなこれ。：「こうした時、自民系知事であればより緊密に国と連携が取れる」 https://t.co/pQeRrEpAE2",
+          "link": "https://twitter.com/hayakawa2600/status/1566468716040458241",
+          "publishedOn": "2022-09-04T18:46:56.000Z",
+          "wordCount": 390,
+          "title": "早川タダノリ on Twitter: \"知事が所属する政治セクトの系列によって災害対応が変わるんだ。大問題だなこれ。：「こうした時、自民系知事であればより緊密に国と連携が取れる」 https://t.co/pQeRrEpAE2\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sankei.com/article/20220904-IQCD73PTSJIIDEZ4PPVWCZOI6Q/",
+          "author": null,
+          "description": "東京五輪・パラリンピックを巡る汚職事件で、大会組織委員会元理事の高橋治之容疑者（７８）が出版大手「ＫＡＤＯＫＡＷＡ」がスポンサー契約を結ぶ前に、出版分野のスポンサー枠を新設するよう組織委などに働きかけていたことが関係者への取材で分かった。ＫＡＤＯＫＡＷＡ側は契約締結後、高橋容疑者の知人が経営する...",
+          "link": "https://www.sankei.com/article/20220904-IQCD73PTSJIIDEZ4PPVWCZOI6Q/",
+          "publishedOn": "2022-09-04T17:29:29.000Z",
+          "wordCount": 2295,
+          "title": "五輪スポンサーに「出版枠」　元理事、新設働きかけ",
+          "imageUrl": "https://www.sankei.com/resizer/LlCwdreMUmON3JjHu_rdCgmYqic=/1200x630/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/GR6LVCIANNNNHOSXJOSRXVG6QY.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/chromesqlitewebassemblysqlitewebweb_sql_api.html",
+          "author": null,
+          "description": "Chrome開発チームがSQLiteチームとWebAssembly版SQLiteを開発中。Webブラウザ上からのファイル書き込みで永続化も可能。Web SQL APIの代替として Google Chromeの開発チームは、すでに非推奨となっているWeb標準のWeb SQL Database APIをChromeから削除、その代替機能としてSQLite開発チームと協力してWebAssembly版のSQ...",
+          "link": "https://www.publickey1.jp/blog/22/chromesqlitewebassemblysqlitewebweb_sql_api.html",
+          "publishedOn": "2022-09-04T16:11:29.000Z",
+          "wordCount": 1395,
+          "title": "Chrome開発チームがSQLiteチームとWebAssembly版SQLiteを開発中。Webブラウザ上からのファイル書き込みで永続化も可能。Web SQL APIの代替として",
+          "imageUrl": "https://www.publickey1.jp/2022/2MiDD0VM.jpg"
+        },
+        {
+          "id": "https://shonenjumpplus.com/episode/316112896809263395",
+          "author": null,
+          "description": "JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。",
+          "link": "https://shonenjumpplus.com/episode/316112896809263395",
+          "publishedOn": "2022-09-04T15:02:17.000Z",
+          "wordCount": 244,
+          "title": "[1話]クラスメイド - とがわ/伊達恒大 | 少年ジャンプ＋",
+          "imageUrl": "https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/3270375685467153822-e5380857be2e3e8d1b11fe141a151219?1662332866"
+        },
+        {
+          "id": "https://shonenjumpplus.com/episode/316112896809263432",
+          "author": null,
+          "description": "JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。",
+          "link": "https://shonenjumpplus.com/episode/316112896809263432",
+          "publishedOn": "2022-09-04T15:02:00.000Z",
+          "wordCount": 264,
+          "title": "[第13話]正反対な君と僕 - 阿賀沢紅茶 | 少年ジャンプ＋",
+          "imageUrl": "https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/3269754496899770329-0b2e77517a85e523abdedbfead9e10c7?1662332858"
+        },
+        {
+          "id": "https://shonenjumpplus.com/episode/316112896809263446",
+          "author": null,
+          "description": "JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。",
+          "link": "https://shonenjumpplus.com/episode/316112896809263446",
+          "publishedOn": "2022-09-04T15:01:13.000Z",
+          "wordCount": 255,
+          "title": "[第25話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋",
+          "imageUrl": "https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/3269754496804659294-bde0f4eac8e6242e6199bcb9429c7533?1662332854"
+        },
+        {
+          "id": "https://twitter.com/developer_quant/status/1566417479727222784",
+          "author": null,
+          "description": "ニューヨーク大学が無料公開している深層学習のコース動画。講義ノートは日本語に訳されている。サンプルコードはPyTorchベース。チューリング賞受賞者で深層学習のゴッドファーザーことYann LeCun氏の講義をYouTubeで受け… https://t.co/oKf7WmRMAe",
+          "link": "https://twitter.com/developer_quant/status/1566417479727222784",
+          "publishedOn": "2022-09-04T14:56:51.000Z",
+          "wordCount": 390,
+          "title": "QDくん⚡️Python x 機械学習 x 金融工学 on Twitter: \"ニューヨーク大学が無料公開している深層学習のコース動画。講義ノートは日本語に訳されている。サンプルコードはPyTorchベース。チューリング賞受賞者で深層学習のゴッドファーザーことYann LeCun氏の講義をYouTubeで受け… https://t.co/oKf7WmRMAe\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://honeshabri.hatenablog.com/entry/Market_Gospel",
+          "author": null,
+          "description": "積立投資で勝つには続ける必要がある。 そのためには市場への信仰が欠かせない。 インデックス投資を学びながら信仰心を高めよう。 知識が無いなら信仰で 前回、投資についての記事を書いた。 ついたブコメ。 これに限らず、最近の投資記事に対するコメントを見ていると、知識や論理で語ることの限界を感じる。投資に対...",
+          "link": "https://honeshabri.hatenablog.com/entry/Market_Gospel",
+          "publishedOn": "2022-09-04T14:54:39.000Z",
+          "wordCount": 673,
+          "title": "信仰心を高めて時間で殴る投資術 - 本しゃぶり",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/honeshabri/20220904/20220904200205.jpg"
+        },
+        {
+          "id": "https://note.com/hima_kuuhaku/n/n5f074096c798",
+          "author": null,
+          "description": "空「どうも、認知プロファイリング探偵空白です」 な「助手のなる子です」 空「今日は共産党と強いつながりがあるColabo代表仁藤夢乃さんについて調べてわかったことの補足動画になります」 な「その言い回し好きですね、いつも言ってる」 空「ただの事実です」 空「Colaboが家出少女たちにご飯を提供している給食費につ...",
+          "link": "https://note.com/hima_kuuhaku/n/n5f074096c798",
+          "publishedOn": "2022-09-04T14:06:34.000Z",
+          "wordCount": 2586,
+          "title": "Colaboと仁藤夢乃さんのお金の闇をもっと調べてみました｜暇な空白/Kiyoteru Mizuhara｜note",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/edf76313cca7dd672f154e8cb8d0ec0c7d5c761e.jpg"
+        },
+        {
+          "id": "https://www.maff.go.jp/j/pr/aff/2010/producer01.html",
+          "author": null,
+          "description": "日本各地、旬の食材を提供する農家や漁師など、食のスペシャリストたちが、専門家だからこそ知っている秘伝のレシピを紹介。食材の味や、栄養を引き出し尽くす！ 達人ならではのレシピをお見逃しなく！ 主食として根付いている米は、８月から10月頃にかけて収穫されます。新潟県南部に位置し、日本有数の米どころである...",
+          "link": "https://www.maff.go.jp/j/pr/aff/2010/producer01.html",
+          "publishedOn": "2022-09-04T13:08:06.000Z",
+          "wordCount": 344,
+          "title": "米 - 達人レシピ：農林水産省",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/aritayoshifu/status/1566381513062592513",
+          "author": null,
+          "description": "▼2021年の総選挙。下村博文議員と統一教会。家庭教育基本条例。南北東京平和大使協議会。ここにいる統一教会信者。下村さんが手にする「推薦状」。 https://t.co/es8Itkd3sY",
+          "link": "https://twitter.com/aritayoshifu/status/1566381513062592513",
+          "publishedOn": "2022-09-04T12:53:41.000Z",
+          "wordCount": 390,
+          "title": "有田芳生 on Twitter: \"▼2021年の総選挙。下村博文議員と統一教会。家庭教育基本条例。南北東京平和大使協議会。ここにいる統一教会信者。下村さんが手にする「推薦状」。 https://t.co/es8Itkd3sY\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://msknmr.hatenablog.com/entry/2022/09/04/000000",
+          "author": null,
+          "description": "なぜ知るかバカうどんを紹介するのか？ R-18（エロ）をうどんは捨てた！！　って言ってる奴おるけどそんな事ないからな ――同人誌まとめ「ボコボコりんまとめ２」の作者あとがきより 知るかバカうどん（以下、うどん先生）は、漫画『君に愛されて痛かった』の作者であり、エロ漫画家であり、過去には東方Project二次創作...",
+          "link": "https://msknmr.hatenablog.com/entry/2022/09/04/000000",
+          "publishedOn": "2022-09-04T12:38:55.000Z",
+          "wordCount": 400,
+          "title": "知るかバカうどんについて、私が知っているすべてのこと - 村 村",
+          "imageUrl": "https://m.media-amazon.com/images/I/51nV1bFkRaL._SL500_.jpg"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/200065",
+          "author": null,
+          "description": "【バンコク＝藤川大樹】国軍がクーデターで政権を握るミャンマーの北西部ザガインの一部地域で、民主派の若者らで構成する武装組織「国民防衛隊」（PDF）の軍事力が増し、住民による自治が進んでいる。一方、国軍側はPDFを支援する村に火を放ち、捕らえた住民を「人間の盾」として使うなど弾圧を強めている。ザガイン地...",
+          "link": "https://www.tokyo-np.co.jp/article/200065",
+          "publishedOn": "2022-09-04T12:15:46.000Z",
+          "wordCount": 1200,
+          "title": "2万戸の家を焼き、住民を「人間の盾」に…ミャンマー国軍の民主派弾圧激化　自治進むザガイン地域で：東京新聞 TOKYO Web",
+          "imageUrl": "https://static.tokyo-np.co.jp/image/article/size1/5/5/a/f/55afef1621e595e0854ef502112718dd_1.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20220904-stable-diffusion-webui/",
+          "author": null,
+          "description": "文章を入力すると画像を生成してくれるAI「Stable Diffusion」は、手軽に好みの画像を生成できることから大きな注目を集めており、「NMKD Stable Diffusion GUI」や「Artroom Stable Diffusion」などWindowsに簡単にインストールできる実行環境が数多く開発されています。「Stable Diffusion web UI」もStable Diffusion...",
+          "link": "https://gigazine.net/news/20220904-stable-diffusion-webui/",
+          "publishedOn": "2022-09-04T12:10:29.000Z",
+          "wordCount": 2546,
+          "title": "画像生成AI「Stable Diffusion」の実行環境を無料でWindows上に構築できる「Stable Diffusion web UI」の導入方法まとめ",
+          "imageUrl": "https://i.gzn.jp/img/2022/09/04/stable-diffusion-webui/00.png"
+        },
+        {
+          "id": "https://twitter.com/sspmi/status/1566311430542196736",
+          "author": null,
+          "description": "司会：「野党から臨時国会の召集が憲法に基づいて要求されています」 茂木幹事長：「それは国会でお決めになること」 👉国会ではなく内閣が決めること。憲法53条は「内閣は、その召集を決定しなければならない」。日程や期間については与野党調… https://t.co/cOg5d4zUEo",
+          "link": "https://twitter.com/sspmi/status/1566311430542196736",
+          "publishedOn": "2022-09-04T11:44:08.000Z",
+          "wordCount": 390,
+          "title": "南野 森（MINAMINO Shigeru） on Twitter: \"司会：「野党から臨時国会の召集が憲法に基づいて要求されています」 茂木幹事長：「それは国会でお決めになること」 👉国会ではなく内閣が決めること。憲法53条は「内閣は、その召集を決定しなければならない」。日程や期間については与野党調… https://t.co/cOg5d4zUEo\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://togetter.com/li/1940069",
+          "author": null,
+          "description": "リンク Wikipedia 八丁原発電所 八丁原発電所（はっちょうばるはつでんしょ）は、大分県玖珠郡九重町にある九州電力の地熱発電所である。 出力11万kWで、発電所全体の出力としては、一般家庭約3万7千軒の需要を担う能力を持つ日本最大の地熱発電所である。事業用としては九州で2番目（全国で5番目）に完成した。 活火山...",
+          "link": "https://togetter.com/li/1940069",
+          "publishedOn": "2022-09-04T11:34:43.000Z",
+          "wordCount": 2784,
+          "title": "日本最大の地熱発電所で展示されてたパイプの断面が衝撃的「地熱発電、難しいんだな…」",
+          "imageUrl": "https://s.togetter.com/ogp/c31d37e7602376bc551d21e49918d284-1200x630.png"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220904200304",
+          "author": null,
+          "description": "この3つの言葉だけで今の俺の存在は表せる。情けないものだが、そんな俺でもフライドポテトとビールを飲みながら、公園のハトを見ることぐらいは許される世の中で良かったものである。 さて、日課のように貯金を食い潰してセブンのフライドポテトと銀色が多めのビールを買い、いつものベンチに腰掛ける俺であったが、な...",
+          "link": "https://anond.hatelabo.jp/20220904200304",
+          "publishedOn": "2022-09-04T11:29:19.000Z",
+          "wordCount": 592,
+          "title": "無職、フライドポテト、ビール。",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/63dd1b588fdd5534f886d0c67e14663d4a5c3492",
+          "author": null,
+          "description": "ロシア軍が占拠するザポリージャ原発での国際原子力機関（ＩＡＥＡ）の調査では、露軍占領地域から発射されたとみられるロケット弾の残骸に関し、露側専門家が「ウクライナ軍のロケット弾が奇跡的に１８０度回転した」と調査団に強弁する動画が拡散している。ロシアはウクライナ軍が原発を攻撃しているとの主張を浸透さ...",
+          "link": "https://news.yahoo.co.jp/articles/63dd1b588fdd5534f886d0c67e14663d4a5c3492",
+          "publishedOn": "2022-09-04T11:07:54.000Z",
+          "wordCount": 1084,
+          "title": "「ウクライナ軍のロケット弾が奇跡的に１８０度回転」…露側専門家がＩＡＥＡ調査団に釈明（読売新聞オンライン） - Yahoo!ニュース",
+          "imageUrl": "https://s.yimg.jp/images/news-web/all/images/ogp_default.png"
+        },
+        {
+          "id": "https://lfk.hatenablog.com/entry/2022/09/04/172352",
+          "author": null,
+          "description": "2019年に結婚して、丸3年以上が過ぎた。4年目も半分近く過ぎようとしている。かつて付き合っていた人とは、誰とも1年以上続かなかったから、当初は結婚なんかして大丈夫か？という思いがあった。ある種のジンクスのようなものを感じていて、1年経ったら離婚するんじゃないかと心配していた。とりあえず3年も続いている。...",
+          "link": "https://lfk.hatenablog.com/entry/2022/09/04/172352",
+          "publishedOn": "2022-09-04T11:00:30.000Z",
+          "wordCount": 534,
+          "title": "結婚して3年が経った - Letter from Kyoto",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/13208692334729896010/4207112889914877884/1662283383"
+        },
+        {
+          "id": "https://www.nhk.or.jp/gendai/comment/0012/topic030.html",
+          "author": null,
+          "description": "全国の高校1200校の校則を自力で集め、データベースとしてWEB上で公開している現役高校生がいます。 「校則に疑問を感じたとき、データをもとに話し合っていける社会にしたい」 プロジェクトを立ち上げたのは群馬県の公立高校に通う神谷航平さん（17）。情報公開請求の制度を活用して各自治体の教育委員会から校則を取り...",
+          "link": "https://www.nhk.or.jp/gendai/comment/0012/topic030.html",
+          "publishedOn": "2022-09-04T10:17:51.000Z",
+          "wordCount": 224,
+          "title": "「校則データベース」を開発する現役高校生 理不尽な校則がない社会へ",
+          "imageUrl": "https://www.nhk.or.jp/gendai/comment/0012/images/0012_030/samuneiru-w-w.jpg"
+        },
+        {
+          "id": "https://twitter.com/wadamasamune/status/1566248642955976704",
+          "author": null,
+          "description": "沖縄県知事選応援のため那覇到着。 本日は台風対応に第一にあたる。 「サキマ淳」候補と沖縄県の国会議員と連携を取り、必要な災害対応を国の各機関に要請する。 こうした時、自民系知事であればより緊密に国と連携が取れる。 いざとい… https://t.co/Dn45oWi0R1",
+          "link": "https://twitter.com/wadamasamune/status/1566248642955976704",
+          "publishedOn": "2022-09-04T10:11:36.000Z",
+          "wordCount": 390,
+          "title": "和田　政宗 on Twitter: \"沖縄県知事選応援のため那覇到着。 本日は台風対応に第一にあたる。 「サキマ淳」候補と沖縄県の国会議員と連携を取り、必要な災害対応を国の各機関に要請する。 こうした時、自民系知事であればより緊密に国と連携が取れる。 いざとい… https://t.co/Dn45oWi0R1\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sysdig.jp/blog/26-aws-security-best-practices/",
+          "author": null,
+          "description": "本文の内容は、2022年8月29日にAlejandro Villanuevaが投稿したブログ(https://sysdig.com/blog/26-aws-security-best-practices/)を元に日本語に翻訳・再構成した内容となっております。 Well-architected フレームワークの最も重要な柱の1つは、セキュリティです。したがって、AWSセキュリティベストプラクティスに従...",
+          "link": "https://sysdig.jp/blog/26-aws-security-best-practices/",
+          "publishedOn": "2022-09-04T10:03:09.000Z",
+          "wordCount": 2485,
+          "title": "本番環境で実践したいAWSセキュリティのベストプラクティス26選 – Sysdig",
+          "imageUrl": "https://sysdig.jp/wp-content/uploads/スクリーンショット-2022-09-01-17.23.17.png"
+        },
+        {
+          "id": "https://togetter.com/li/1940043",
+          "author": null,
+          "description": "晴雲 @seiunmune @rT72Ijsw49mQb9U 見ててすごいドキッとした 水責めとか排気ガスとか酷い目にあわされてる動画も面白くて笑ってたけど 今回こんな綺麗に発声してて 「もしもびっくりチキン（商品名）に心や感情が有ったら……」 なんて思ってしまった 2022-09-04 07:49:39",
+          "link": "https://togetter.com/li/1940043",
+          "publishedOn": "2022-09-04T09:58:53.000Z",
+          "wordCount": 1943,
+          "title": "そんなことできるんだ…ジョークグッズ「びっくりチキン」に言葉を喋らせることに成功しました「ずっと笑ってる」",
+          "imageUrl": "https://s.togetter.com/ogp/597c448ad86d9de538f7479b26935525-1200x630.png"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220904185020",
+          "author": null,
+          "description": "そもそも前提として絵柄のパクリは著作権違反です 捕まっちゃうので覚えておいてくださいね",
+          "link": "https://anond.hatelabo.jp/20220904185020",
+          "publishedOn": "2022-09-04T09:50:58.000Z",
+          "wordCount": 598,
+          "title": "そもそも前提として絵柄のパクリは著作権違反です 捕まっちゃうので覚えて..",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://togetter.com/li/1940037",
+          "author": null,
+          "description": "唯一無二の絶品グルメ（むにぐるめ） @muni_gurume 【角煮丼屋 たけだ】 @東京：人形町駅から徒歩3分 巨大角煮を載せた角煮丼ランチを堪能できるお店。 お茶碗いっぱいに銘柄豚の「和豚もち豚」を贅沢に載せており、柔らかくホロホロな食感と肉から染み出る甘味がたまらない！ 白ご飯と一緒に食べると相性抜群で、ごはん...",
+          "link": "https://togetter.com/li/1940037",
+          "publishedOn": "2022-09-04T09:12:11.000Z",
+          "wordCount": 5182,
+          "title": "東京の行きたいところ",
+          "imageUrl": "https://s.togetter.com/ogp/134487e86b01556888a7215044cac536-1200x630.png"
+        },
+        {
+          "id": "https://www.buzzfeed.com/jp/keitaaimoto/starbucks-jirou-fc",
+          "author": null,
+          "description": "ツイートは7月27日、7.5万フォロワーの「バズラボ大全集【極】」から投稿された。 左側にスタバの商品、右側に二郎系のラーメンの画像を並べ、「ほぼ同じカロリーです」としている。 8月30日現在、19.8万いいね、2.5万リツイートと広く拡散している。 ツイートには、「衝撃すぎです」「え、まじか」といったコメントや、...",
+          "link": "https://www.buzzfeed.com/jp/keitaaimoto/starbucks-jirou-fc",
+          "publishedOn": "2022-09-04T08:06:16.000Z",
+          "wordCount": 10862,
+          "title": "スタバと二郎系ラーメン「ほぼ同じカロリー」ツイートが拡散→誤り",
+          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-09/4/8/campaign_images/2076b544c33c/--2-6603-1662280952-2_dblbig.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/1939861",
+          "author": null,
+          "description": "島村一平‗新著『憑依と抵抗』（晶文社）好評発売中！！ @ippeishimamura 文化人類学者＠国立民族学博物館。シャーマニズム研究・モンゴル研究。新著『憑依と抵抗ー現代モンゴルにおける宗教とナショナリズム』（晶文社）発売中。著書に『ヒップホップ・モンゴリアー韻がつむぐ人類学』青土社　『増殖するシャーマン-モン...",
+          "link": "https://togetter.com/li/1939861",
+          "publishedOn": "2022-09-04T07:44:29.000Z",
+          "wordCount": 3528,
+          "title": "空港で荷物の超過料金が払えず困っていた日本人研究者に手を差し伸べてくれたモンゴル人。自分の頭で判断することの大切さ。",
+          "imageUrl": "https://s.togetter.com/ogp/5d8b4585e7574f0dcfa01666d7c1f4bc-1200x630.png"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20220904/k00/00m/040/049000c",
+          "author": null,
+          "description": "新型コロナウイルスワクチンの効果を巡り、鳩山由紀夫元首相が医師から聞いた話として「ワクチンを打った人の方が打たない人より3倍入院する確率が高い」と世界保健機関（WHO）が認めたとツイッターに投稿し、拡散した。しかし、WHOの公表資料に発言内容と合致する記述は存在せず、WHOは毎日新聞の取材に発言内容を事実...",
+          "link": "https://mainichi.jp/articles/20220904/k00/00m/040/049000c",
+          "publishedOn": "2022-09-04T07:27:31.000Z",
+          "wordCount": 1148,
+          "title": "ファクトチェック：「ワクチン打った人、入院する確率が3倍高い」　鳩山元首相は誤り | 毎日新聞",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2022/06/03/20220603k0000m010371000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUA040F20U2A900C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 河野太郎消費者相は4日のフジテレビ番組で、霊感商法の被害対策をめぐる消費者庁の有識者検討会について「（宗教団体の）解散命令まで消費者庁が関わったり、解散命令...",
+          "link": "https://www.nikkei.com/article/DGXZQOUA040F20U2A900C2000000/",
+          "publishedOn": "2022-09-04T07:13:58.000Z",
+          "wordCount": 185,
+          "title": "霊感商法「宗教団体の解散も議論」　河野太郎消費者相",
+          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2362993004092022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.48&fp-y=0.43&fp-z=1&crop=focalpoint&s=d4a360ad8fe4442e23c2cfba29f5afe0"
+        },
+        {
+          "id": "https://www.daily.co.jp/gossip/2022/09/04/0015610433.shtml",
+          "author": null,
+          "description": "パックン「統一教会の問題はもういい」安倍元首相の国葬ゲキ推し　ＴＶタックルで激論 拡大 お笑い芸人のパックンことパトリック・ハーランが４日、テレビ朝日「ビートたけしのＴＶタックル」に出演。反対意見も多い安倍晋三元首相の国葬について、「（今回やらなければ）いつやるの」と強力に賛成した。 国葬は２７日に...",
+          "link": "https://www.daily.co.jp/gossip/2022/09/04/0015610433.shtml",
+          "publishedOn": "2022-09-04T06:45:23.000Z",
+          "wordCount": 1487,
+          "title": "パックン「統一教会の問題はもういい」安倍元首相の国葬ゲキ推し　ＴＶタックルで激論/デイリースポーツ online",
+          "imageUrl": "https://i.daily.jp/gossip/2022/09/04/Images/f_15610434.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/1939892",
+          "author": null,
+          "description": "東京高校受験主義 @tokyokojuken 皆さん…足立区をなめないほうが良いです…。区営の「足立はばたき塾」では、経済的に塾に通えないが学習意欲の高い子達をかき集めて難関高校に向けてガツガツ受験指導しています。学力別4クラス編成で週1回数学100分、英語100分。理国社の講座や夏期講習、冬期講習もあり。授業料は無料。...",
+          "link": "https://togetter.com/li/1939892",
+          "publishedOn": "2022-09-04T03:50:29.000Z",
+          "wordCount": 1240,
+          "title": "足立区の公立中学生への支援が「ガチすぎる」と話題「上位層をかき集め本気の受験指導」「下位層にはマンツーマン4泊5日合宿」",
+          "imageUrl": "https://s.togetter.com/ogp/9e9967fcc163d6f0c1606ed029c7725f-1200x630.png"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220904114130",
+          "author": null,
+          "description": "だいぶ前に、愛車のワゴンRがポンコツ過ぎて辛い、早く買い換えたいが、ワゴンRは愛車……というような愚痴とも惚気ともつかない文章を書いて増田に放流した覚えがなくもないのだが、最近やっと車を買い換えた。 愛車のワゴンRはあちこち壊れまくっていてどうにもならない状態だったので、廃車となってしまった。十五年ほ...",
+          "link": "https://anond.hatelabo.jp/20220904114130",
+          "publishedOn": "2022-09-04T03:43:21.000Z",
+          "wordCount": 605,
+          "title": "ついに車を買い換えた。",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://qiita.com/KNR109/items/5f933df1292564e6dc70",
+          "author": null,
+          "description": "はじめに 今回はVSCodeでおすすめの拡張機能を分野別に紹介していきます。 拡張機能は下記の分野に分けて紹介していきます。 VSCodeを使う全員向け Web制作関連 HTML&CSS関連 WordPress関連 フロント向け JavaScript React Vue サーバーサイド向け PHP Ruby その他 拡張機能を利用することで開発の生産性を上げることが...",
+          "link": "https://qiita.com/KNR109/items/5f933df1292564e6dc70",
+          "publishedOn": "2022-09-04T02:04:04.000Z",
+          "wordCount": 1413,
+          "title": "【分野別】VSCodeのおすすめ拡張機能まとめ - Qiita",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgwJTkwJUU1JTg4JTg2JUU5JTg3JThFJUU1JTg4JUE1JUUzJTgwJTkxVlNDb2RlJUUzJTgxJUFFJUUzJTgxJThBJUUzJTgxJTk5JUUzJTgxJTk5JUUzJTgyJTgxJUU2JThCJUExJUU1JUJDJUI1JUU2JUE5JTlGJUU4JTgzJUJEJUUzJTgxJUJFJUUzJTgxJUE4JUUzJTgyJTgxJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz02ZjQyNGNiNGZhNTdlYzc0YzQxOTc3NmI3YjkxNDc5MQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwS05SMTA5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1hY2UxMWUwMDMyZGFmZGRiYzgwZjY5MWQ3ODM4NGYzOA&blend-x=142&blend-y=491&blend-mode=normal&s=5136a275b99adf106e0552c5a9eda1f7"
+        },
+        {
+          "id": "https://note.com/mkm00077/n/n3c2d221c7d0e",
+          "author": null,
+          "description": "眼鏡を何十本か持っているそれなりの眼鏡オタクとして言いたい。 似合う眼鏡を探すために一番重要なことはこれだけです。これさえ気をつければまず失敗しません。 ズバリ サイズ感を適切に合わせること。 これに尽きます。 もちろん肌色とフレームの色の相性や、顔のパーツや体つきと眼鏡の存在感のバランスといった要素...",
+          "link": "https://note.com/mkm00077/n/n3c2d221c7d0e",
+          "publishedOn": "2022-09-04T01:34:41.000Z",
+          "wordCount": 2479,
+          "title": "眼鏡オタクが解説する、絶対に似合う眼鏡の選び方｜mkm00077｜note",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/86109178/rectangle_large_type_2_feed2a93898fc24f6e85767b377915b7.jpeg?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://togetter.com/li/1939762",
+          "author": null,
+          "description": "Google検索,拡張機能,ライフハック,ブラウザ,Twitter,はちま,インターネット,はてなブックマーク,",
+          "link": "https://togetter.com/li/1939762",
+          "publishedOn": "2022-09-04T01:23:37.000Z",
+          "wordCount": 3920,
+          "title": "ブラウザ版TwitterとはてブとGoogle検索結果とpixivとインターネット全般をきれいにする黒魔術教えろください",
+          "imageUrl": "https://s.togetter.com/ogp/4ecd3e5c9f96612a9a5a2854c283b654-1200x630.png"
+        },
+        {
+          "id": "https://topisyu.hatenablog.com/entry/2022/09/04/073000",
+          "author": null,
+          "description": "今日は一人小町（一人で発言小町みたいな回答をするもの。基本要望に応じた反応をする）です。単発質問への回答。 Q. 日本が衰退するのが見えている中、どのような心構えで日々過ごしていますか？ 情報をシャットアウトしてもこの国が衰退に向かっていること自体は変わらないと（斗比主様の各種解説記事を読んでいても）...",
+          "link": "https://topisyu.hatenablog.com/entry/2022/09/04/073000",
+          "publishedOn": "2022-09-03T23:21:50.000Z",
+          "wordCount": 841,
+          "title": "「日本が衰退するのが見えている中、どのような心構えで日々過ごしていますか？」→「私はそこまで悲観せず暮らしてます」 - 斗比主閲子の姑日記",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/t/topisyu/20220903/20220903234904.png"
+        },
+        {
+          "id": "https://yogajournal.jp/14505",
+          "author": null,
+          "description": "ズボラさんも股関節が硬い人も必見！ テレビを見ながらでもできて腰痛も緩和してくれる、最新股関節ストレッチ情報をアメリカからお届けします。 ヨガマット不要！すき間時間にできる股関節の可動域を広げるストレッチ アメリカで「90/90（ナインティーナインティー）」と呼ばれているこのストレッチは、股関節の可動性...",
+          "link": "https://yogajournal.jp/14505",
+          "publishedOn": "2022-09-03T23:11:03.000Z",
+          "wordCount": 351,
+          "title": "【アメリカで話題】ただ座るだけ！股関節がみるみる柔らかくなる「90/90ストレッチ」 | ヨガジャーナルオンライン",
+          "imageUrl": "https://images.yogajournal.jp/article/129474/ba7YCzsWRNQcsvbV5RBvO5b348fLTt855sv4iMIA.png"
+        },
+        {
           "id": "https://shonenjumpplus.com/episode/3270375685474408576",
           "author": null,
           "description": "全部ぶっ壊す へじていと/山岸菜 激闘の末、破壊神と英雄は相打ち、滅した……。時は経ち、破壊神は現代に女子高生として蘇った。何故か双子の兄は、先に蘇っていた英雄で!?新感覚撃滅不思議ファミリーコメディ！堂々開幕……!! [JC4巻10/4発売]",
@@ -156,6 +536,16 @@
           "imageUrl": "https://nordot-res.cloudinary.com/c_fill,w_400,h_210,g_faces,q_auto:eco/ch/images/938792007097663488/origin_1.jpg"
         },
         {
+          "id": "https://gesugesumi.hatenablog.com/entry/2022/09/03/154124",
+          "author": null,
+          "description": "先日8月30日に私が訴えられていた 原告・はあちゅうこと伊藤春香（しみけんの妻） 被告・私 の裁判の判決が出て、原告の請求はすべて棄却され、訴訟費用もすべて原告負担という結果になりました！ ようやく裁判が終わりましたので、この裁判をすべて振り返ろうかと思います。 ※どのようなことでうったえられたのかはこち...",
+          "link": "https://gesugesumi.hatenablog.com/entry/2022/09/03/154124",
+          "publishedOn": "2022-09-03T12:01:49.000Z",
+          "wordCount": 312,
+          "title": "しみけんの妻・はあちゅうさんに訴えられましたが勝ちました - ゲスで怠惰なブログ",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/26006613535339338/4207112889914413134/1662328982"
+        },
+        {
           "id": "https://togetter.com/li/1939554",
           "author": null,
           "description": "𝓞𝓶𝓸𝓬𝓱𝓲 @ib_kiri 昔いた職場で、組織内のルールや決まったプロセスに毎回『なぜこれが必要なのか理解できない』とこぼしていた東大の新卒がいた。 上司が『お前の納得と理解は後回しでいいから早くやれ。給料もらって仕事をこなすのが俺らの義務なのに自分の感情とか勉強を優先するな』とキレてとても腹落ちした思い出 2...",
@@ -294,6 +684,16 @@
           "wordCount": 390,
           "title": "さーゆー on Twitter: \"都内小学校の登下校中の生徒を狙って動物の死体のパネルを見せて 「これが君たちの食べているものだよ」 「大人の隠している真実」 と声をかけてヴィーガン布教活動。 区役所職員、数十人が静止に入るも無視 肉フェスに抗議したヴィー… https://t.co/jWx5VYFJnZ\"",
           "imageUrl": null
+        },
+        {
+          "id": "https://studyhacker.net/dislike-list",
+          "author": null,
+          "description": "ドミニカン大学カリフォルニア校の心理学教授、ゲイル・マシューズ氏が行なった実験によると、目標は頭のなかだけで考えているより、書き出したほうが達成率を高めるそうです。しかし、書き出したものが自分の気持ちを無視した目標だと、あまりいい結果は望めません。 自分が本当に望む将来にしたいなら、まずは「やりた...",
+          "link": "https://studyhacker.net/dislike-list",
+          "publishedOn": "2022-09-03T04:42:14.000Z",
+          "wordCount": 1200,
+          "title": "「やりたくないこと」を言語化しまくるメリット。“嫌なこと” を特定すれば望む方向に進める！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/sh_yoko_nakayama/20220830/20220830161847.jpg"
         },
         {
           "id": "https://anond.hatelabo.jp/20220903090151",
@@ -11274,386 +11674,6 @@
           "wordCount": 609,
           "title": "声優ってそこまで違いある？",
           "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://togetter.com/li/1926743",
-          "author": null,
-          "description": "ピーナッツ @1zA5ijpgBABKIy2 前職で、どうやっても設計解がないと思われた製品にエースエンジニアが投入され、翌日にあっさり大枠をまとめて来たことがあった。 「え、何やったんすか？」って聞いたら「めちゃくちゃ散歩したんだよ」って言われて言葉を失った。生産性とは余白なのだわ。 2022-08-05 17:35:16",
-          "link": "https://togetter.com/li/1926743",
-          "publishedOn": "2022-08-06T12:16:30.000Z",
-          "wordCount": 3403,
-          "title": "設計解がないと思われた製品にエースエンジニアが投入され、翌日あっさり大枠をまとめて来た→その解決方法がカッコよすぎた",
-          "imageUrl": "https://s.togetter.com/ogp/9f666db10afee9c44939069d627cbce7-1200x630.png"
-        },
-        {
-          "id": "https://www.sankei.com/article/20220806-H62YHUSIKZPHBILA4WKVIYDBAQ/",
-          "author": null,
-          "description": "デモ隊に向けて「静かに」と書かれたカードを掲げて無言の抗議を行う「静かな８月６日を願う広島市民の会」のメンバーら＝６日午前８時３５分、広島市中区（矢田幸己撮影） 広島に原爆が投下されてから７７回目の「原爆の日」を迎えた６日、広島市中区の平和記念公園では、反戦・反核を叫ぶ団体がデモ集会を開き、拡声器...",
-          "link": "https://www.sankei.com/article/20220806-H62YHUSIKZPHBILA4WKVIYDBAQ/",
-          "publishedOn": "2022-08-06T12:04:56.000Z",
-          "wordCount": 2435,
-          "title": "拡声器デモで安倍氏罵倒　静かな鎮魂、今年もかなわず",
-          "imageUrl": "https://www.sankei.com/resizer/qwX1LBqWrPNgHyYgt4b09LmZxAc=/1200x630/filters:focal(984x690:994x700):quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/RQQERZNLP5M3THYDWWGP5BUMWU.jpg"
-        },
-        {
-          "id": "https://www.sankei.com/article/20220806-64ARDOJPCZI2ZG3UWVMDCVBGO4/",
-          "author": null,
-          "description": "安倍晋三元首相（６７）が銃撃されて死亡した事件で、殺人容疑で送検された無職、山上徹也容疑者（４１）＝鑑定留置中＝は、海上自衛隊を辞めて以降、２０年近くの間にアルバイトや派遣社員として１０回以上も転職を繰り返していた。退職理由の多くは人間関係。周囲との交友も希薄で、社会から孤立していった実態が浮か...",
-          "link": "https://www.sankei.com/article/20220806-64ARDOJPCZI2ZG3UWVMDCVBGO4/",
-          "publishedOn": "2022-08-06T11:49:19.000Z",
-          "wordCount": 2484,
-          "title": "山上容疑者、転職１０回超　「人間関係に嫌気」交友希薄",
-          "imageUrl": "https://www.sankei.com/resizer/NzxLTHSUH4DaOCVEIZJBLv2jDLg=/1200x630/filters:focal(328x486:338x496):quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/ERLFM4CMOBLRLKK4LL5TYWMWRY.jpg"
-        },
-        {
-          "id": "https://nikkan-spa.jp/1847776",
-          "author": null,
-          "description": "何気ない会話や会社内でのやりとりで、コミュニケーションや情報の伝達を円滑にするために「たとえ」はよく使われる。しかし「たとえ」は、そのネタ元を理解していることが前提となるため、おじさん世代が発したたとえが、若者に伝わっていない可能性もある。伝わらないたとえで、若者から「老害」の烙印を押されないよ...",
-          "link": "https://nikkan-spa.jp/1847776",
-          "publishedOn": "2022-08-06T11:45:05.000Z",
-          "wordCount": 718,
-          "title": "おじさんはなぜ、仕事で“野球たとえ”を連発するのか…日本語学者に聞く | 日刊SPA!",
-          "imageUrl": "https://nikkan-spa.jp/wp-content/uploads/2022/08/88da88bc5a3c6224498a180c3b8f871a.jpg"
-        },
-        {
-          "id": "https://twitter.com/nipponichi8/status/1555720893065703426",
-          "author": null,
-          "description": "他人の葬式に「あれこれ」言う権利は誰にもない 何様のつもりなのだろう https://t.co/yFoVqDgFPg",
-          "link": "https://twitter.com/nipponichi8/status/1555720893065703426",
-          "publishedOn": "2022-08-06T11:20:40.000Z",
-          "wordCount": 382,
-          "title": "一色正春 on Twitter: \"他人の葬式に「あれこれ」言う権利は誰にもない 何様のつもりなのだろう https://t.co/yFoVqDgFPg\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASQ865F5CQ82UTFK01L.html",
-          "author": null,
-          "description": "「世界平和統一家庭連合（旧統一教会）」と政治家の接点が、次々と明らかになっている。とりわけ目立つのが自民党議員との関係だ。戦後、長く政権与党の座を占めてきた自民と教団の歴史をひもとくと、何が見えてくるのか。 旧統一教会と自民党との関わりは、長く広く深い。教団が日本で活動を始めた当初から半世紀を超え...",
-          "link": "https://www.asahi.com/articles/ASQ865F5CQ82UTFK01L.html",
-          "publishedOn": "2022-08-06T11:10:59.000Z",
-          "wordCount": 690,
-          "title": "自民党と旧統一教会、共鳴の半世紀　岸信介元首相から続く歴史：朝日新聞デジタル",
-          "imageUrl": "https://imgopt.asahi.com/ogp/AS20220806001879_comm.jpg"
-        },
-        {
-          "id": "https://itlaw.hatenablog.com/entry/2022/08/06/140419",
-          "author": null,
-          "description": "顧客からのクレームに納得できず、SES契約の期間途中に（ほかの案件も含めて）要員を撤収させたこと適否が問題となった事例。 事案の概要 X社は、下記の図のとおり、A社、B社、C社からそれぞれシステム開発に関する業務を受託し、それぞれの案件に対応する要員ａ、ｂ、ｃを、Y社から調達し、その業務を担当させていた。...",
-          "link": "https://itlaw.hatenablog.com/entry/2022/08/06/140419",
-          "publishedOn": "2022-08-06T10:33:13.000Z",
-          "wordCount": 268,
-          "title": "SES契約における期間途中の撤収の責任　東京地判令3.12.20（令2ワ20021） - IT・システム判例メモ",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10257846132637347915/4207112889906229667/1659762462"
-        },
-        {
-          "id": "https://twitter.com/nyaa_naosuke_su/status/1555746114334523392",
-          "author": null,
-          "description": "「統一教会とは知らなかった」とか言い張る自民党議員たちがスパイに対してなんかできるわけがないじゃないですか。スパイに対しても「相手がスパイだと名乗っていなかったのでスパイだとは思わなかった」って平然というよ。",
-          "link": "https://twitter.com/nyaa_naosuke_su/status/1555746114334523392",
-          "publishedOn": "2022-08-06T08:50:15.000Z",
-          "wordCount": 382,
-          "title": "サタンサイドのなおすけ on Twitter: \"「統一教会とは知らなかった」とか言い張る自民党議員たちがスパイに対してなんかできるわけがないじゃないですか。スパイに対しても「相手がスパイだと名乗っていなかったのでスパイだとは思わなかった」って平然というよ。\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cocoalog.jp/",
-          "author": null,
-          "description": "投稿されたログは一時的にサーバ上に蓄積されますが プライバシー保護や安全性の観点から、 分析から1時間後に自動削除されます。",
-          "link": "https://cocoalog.jp/",
-          "publishedOn": "2022-08-06T08:42:56.000Z",
-          "wordCount": 342,
-          "title": "COCOAログを詳細分析できるツール - COCOAログ.jp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://togetter.com/li/1926676",
-          "author": null,
-          "description": "Kent AOKI @kentaoki @asahi_photo これは見事な洪水制御の写真． 単に氾濫しているのではなく，霞堤によって制御されている氾濫．浸水しているのは当初から氾濫が想定されいる遊水地となる場所．さらに，堤防として機能させることを想定して作られている道路もしっかりと集落への浸水を防いでいる． 2022-08-06 05:15:3...",
-          "link": "https://togetter.com/li/1926676",
-          "publishedOn": "2022-08-06T08:32:52.000Z",
-          "wordCount": 4083,
-          "title": "一見ひどい洪水が起きてるだけに見えるこの光景、実は見事な治水で周りを守っていた",
-          "imageUrl": "https://s.togetter.com/ogp/c737b2baf79306904fd29e6dd91f6429-1200x630.png"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20200416100712",
-          "author": null,
-          "description": "仕事の合間にコーヒーを飲むのだが、これに代わる飲み物をおしえてほしい ・カフェインレスがよい。その観点から紅茶や緑茶は✗ ・カロリーはオフで。甘いもの系✗ ・体を冷やしたくないので温かいもの そうなると結局白湯一択になるのか 他にある？",
-          "link": "https://anond.hatelabo.jp/20200416100712",
-          "publishedOn": "2022-08-06T08:27:16.000Z",
-          "wordCount": 701,
-          "title": "仕事の合間にコーヒーを飲むのだが、これに代わる飲み物をおしえてほしい ..",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://togetter.com/li/1926312",
-          "author": null,
-          "description": "わたし輪廻のラグランジェかなり好きだったのでこの話が出るたびに悲しい気持ちになる… かんなぎは京アニじゃないぞ！っていうのはちゃんとまとめで突っ込んでるからそのコメント要らないです。",
-          "link": "https://togetter.com/li/1926312",
-          "publishedOn": "2022-08-06T08:07:40.000Z",
-          "wordCount": 3876,
-          "title": "「かんなぎ」の聖地(宮城県宮城郡七ヶ浜町)の当時の2chスレッドに、「アニメで町おこしするには何が大切か」の極意が書かれていた……かもしれない",
-          "imageUrl": "https://s.togetter.com/ogp/89d14ffbf746bbed1714edcba27c50b7-1200x630.png"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/byline/kutsunasatoshi/20220806-00308961",
-          "author": null,
-          "description": "日本は2週連続で世界最多の新型コロナ新規感染者数を記録しています。 これだけマスクを着けている日本で感染者数が増えていることに関連して、マスクの効果に疑問を抱いている方もいるようです。 今、日本で新規感染者数が世界で最も多いのは、マスクの効果がないためでしょうか？ 日本の新規感染者数は世界最多日本国...",
-          "link": "https://news.yahoo.co.jp/byline/kutsunasatoshi/20220806-00308961",
-          "publishedOn": "2022-08-06T07:00:37.000Z",
-          "wordCount": 1280,
-          "title": "マスクを着けている人が多い日本の新型コロナ感染者数が、世界最多なのはなぜ？（忽那賢志） - 個人 - Yahoo!ニュース",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kutsunasatoshi/00308961/title-1659768515213.jpeg?pri=l&w=800&h=450&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800"
-        },
-        {
-          "id": "https://www.orangeitems.com/entry/2022/08/06/143024",
-          "author": null,
-          "description": "ここに、SES・多重請負の悪いところがたくさん書いてあるけれど。 anond.hatelabo.jp 私も15年前に、SESの自分の立場を呪い、元請に転職した人間だ。１度きりの転職だがここでエスケープして正解だったとは今でも思う。そのときに「どうせSESや多重請負の構造などジリ貧だ。いずれ滅びる。それなのにここに長居したら未...",
-          "link": "https://www.orangeitems.com/entry/2022/08/06/143024",
-          "publishedOn": "2022-08-06T06:01:58.000Z",
-          "wordCount": 312,
-          "title": "ITの内製化が進んでも、業界構造が変わらない理由 - orangeitems’s diary",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/orangeitems/20220806/20220806142245.png"
-        },
-        {
-          "id": "https://twitter.com/ShinpeiKato/status/1555567302002851843",
-          "author": null,
-          "description": "シャルルドゴール空港のPCRテストがドラクエ状態なのでここに詳細な攻略法を残しておきたいと思う。全クリに3〜4時間かかるのでフライト5〜6時間前には空港に着くようなスケジュールを推奨します。 https://t.co/lt3dCF7URV",
-          "link": "https://twitter.com/ShinpeiKato/status/1555567302002851843",
-          "publishedOn": "2022-08-06T03:29:41.000Z",
-          "wordCount": 382,
-          "title": "Shinpei KATO (加藤真平) on Twitter: \"シャルルドゴール空港のPCRテストがドラクエ状態なのでここに詳細な攻略法を残しておきたいと思う。全クリに3〜4時間かかるのでフライト5〜6時間前には空港に着くようなスケジュールを推奨します。 https://t.co/lt3dCF7URV\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/KadotaRyusho/status/1555693627363377152",
-          "author": null,
-          "description": "内閣改造と党役員人事で松野官房長官、林外相、党役員では麻生副総裁、茂木幹事長を続投させ、岸防衛相や高市政調会長は交代との見方が有力に。“予想通り”最悪の方向へ。安倍元首相心肺停止の一報が流れた瞬間“ああ、日本が終わる”と思った事が… https://t.co/I9uYU3HXaG",
-          "link": "https://twitter.com/KadotaRyusho/status/1555693627363377152",
-          "publishedOn": "2022-08-06T00:42:44.000Z",
-          "wordCount": 382,
-          "title": "門田隆将 on Twitter: \"内閣改造と党役員人事で松野官房長官、林外相、党役員では麻生副総裁、茂木幹事長を続投させ、岸防衛相や高市政調会長は交代との見方が有力に。“予想通り”最悪の方向へ。安倍元首相心肺停止の一報が流れた瞬間“ああ、日本が終わる”と思った事が… https://t.co/I9uYU3HXaG\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASQ85675HQ85UTFK012.html",
-          "author": null,
-          "description": "公明党の石川博崇参院議員は5日、国会内で記者団に対し、「世界平和統一家庭連合（旧統一教会）」の関連団体「世界平和女性連合（WFWP）」が主催するイベントに参加していたことを明らかにした。10年以上前のチャリティーバザーだったといい、石川氏は「短時間立ち寄った際、WFWPが主催していることがその場でわかった」...",
-          "link": "https://www.asahi.com/articles/ASQ85675HQ85UTFK012.html",
-          "publishedOn": "2022-08-06T00:35:20.000Z",
-          "wordCount": 676,
-          "title": "公明議員が旧統一教会の関連イベント参加「支援はない」：朝日新聞デジタル",
-          "imageUrl": "https://imgopt.asahi.com/ogp/AS20220805002542_comm.jpg"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20220806033427",
-          "author": null,
-          "description": "SESや多重下請け構造だと、基本的にスキルというよりは単純労働力が求められる。 よって、多重中抜きの元請けには、技術というより「人売り」「奴隷商人」のスキルが求められる。 その結果、本当にIT以前のレベルの人間もちらほらいる。 異業種のトップ人材のほうが確実にITツールを使いこなしていると感じるレベル。 「...",
-          "link": "https://anond.hatelabo.jp/20220806033427",
-          "publishedOn": "2022-08-06T00:18:27.000Z",
-          "wordCount": 592,
-          "title": "やっぱITは内製が進むと思う",
-          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
-        },
-        {
-          "id": "https://note.com/shi3zblog/n/n9e3976f0c7f4",
-          "author": null,
-          "description": "最近流行ってるAIといえばMidjourney。 吾輩は自宅の電気代が5万円を超えてしまったのでgakyoをお休み中。 というか最近はgakyoでなくてもrepica.comとかいろいろあるのでそっちでいいのではないかと思っている。 そこでMidjourneyですよ。 開発リーダーはLeapMotionの人。 何より安い。だって今まで月に5万かかってた電...",
-          "link": "https://note.com/shi3zblog/n/n9e3976f0c7f4",
-          "publishedOn": "2022-08-06T00:13:34.000Z",
-          "wordCount": 2526,
-          "title": "Midjourneyに$40課金して見つけたコツ｜shi3z｜note",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/84132365/rectangle_large_type_2_5cc279207b7e16ac1534bfdf504fb2f0.png?fit=bounds&quality=85&width=1280"
-        },
-        {
-          "id": "https://www.nikkan-gendai.com/articles/view/life/309384",
-          "author": null,
-          "description": "統一教会（現・世界平和統一家庭連合）の信者救済を続ける「全国霊感商法対策弁護士連絡会」（全国弁連）の弁護士や、問題を追及するジャーナリストは、嫌がらせを受け、身の危険を感じるなど、皆、命懸けだ。 代表世話人の山口広弁護士は、先月29日に外国特派員協会で開いた会見でこう振り返った。 「この問題に取り組...",
-          "link": "https://www.nikkan-gendai.com/articles/view/life/309384",
-          "publishedOn": "2022-08-05T23:14:11.000Z",
-          "wordCount": 2051,
-          "title": "旧統一教会と対峙する弁護士・ジャーナリストが受けた嫌がらせ…無言電話や尾行だけじゃない｜日刊ゲンダイDIGITAL",
-          "imageUrl": "https://c799eb2b0cad47596bf7b1e050e83426.cdnext.stream.ne.jp/img/article/000/309/384/237cd0580a6710d4723bd798f915c55d20220805124231700.jpg"
-        },
-        {
-          "id": "https://togetter.com/li/1926301",
-          "author": null,
-          "description": "カニササレアヤコ (雅楽芸人) @Catfish_nama 郵便局の人に「送付品目が\"楽器\"だと曖昧なので楽器名を書いてください」って言われて 『書いてもわかんないだろうな』って思いながら「雅楽器 笙」って書いたら「書いてもわかんないですね！」って爆笑された 2022-08-04 21:42:14",
-          "link": "https://togetter.com/li/1926301",
-          "publishedOn": "2022-08-05T22:47:08.000Z",
-          "wordCount": 3084,
-          "title": "郵便局の人に「楽器」じゃ曖昧なので楽器名を書いてくださいと言われたので書いたところ爆笑された",
-          "imageUrl": "https://s.togetter.com/ogp/57f6904a9ad29c2b8f5707c39a5c1b23-1200x630.png"
-        },
-        {
-          "id": "https://twitter.com/bokukoui/status/1555447158223958018",
-          "author": null,
-          "description": "それでは、地下鉄と松本のサリン事件に坂本弁護士一家や、「修行」で死んでしまった信者などを加えても百人にもならないオウム真理教なんて、どうでもいいですね。 https://t.co/BxiF3lgcxp",
-          "link": "https://twitter.com/bokukoui/status/1555447158223958018",
-          "publishedOn": "2022-08-05T22:27:03.000Z",
-          "wordCount": 382,
-          "title": "墨東公安委員会 on Twitter: \"それでは、地下鉄と松本のサリン事件に坂本弁護士一家や、「修行」で死んでしまった信者などを加えても百人にもならないオウム真理教なんて、どうでもいいですね。 https://t.co/BxiF3lgcxp\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://togetter.com/li/1926164",
-          "author": null,
-          "description": "ひきこうもり @Hikikomori_ 生活に必要な単純労働をAIにすべてやらせて、人間はお絵描きしたり音楽を作ったり、クリエイティブな事をして優雅に暮らすのが、AIの発達した素晴らしい未来という話だったのに、実際の現代は、きつくて安い単純労働を人間がこなして、AIはものすごく優雅に上手にお絵描きしてるの、ディスト...",
-          "link": "https://togetter.com/li/1926164",
-          "publishedOn": "2022-08-05T22:23:44.000Z",
-          "wordCount": 3532,
-          "title": "AIにやってほしいのは確定申告や危険な仕事なのに、AIが娯楽や芸術をやり人間がキツイ仕事をやるディストピアになってね？",
-          "imageUrl": "https://s.togetter.com/ogp/ff997d80a6c9ad5e5ac8ddcd2d376313-1200x630.png"
-        },
-        {
-          "id": "https://togetter.com/li/1926479",
-          "author": null,
-          "description": "まとめ ピザハットさんのハットは帽子ではなく『小屋』だった！イエローハットさん大ショック「ハッとしたでしょう」 失恋を見ているような気持ちになった。強く生きて欲しい。 63958 pv 132 12 users 918",
-          "link": "https://togetter.com/li/1926479",
-          "publishedOn": "2022-08-05T22:18:13.000Z",
-          "wordCount": 2729,
-          "title": "あの悲劇から3年……ついにイエローハット・ピザハット・リンガーハットで“ハット同盟”誕生",
-          "imageUrl": "https://s.togetter.com/ogp/3135508bb4b418dc8d129d2868ac4d46-1200x630.png"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/194182",
-          "author": null,
-          "description": "東京都教育委員会が7月12日の安倍晋三元首相の葬儀に合わせ、半旗掲揚を求める文書を都立学校全255校に送り、複数校が掲揚したことが分かった。専門家は「政治的中立を求める教育基本法に反する恐れがある」と指摘。同様の依頼は川崎、福岡市などでも判明している。（中山岳） 都教委などによると、文書は通夜があった11...",
-          "link": "https://www.tokyo-np.co.jp/article/194182",
-          "publishedOn": "2022-08-05T22:14:04.000Z",
-          "wordCount": 1217,
-          "title": "安倍元首相葬儀　都教委も都立校に半旗掲揚を依頼　255校に文書送信　複数校が掲げる：東京新聞 TOKYO Web",
-          "imageUrl": "https://static.tokyo-np.co.jp/image/article/size1/3/0/3/f/303fd9c1a62aeb9c5866cabbdd614d08_1.jpg"
-        },
-        {
-          "id": "https://zenn.dev/339/articles/e3c174fdcc083e",
-          "author": null,
-          "description": "「良いコード／悪いコードで学ぶ設計入門」という本がとても売れているようです。私の所属している開発チームでも、何人か購入した人がいたので、私も購入して一通り読んでみました。 結果として、いくつかの考えが整理され、私としてはこの本によって考えが深まり、本を読んで考えた事自体は有意義であったと思いました...",
-          "link": "https://zenn.dev/339/articles/e3c174fdcc083e",
-          "publishedOn": "2022-08-05T19:53:23.000Z",
-          "wordCount": 1131,
-          "title": "良いコード／悪いコードで学ぶ設計入門の感想と注意点",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WJ84MzmZ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%2595%25E3%2581%2596%25E3%2582%2593%25E3%2581%258B%25E3%2581%25AC%25E3%2581%25B5%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E8%2589%25AF%25E3%2581%2584%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25EF%25BC%258F%25E6%2582%25AA%25E3%2581%2584%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E5%25AD%25A6%25E3%2581%25B6%25E8%25A8%25AD%25E8%25A8%2588%25E5%2585%25A5%25E9%2596%2580%25E3%2581%25AE%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B3%25A8%25E6%2584%258F%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS0zeW1UancxaS0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVkN2UyNjU4ZjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
-        },
-        {
-          "id": "https://twitter.com/naomi85490234/status/1555489635341844480",
-          "author": null,
-          "description": "安倍元総理は宮内庁の意見を突っぱね中途半端な5月1日を令和改元日とした。それが旧統一教会の創立記念日だったと知る。なんか、スゴいな。 https://t.co/kwYrT1esTG",
-          "link": "https://twitter.com/naomi85490234/status/1555489635341844480",
-          "publishedOn": "2022-08-05T18:21:07.000Z",
-          "wordCount": 382,
-          "title": "naomi on Twitter: \"安倍元総理は宮内庁の意見を突っぱね中途半端な5月1日を令和改元日とした。それが旧統一教会の創立記念日だったと知る。なんか、スゴいな。 https://t.co/kwYrT1esTG\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nobuyoyagi/status/1555333221008969729",
-          "author": null,
-          "description": "何度でも言います。統一協会関係者の唱える「家庭を大事にしよう」とは「真のお父様お母様の家庭（統一協会）を大事にしよう」という意味。彼らの平和とは「文鮮明ファミリーが全ての権力を掌握する独裁状態」のことです。",
-          "link": "https://twitter.com/nobuyoyagi/status/1555333221008969729",
-          "publishedOn": "2022-08-05T16:18:54.000Z",
-          "wordCount": 382,
-          "title": "Nobuyo Yagi 八木啓代 on Twitter: \"何度でも言います。統一協会関係者の唱える「家庭を大事にしよう」とは「真のお父様お母様の家庭（統一協会）を大事にしよう」という意味。彼らの平和とは「文鮮明ファミリーが全ての権力を掌握する独裁状態」のことです。\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6e76dfae1e2acf534fa54c51f345fbc158a0f9d1",
-          "author": null,
-          "description": "5日夜、福岡県で開催された筑後川花火大会の会場近く爆発火災があり、高等専門学校の弓道場が全焼しました。 夜空を照らす色とりどりの花火。しかし、次の瞬間・・・。大きな爆発音のあと、建物が炎に包まれました。 5日午後8時すぎ、福岡県久留米市にある久留米工業高等専門学校で起きた火事。 火は20分後に消し止めら...",
-          "link": "https://news.yahoo.co.jp/articles/6e76dfae1e2acf534fa54c51f345fbc158a0f9d1",
-          "publishedOn": "2022-08-05T16:15:22.000Z",
-          "wordCount": 979,
-          "title": "【爆発の瞬間】“西日本最大級“の花火大会で火災事故か　会場近くの弓道場が全焼　警察が関連捜査（RKB毎日放送） - Yahoo!ニュース",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20220805-00010014-rkbv-000-5-thumb.jpg?exp=10800"
-        },
-        {
-          "id": "https://www.nhk.or.jp/politics/articles/feature/87247.html",
-          "author": null,
-          "description": "安倍晋三元総理大臣の銃撃事件を機に、「世界平和統一家庭連合」=旧統一教会と政治家との関係が表面化し、問題視されている。 「上からの指示は絶対」と教えられ、選挙の支援や、特定の候補者の投票を求められた信者の子供たち。 教団の関連イベントに関わったり、選挙運動を手伝ってもらったりした政治家たち。 専門家...",
-          "link": "https://www.nhk.or.jp/politics/articles/feature/87247.html",
-          "publishedOn": "2022-08-05T15:59:11.000Z",
-          "wordCount": 192,
-          "title": "旧統一教会と政治家との関係続々と 選挙に協力した宗教2世 | NHK政治マガジン",
-          "imageUrl": "https://www.nhk.or.jp/politics/wp-content/uploads/2022/08/0806touitsumv3.jpg"
-        },
-        {
-          "id": "https://zenn.dev/akira_miyake/articles/8770dc27aa137e",
-          "author": null,
-          "description": "Webアプリケーションで、ブラウザ上でJavaScriptを用いてAPIからデータを取得して画面に反映する挙動が遅いと言われた時にフロントエンド側が確認することと対処方法。 ユーザのボタンクリックなどのアクションをトリガーとして、APIからデータを取得し画面に反映するというシナリオがあった際に、ユーザのアクションか...",
-          "link": "https://zenn.dev/akira_miyake/articles/8770dc27aa137e",
-          "publishedOn": "2022-08-05T15:47:18.000Z",
-          "wordCount": 239,
-          "title": "フロントエンドが遅いと言われた時に",
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eaUBIwHv--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Akira%2520Miyake%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%258C%25E9%2581%2585%25E3%2581%2584%25E3%2581%25A8%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2581%259F%25E6%2599%2582%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l0N1kza1QxYTJJUkxxREt4UkdBdTk3M0NQN01neGNHVHRJcFR6cWc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
-        },
-        {
-          "id": "https://shonenjumpplus.com/episode/3270375685393122381",
-          "author": null,
-          "description": "JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。",
-          "link": "https://shonenjumpplus.com/episode/3270375685393122381",
-          "publishedOn": "2022-08-05T15:21:22.000Z",
-          "wordCount": 243,
-          "title": "サトシの葬儀EP - 佐武原 | 少年ジャンプ＋",
-          "imageUrl": "https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/3270375685374420715-1bb4764e557e864eaa1c859771c34dc6?1659740716"
-        },
-        {
-          "id": "https://nordot.app/928299059349733376",
-          "author": null,
-          "description": "ロイター通信などは5日、ウクライナ南部のザポロジエ原発に対する砲撃があり、施設に被害が出たと報じた。ロシアとウクライナは互いに相手の攻撃と非難している。（共同）",
-          "link": "https://nordot.app/928299059349733376",
-          "publishedOn": "2022-08-05T15:07:51.000Z",
-          "wordCount": 393,
-          "title": "ウクライナ南部の原発に砲撃、施設に被害 ｜ 共同通信",
-          "imageUrl": "https://nordot-res.cloudinary.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png"
-        },
-        {
-          "id": "https://togetter.com/li/1926293",
-          "author": null,
-          "description": "リンク NHK みんなのうた コンピューターおばあちゃん | NHK みんなのうた 【うた】東京放送児童合唱団（酒井司優子）【作詞】伊藤良一【作曲】伊藤良一【映像アニメ】アニメ：とこいった【初回放送】1981年12月〜1982年01月 #みんなのうた #コンピューターおばあちゃん #東京放送児童合唱団（酒井司優子） 385 リンク W...",
-          "link": "https://togetter.com/li/1926293",
-          "publishedOn": "2022-08-05T14:20:35.000Z",
-          "wordCount": 3537,
-          "title": "AIに『コンピューターおばあちゃん』を描くように頼んだら思った以上の作品に仕上がってきた「秘密結社の幹部じゃん」",
-          "imageUrl": "https://s.togetter.com/ogp/cfeb20c7629554785c3175af05bde3f2-1200x630.png"
-        },
-        {
-          "id": "https://togetter.com/li/1926295",
-          "author": null,
-          "description": "たられば @tarareba722 東京駅を歩いていたら、英語を話す外国人お兄さん二人組が迷ってるっぽかったので声をかけた。京都まで行きたいというので東海道新幹線の窓口まで案内。半日くらいかかると思うけどのんびり列車旅を楽しみたいと言うので、いや京都なら2時間半でつくよというと、えっという顔をされた。面白かった...",
-          "link": "https://togetter.com/li/1926295",
-          "publishedOn": "2022-08-05T14:19:56.000Z",
-          "wordCount": 2564,
-          "title": "駅で迷っている外国人がいたので新幹線の窓口まで案内して「京都なら2時間半でつくよ」と言うと「えっ」という顔をされた",
-          "imageUrl": "https://s.togetter.com/ogp/e0cf444a2903abdb55becb82ce2e87bc-1200x630.png"
-        },
-        {
-          "id": "https://www.watch.impress.co.jp/docs/news/1430632.html",
-          "author": null,
-          "description": "米Amazonは5日(米国時間)、ロボット掃除機「ルンバ」のiRobotを買収すると発表した。買収総額は約17億ドル(約2,285億円)。",
-          "link": "https://www.watch.impress.co.jp/docs/news/1430632.html",
-          "publishedOn": "2022-08-05T13:07:45.000Z",
-          "wordCount": 3543,
-          "title": "アマゾン、「ルンバ」のアイロボット買収。2285億円 - Impress Watch",
-          "imageUrl": "https://www.watch.impress.co.jp/img/ipw/list/1430/632/ar0.jpg"
-        },
-        {
-          "id": "https://www.theheadline.jp/articles/666",
-          "author": null,
-          "description": "公開日 2022年08月05日 19:03, 更新日 2022年08月05日 22:38, 無料記事 / 政治・国際関係 7月8日、奈良市内で街頭演説をおこなっていた安倍晋三元首相が銃撃・殺害された事件に端を発して、政界と旧統一教会（*1）の関係に注目が集まっている。 関連記事：統一教会とは何か？安倍晋三・岸信介元首相らとの関係は これま...",
-          "link": "https://www.theheadline.jp/articles/666",
-          "publishedOn": "2022-08-05T12:55:33.000Z",
-          "wordCount": 1446,
-          "title": "統一教会との関与が示された議員・知事ら121名一覧。現職閣僚から首相経験者まで | The HEADLINE",
-          "imageUrl": "https://d2bz98p2lfzf5b.cloudfront.net/H82K7RowhHiZneyXego1ycpw"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOGN05CG20V00C22A8000000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【ニューヨーク=堀田隆文】米インターネット通販最大手のアマゾン・ドット・コムは5日、ロボット掃除機「ルンバ」の米アイロボットを買収すると発表した。買収額は負債...",
-          "link": "https://www.nikkei.com/article/DGXZQOGN05CG20V00C22A8000000/",
-          "publishedOn": "2022-08-05T12:44:04.000Z",
-          "wordCount": 188,
-          "title": "Amazon、「ルンバ」のアイロボット買収　2300億円",
-          "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2258341005082022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=8a03b784e1c1761fd63175f362a19a0f"
         }
       ]
     },
@@ -11662,6 +11682,76 @@
       "feedUrl": "https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf",
       "siteUrl": "https://forest.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/update/driver/1437227.html",
+          "author": null,
+          "description": "",
+          "link": "https://forest.watch.impress.co.jp/docs/update/driver/1437227.html",
+          "publishedOn": "2022-09-05T00:30:00.000Z",
+          "wordCount": 4383,
+          "title": "【アップデート情報】パッケージ・ドライバー関連　9月5日　～ヤマハなど",
+          "imageUrl": "https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1437225.html",
+          "author": null,
+          "description": "日本時間9月4日より、内部で「Chromium」を利用するアプリ（「Google Chrome」や「Microsoft Edge」、「Spotify」など）を起動するたびに「Microsoft Defender」ウイルス対策が「win32/hive.zy」というマルウェアを検知する現象が発生しているようだ。編集部でも確認をした。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1437225.html",
+          "publishedOn": "2022-09-05T00:13:49.000Z",
+          "wordCount": 4328,
+          "title": "マルウェア「win32/hive.zy」が検出されるトラブル ～「Microsoft Defender」ウイルス対策の誤検知か／「Chromium」ベースのアプリで発生",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1437/225/image_top.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1436533.html",
+          "author": null,
+          "description": "米Microsoftは8月30日（現地時間）、「Microsoft Excel」の2022年8月アップデートに関するまとめを発表した。各プラットフォーム版の新機能として、以下を挙げている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1436533.html",
+          "publishedOn": "2022-09-04T23:45:00.000Z",
+          "wordCount": 4323,
+          "title": "Excelに大規模な機能追加 ～Microsoftが8月の更新まとめを発表／",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1436/533/excel.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/update/library/1436650.html",
+          "author": null,
+          "description": "定番のテキストエディター",
+          "link": "https://forest.watch.impress.co.jp/docs/update/library/1436650.html",
+          "publishedOn": "2022-09-04T22:30:00.000Z",
+          "wordCount": 4323,
+          "title": "【アップデート情報】窓の杜収録ソフト　9月5日　～「秀丸エディタ」や「OBS Studio」など",
+          "imageUrl": "https://forest.watch.impress.co.jp/include/common/p01/images/logo/wf.l.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/offitech/1437140.html",
+          "author": null,
+          "description": "「1.○○○○」を入力すると次の行に自動挿入される「2.」をいちいち消している。文頭の英単語の1文字目が勝手に大文字に変換されて困る。など、Wordでは何でそうなるの！？ という瞬間がありますよね。なぜか罫線が挿入されたり、URLやメールアドレスにハイパーリンクが自動的に設定されたりするのも地味にイライラします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/offitech/1437140.html",
+          "publishedOn": "2022-09-04T21:55:00.000Z",
+          "wordCount": 4348,
+          "title": "余計なことをしないで！ Wordの邪魔な自動変換機能を回避する方法【残業を減らす！Officeテクニック】",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1437/140/Office2021_44-top.png"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1437194.html",
+          "author": null,
+          "description": "米Microsoftは9月1日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」の最新安定（Stable）版v105.0.1343.25を公開した。「Edge 105」では、「Edge 104」に引き続きセキュリティ優先モードを強化。64bit版Windows環境でWebAssemblyがカバーされた。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1437194.html",
+          "publishedOn": "2022-09-04T21:45:00.000Z",
+          "wordCount": 4397,
+          "title": "「Microsoft Edge 105」が正式版に ～「Chromium」のゼロデイ脆弱性にも対処／64bit版Windows環境でWebAssemblyがセキュリティ強化モードでカバーされる",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1437/194/microsoft_edge.jpg"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1437193.html",
+          "author": null,
+          "description": "米Googleは9月2日（現地時間）、デスクトップ向け「Google Chrome」の最新安定（Stable）版v105.0.5195.102を公開した。ゼロデイ脆弱性に対処したセキュリティアップデートで、かならずアップデートしておきたい。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1437193.html",
+          "publishedOn": "2022-09-04T20:00:00.000Z",
+          "wordCount": 4315,
+          "title": "「Google Chrome」にゼロデイ脆弱性、対策版のv105.0.5195.102が緊急公開／",
+          "imageUrl": "https://forest.watch.impress.co.jp/img/wf/list/1437/193/google_chrome.jpg"
+        },
         {
           "id": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1436759.html",
           "author": null,
@@ -13909,6 +13999,66 @@
       "feedUrl": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
       "siteUrl": "https://pc.watch.impress.co.jp",
       "articles": [
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1437222.html",
+          "author": null,
+          "description": "LG Electronicsは、9月2日～9月6日(現地時間)にドイツ共和国ベルリン市で開催されているIFA 2022に出展し、同社の新製品などを展示した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1437222.html",
+          "publishedOn": "2022-09-05T00:00:08.000Z",
+          "wordCount": 5053,
+          "title": "LG、45型WQHD/240Hz/800Rのゲーミングモニター。電動で湾曲する42型TV「OLED Flex」も",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1437/222/002.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1437219.html",
+          "author": null,
+          "description": "MSIは、9月2日よりドイツ共和国ベルリン市にあるベルリン・メッセで開催されている展示会「IFA 2022」に出展し、同社がまもなく販売を開始するマザーボードやノートPC、ディスプレイなどを展示した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1437219.html",
+          "publishedOn": "2022-09-04T23:46:10.000Z",
+          "wordCount": 5167,
+          "title": "MSI、PCIe 5.0 x16が3スロットのSocket AM5マザーボード「MEG X670E ACE」",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1437/219/001.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/event/1437218.html",
+          "author": null,
+          "description": "ASUSは、9月2日よりドイツ共和国ベルリン市にあるベルリンメッセで開催されているIFA 2022に出展し、同社の最新製品となる「Zenbook 17 Fold OLED」を発表、展示した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/event/1437218.html",
+          "publishedOn": "2022-09-04T23:35:01.000Z",
+          "wordCount": 5075,
+          "title": "ASUS、折り曲げPCとして世界最大画面のZenbook 17 Fold OLEDをIFAで発表",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1437/218/012.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/special/1434959.html",
+          "author": null,
+          "description": "レノボ・ジャパンの「ThinkPad」は、性能面から利便性までとことんこだわった仕様を実現していることで、ビジネスユーザーから絶大な支持を集めるノートPCとしておなじみだ。その中でも、「ThinkPad X1 Carbon」シリーズは、優れた性能と利便性だけでなく、軽快に持ち歩ける軽さと優れた堅牢性を兼ね備えることで、毎日ノートPCを持ち歩く必要のあるビジネスユーザーに最適の製品となっている。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/special/1434959.html",
+          "publishedOn": "2022-09-04T21:30:00.000Z",
+          "wordCount": 5213,
+          "title": "ThinkPad X1 Carbon Gen 10のカスタマイズについてあまり知られていない事実 ～【2022年お勧めのプレミアムビジネスノートレビュー】[Sponsored]",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1434/959/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1437192.html",
+          "author": null,
+          "description": "ASUSから、プレミアムノートPC「Zenbook」シリーズ新モデル「Zenbook 14 OLED UX3402ZA」が登場した。モバイル用途にも十分対応できる薄型ボディに、14型有機ELタッチディスプレイや、第12世代Core Pプロセッサを採用し、ビジネスからホビーまで、幅広い用途に対応可能な製品となっている。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/hothot/1437192.html",
+          "publishedOn": "2022-09-04T21:20:00.000Z",
+          "wordCount": 5193,
+          "title": "【Hothotレビュー】2,880×1,800の有機EL搭載でコスパ良し。薄型14型ノート「Zenbook 14 OLED」を試す",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1437/192/01.jpg"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/column/dekirunet/1437124.html",
+          "author": null,
+          "description": "Excelの機能「フラッシュフィル」を動画＋画面付き操作手順で解説。フラッシュフィルとは、入力済みのデータから法則性を見つけ出し、自動的に処理してくれる機能のこと。状況によっては関数よりも時短できる、知る人ぞ知る便利機能となっています。",
+          "link": "https://pc.watch.impress.co.jp/docs/column/dekirunet/1437124.html",
+          "publishedOn": "2022-09-04T21:00:00.000Z",
+          "wordCount": 5002,
+          "title": "【本日のできるネット】【エクセル時短】関数より速い！「フラッシュフィル」の使い方。データの法則性を見つけて自動入力を実現",
+          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1437/124/01.png"
+        },
         {
           "id": "https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1437022.html",
           "author": null,
@@ -18228,46 +18378,6 @@
           "wordCount": 4992,
           "title": "【本日のできるネット】【エクセル時短】起動が遅い！ 動作が重い！ と感じたときにすぐに試せる3つの対処法",
           "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1430/583/01.png"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1430407.html",
-          "author": null,
-          "description": "皆さんこんにちは、奥村茉実です! 今週も「怒首領蜂 大復活(Ver.1.5)」のプレイ内容をお届けします。こちらは2008年にアーケード版が発売。怒首領蜂シリーズは大復活の前にも何作かありますが、私はこれがシリーズ初プレイです。久しぶりのシューティングゲームで、しかも縦スクロール!Steamにて3,065円で購入可能です。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1430407.html",
-          "publishedOn": "2022-08-05T23:00:00.000Z",
-          "wordCount": 5040,
-          "title": "【インプレスeスポーツ部女子レトロゲーム班】奥村茉実、「怒首領蜂大復活」クリアはムリでした、ごめんなさい……",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1430/407/01.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1430619.html",
-          "author": null,
-          "description": "ASUSから、2022年モデルのZenBook最新シリーズが発表された。「Zenbook Pro 16X OLED(UX7602)」は、ラインナップ中でもっとも大きな16型サイズの有機ELディスプレイを搭載する薄型ノートPCだ。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/hothot/1430619.html",
-          "publishedOn": "2022-08-05T22:09:00.000Z",
-          "wordCount": 5246,
-          "title": "【Hothotレビュー】ダイヤル付きの16型クリエイティブノート。ASUS Zenbook Pro 16X OLEDをレビュー",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1430/619/1-1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/config/1430564.html",
-          "author": null,
-          "description": "時計を名乗っているのだから、そこに視線を向けた時には時刻を教えてほしい。当たり前の願望だ。ところが、そんな当たり前の願いをかなえてくれるスマートウォッチ/バンドは、ごく一部の製品にすぎない。それでもだんだんと充実してきてもいる。今回は、比較的新しい製品として、「Amazfit T-Rex 2」とシャオミの「@@link|https://www.mi.com/jp/product/xiaomi-smart-band-7/|Smart Band 7」を試してみた。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/config/1430564.html",
-          "publishedOn": "2022-08-05T21:42:00.000Z",
-          "wordCount": 5056,
-          "title": "【山田祥平のRe:config.sys】常時点灯させて感じたスマートウォッチ/バンドとバッテリの一蓮托生運命共同体的関係",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1430/564/1.jpg"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/ubuntu/1430476.html",
-          "author": null,
-          "description": "Ubuntuを紹介する記事には、しばしば「UbuntuはGNOMEデスクトップ環境を採用している」のような説明を見かける。ではGNOMEとは、デスクトップ環境とは何なのだろうか。そしてGNOME以外にもデスクトップ環境は存在するのだろうか。今回はそんな話だ。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/1430476.html",
-          "publishedOn": "2022-08-05T21:35:00.000Z",
-          "wordCount": 5090,
-          "title": "【Ubuntu日和】【第8回】デスクトップ環境ってなんだろう？",
-          "imageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/1430/476/woody.png"
         }
       ]
     }
