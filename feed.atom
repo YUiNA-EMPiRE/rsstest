@@ -2,16 +2,386 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YUiNA-EMPiRE.github.io/rsstest/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-09T00:38:48.713Z</updated>
+    <updated>2022-10-10T00:45:30.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://YUiNA-EMPiRE.github.io/rsstest/index.html"/>
     <link rel="self" href="https://YUiNA-EMPiRE.github.io/rsstest/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲーム機・エアコンなど供給不足緩和　主要20品目の7割]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC160QD0W2A910C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC160QD0W2A910C2000000/"/>
+        <updated>2022-10-09T22:36:55.000Z</updated>
+        <summary type="html"><![CDATA[製品の需給バランスが回復している。日本経済新聞社の調査で、10～12月期には自動車や電気製品など主要20品目の7割が需要を満たす生産・入荷を計画していることが分かった。不足していたゲーム機などが需要をある程度満たすようになる。なお不足気味の乗用車...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧統一教会側が望む法制定、請願多い熊本　提出者は教団系団体と接点：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASQB95JLMQB9OXIE01F.html</id>
+        <link href="https://www.asahi.com/articles/ASQB95JLMQB9OXIE01F.html"/>
+        <updated>2022-10-09T21:05:22.000Z</updated>
+        <summary type="html"><![CDATA[国が家庭教育の基本方針を定めるという「家庭教育支援法」の制定を求める意見書が、全国各地の地方議会で可決されている。家庭教育は、宗教法人「世界平和統一家庭連合（旧統一教会）」が重視する。意見書を可決した自治体が最も多い熊本県では、教団の友好団体の幹部を務めている男性が立ち上げた団体が、意見書を求め...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビートルズは短かった　繰り返すイントロの歴史]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC04B3E0U2A001C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC04B3E0U2A001C2000000/"/>
+        <updated>2022-10-09T20:56:40.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 「サビまで待てない」と、イントロ（歌い出しまでの時間）が短くなっていた日本のポップソング。「倍速ニッポン」の前回連載では、YOASOBI、米津玄師などを例に時間効...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先輩エンジニアから「メモリを意識してプログラムを書かないやつは三流だ」と言われたのですが、今は令和ですよと言いたかったです。メモリを意識してプログラムを書く必要性を分かりやすく教えて頂けませんか？]]></title>
+        <id>https://jp.quora.com/%E5%85%88%E8%BC%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8B%E3%82%89-%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92</id>
+        <link href="https://jp.quora.com/%E5%85%88%E8%BC%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%8B%E3%82%89-%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%92%E6%84%8F%E8%AD%98%E3%81%97%E3%81%A6%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92"/>
+        <updated>2022-10-09T20:35:14.000Z</updated>
+        <summary type="html"><![CDATA[回答 (19件中の1件目) 令和だろうがなんだろうが意識はしてないとダメだと思いますよ。 ハードウェア資源の限られた組み込み系やゲーム系は別として、業務系でもWeb 系でも 1バイトでも少なくなるように無駄を削るみたいなことはしなくてもいいでしょうし、たいていは解放漏れも意識しなくて良くなってます。 昭和〜平成...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア プーチン大統領 橋爆発をウクライナ側のテロ行為と非難 | NHK]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20221010/k10013853931000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20221010/k10013853931000.html"/>
+        <updated>2022-10-09T20:10:38.000Z</updated>
+        <summary type="html"><![CDATA[ロシアが一方的に併合したウクライナ南部のクリミアとロシアをつなぐ橋で起きた爆発について、プーチン大統領は、ウクライナ側によるテロ行為だとする見方を示し、非難しました。プーチン大統領は10日に安全保障会議を開催する予定で、事態の一層の緊迫化は避けられない情勢です。 ロシアが8年前に一方的に併合したウク...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「交際相手と出会う前にすれ違った回数」をGoogleマップの位置情報履歴から求めた結果とは？]]></title>
+        <id>https://gigazine.net/news/20221009-google-maps-location/</id>
+        <link href="https://gigazine.net/news/20221009-google-maps-location/"/>
+        <updated>2022-10-09T17:00:04.000Z</updated>
+        <summary type="html"><![CDATA[初対面の相手と恋に落ちる「運命の出会い」を信じている人は多いはず。データサイエンティストのシャノン・ペリー氏は、自身と恋人のGoogleアカウントに記録された位置情報履歴を用いて、「2人が運命の出会いを果たすまでに何度すれ違ったか」を検証しています。 How fateful? https://chan.co.za/how-fateful ペリー氏...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[母と某夢の国行ったら冤罪で謝罪させられて悔しい]]></title>
+        <id>https://anond.hatelabo.jp/20221010005624</id>
+        <link href="https://anond.hatelabo.jp/20221010005624"/>
+        <updated>2022-10-09T15:57:56.000Z</updated>
+        <summary type="html"><![CDATA[そもそもおかしい人に絡まれたのが原因だけど、最終的に母を過呼吸まで追い込んだ対応にも悔しくて正直もうあんなとこ行きたくない。 発端はあるアトラクションに乗る時のことだった。 乗り場に向かって歩いているとき、後ろで転んだ人がいた。母と私は普通に驚いたし、母は大丈夫ですか？！と声をかけた。 そのあと乗り...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードレビューのときに見ているところ - 詩と創作・思索のひろば]]></title>
+        <id>https://motemen.hatenablog.com/entry/2022/10/codereview-points</id>
+        <link href="https://motemen.hatenablog.com/entry/2022/10/codereview-points"/>
+        <updated>2022-10-09T15:05:58.000Z</updated>
+        <summary type="html"><![CDATA[あるときコードレビューするときにどういうところ見てるんですか？ と訊かれてたしかに自分でもあまり言語化したことはなかったな、と気づいたので簡単に書いておく。 変更意図が要求に沿っているか そもそも実現しようとしていることが、ユーザやプロダクトオーナーの要求に沿っているか。モデリングや実装のコンテキス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[第30話]ラーメン赤猫 - アンギャマン | 少年ジャンプ＋]]></title>
+        <id>https://shonenjumpplus.com/episode/316112896911652140</id>
+        <link href="https://shonenjumpplus.com/episode/316112896911652140"/>
+        <updated>2022-10-09T15:01:10.000Z</updated>
+        <summary type="html"><![CDATA[JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[母が青春コンプで私が外出するたびに嫌味言ってきたりお金の使い方に過度に厳しい→「自分の過去や現状に自信がない状態で子育てしてはいけないんだな」]]></title>
+        <id>https://togetter.com/li/1956106</id>
+        <link href="https://togetter.com/li/1956106"/>
+        <updated>2022-10-09T13:39:50.000Z</updated>
+        <summary type="html"><![CDATA[懲役©❗ @tyouekityann 母親、母親自身が学生の時貧乏でいわゆる青春コンプ的なとこがあるから、私が外出するたびに嫌味言ってきたりお金の使い方に過度に厳しかったり服装が少し派手だと笑ってくるのでやはり、自分の過去や現状に自信がない状態で子育てしてはいけないんだなって思う 2022-10-08 21:03:26]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国葬「反対の8割が大陸から」波紋ツイートの三重県議を直撃 “統一教会”友好団体で5年以上働く？ その人物像とは――（日テレNEWS） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/780a61f8f0585301ab6055e8d2133af42349a45a</id>
+        <link href="https://news.yahoo.co.jp/articles/780a61f8f0585301ab6055e8d2133af42349a45a"/>
+        <updated>2022-10-09T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[安倍元首相の国葬をめぐり「反対のSNS発信の8割が隣の大陸から」とツイッターに投稿した小林貴虎・三重県議。物議を醸した投稿については謝罪と撤回をしましたが、過去には他人の個人情報を無断でブログで公開し批判を受けたこともありました。 さらに、いわゆる統一教会の友好団体のホームページには小林県議が「5年以...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[庶民向け台湾中華料理でお勧めを教えろ。]]></title>
+        <id>https://anond.hatelabo.jp/20221009214247</id>
+        <link href="https://anond.hatelabo.jp/20221009214247"/>
+        <updated>2022-10-09T12:57:16.000Z</updated>
+        <summary type="html"><![CDATA[地元に新しく出来た、庶民向け台湾中華料理店に次に行く時の参考にするから。 青椒肉絲と台湾ラーメンは、既に食べたから、それ以外で。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スピンオフの方が有名なもの]]></title>
+        <id>https://anond.hatelabo.jp/20221009204819</id>
+        <link href="https://anond.hatelabo.jp/20221009204819"/>
+        <updated>2022-10-09T12:02:17.000Z</updated>
+        <summary type="html"><![CDATA[BABYMETALさくら学院が本家。中高生のアイドルユニットだけど、終了済。 学校と言うテイでやってるのだが、その中の部活動「重音部」がBABYMETAL。 なめこ栽培キットニンテンドーDSで発売された「おさわり探偵 小沢里奈」が本家。 ハンチョウカイジとか誰も読んでないだろ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特集 インタビュー | NHK大河ドラマ「鎌倉殿の13人」]]></title>
+        <id>https://www.nhk.or.jp/kamakura13/special/interview/074.html</id>
+        <link href="https://www.nhk.or.jp/kamakura13/special/interview/074.html"/>
+        <updated>2022-10-09T11:54:39.000Z</updated>
+        <summary type="html"><![CDATA[物語も終盤になってきましたが、これまでの執筆の中でどのようなことを感じていますか。 今回この「鎌倉殿の13人」を書くにあたっては、今まであまり経験してこなかった不思議な偶然がたくさんあるんですよ。すごく大げさな言い方になりますが、神様が「書け」と言っているような。例を挙げると、まずは上総介広常の死に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保険証廃止、２４年秋にも　厚労省調整、マイナカード一本化　交付率５割届かず、対応課題：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/sp/articles/DA3S15439577.html</id>
+        <link href="https://www.asahi.com/sp/articles/DA3S15439577.html"/>
+        <updated>2022-10-09T11:37:15.000Z</updated>
+        <summary type="html"><![CDATA[厚生労働省は、健康保険証を２０２４年秋にも原則廃止する方向で調整に入った。保険証を廃止した後の事務対応はマイナンバーカードを基本とする。ただマイナカードの交付率は９月末時点でも人口の５割に届いておらず、カードを持たない人への対応が課題となりそうだ。 政府は今年６月にまとめた「経済財政運営と改革…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『仁藤さんのとこで支援断られたって人がけっこううちに流れて来るので踏みつける側になってないか今一度振り返ってほしいわ』]]></title>
+        <id>https://togetter.com/li/1956178</id>
+        <link href="https://togetter.com/li/1956178"/>
+        <updated>2022-10-09T11:24:42.000Z</updated>
+        <summary type="html"><![CDATA[仁藤夢乃 Yumeno Nito @colabo_yumeno 踏みつける側は、踏みつけられている側の声を意図的に嘲笑い、矮小化し続けてきた。今まで相手にするのも馬鹿馬鹿しくて言及しなかったが、こんな人に子ども支援に関わらないでほしいし、ビジネスとして自殺対策を謳う団体を国が利用していることにも失望している。 twitter.com/oz...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepMindの研究者が「AIが人類を滅ぼす可能性は高い」との論文を発表]]></title>
+        <id>https://gigazine.net/news/20221009-google-deepmind-ai-eliminate-humanity/</id>
+        <link href="https://gigazine.net/news/20221009-google-deepmind-ai-eliminate-humanity/"/>
+        <updated>2022-10-09T11:14:47.000Z</updated>
+        <summary type="html"><![CDATA[by Dick Thomas Johnson 画像生成AIが人間を差し置いて絵画コンテストで優勝するなどAIが近年目覚ましい進歩を遂げる中、査読付の専門誌であるAI Magazineに、将来的に超知能AIが現れて人類に対する脅威となる可能性は高いと結論付ける論文が掲載されました。 Advanced artificial agents intervene in the provision of...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レッドオーシャンの雑貨市場で「3COINS」が急成長している理由｜もやし｜note]]></title>
+        <id>https://note.com/c1sc2pr/n/n369fb8650904</id>
+        <link href="https://note.com/c1sc2pr/n/n369fb8650904"/>
+        <updated>2022-10-09T10:38:03.000Z</updated>
+        <summary type="html"><![CDATA[先日二子玉川のriseを訪れた際、「3COINS」という黄緑色の見慣れない看板が目につき入店してみたところ、店内が20代～30代の女性で賑わっており非常に驚きました。 軽く調べてみたところ、売上高や店舗数が急成長中の雑貨ブランドらしく、その仕組みも非常に面白い企業であることが分かりました。アパレル出自ならではの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ対策としてのマスクの緩和　どのように進めていくべきか？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20221009-00318714</id>
+        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20221009-00318714"/>
+        <updated>2022-10-09T10:29:33.000Z</updated>
+        <summary type="html"><![CDATA[政府は新型コロナの感染対策としてのマスクの着用について、基準の見直しに着手すると発表しました。 マスク着用の緩和について検討することは重要ですが、それだけが独り歩きしないような建設的な議論が必要です。 マスク着用は感染予防に有効であるユニバーサルマスキングによる感染リスクの低減（DOI: 10.1126/scienc...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ｉＰｈｏｎｅ１４」大苦戦　販売振わず「１２」比で５割減]]></title>
+        <id>https://www.sankei.com/article/20221009-YHR5QNOZ25IMLJKL5O4CQVHS5M/</id>
+        <link href="https://www.sankei.com/article/20221009-YHR5QNOZ25IMLJKL5O4CQVHS5M/"/>
+        <updated>2022-10-09T09:56:31.000Z</updated>
+        <summary type="html"><![CDATA[米アップルのスマートフォン「ｉＰｈｏｎｅ」の新型「１４」シリーズ＝東京都渋谷区米アップルの最新スマートフォン「ｉＰｈｏｎｅ（アイフォーン）１４」シリーズの売れ行きが振わない。販売台数は前機種「１３」、前々機種「１２」の実績に対し２～５割減の水準と大苦戦。原材料費の上昇や円安による物価高が続く中、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東工大が無料公開しているPython解説サイト初心者の目線に合わせた丁寧な説明で、かゆいところに手が届く教材。基本的な文法、データ構造、ファイル入出力やオブジェクト指向、NumpyとMatplotlibの使い方などをひと通り学べる。]]></title>
+        <id>https://togetter.com/li/1956119</id>
+        <link href="https://togetter.com/li/1956119"/>
+        <updated>2022-10-09T09:28:54.000Z</updated>
+        <summary type="html"><![CDATA[QDくん⚡️Python x 機械学習 x 金融工学 @developer_quant 金融技術職/統計学,データサイエンス,プログラミングの勉強に役立つ情報を発信/良質な無料教材,スライド,サイト,書籍を紹介/金融工学x機械学習ブログ運営(700記事) quantcollege.net /C++/Python/Julia/Rust/Amazonアソシエイト参加中/書籍レビュー依頼はDMへ no...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[”終わり”の大学生が高校生にチャーハンの作り方を教えてもらったら予想の1000倍ボンクラだった話〜温度確認で熱した油に指突っ込むって普通じゃないんですか？〜]]></title>
+        <id>https://togetter.com/li/1955971</id>
+        <link href="https://togetter.com/li/1955971"/>
+        <updated>2022-10-09T09:12:20.000Z</updated>
+        <summary type="html"><![CDATA[🦖クソボケザウルス🦖 @abareru_yoh 俺は目玉焼きも作れないのに、、、、2歳下のおてんてんは卵焼まで作れている、、、、、俺って、、、俺って、、、、 2022-10-09 05:31:23]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モルディブの水上都市、その全容が徐々に明らかに]]></title>
+        <id>https://www.cnn.co.jp/style/architecture/35191848.html</id>
+        <link href="https://www.cnn.co.jp/style/architecture/35191848.html"/>
+        <updated>2022-10-09T08:58:01.000Z</updated>
+        <summary type="html"><![CDATA[インド洋上に都市が建設されつつある。モルディブの首都マレからボートでわずか１０分の場所にあるターコイズブルーのラグーン（潟）に浮かぶこの水上都市には２万人が居住可能だ。 脳サンゴの模様に似たデザインのこの都市は、住居、レストラン、店舗、学校など、５０００もの水上ユニットで構成されており、ユニットと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チャーハンが死ぬほどうまい店ねーかなー]]></title>
+        <id>https://anond.hatelabo.jp/20221009172652</id>
+        <link href="https://anond.hatelabo.jp/20221009172652"/>
+        <updated>2022-10-09T08:44:16.000Z</updated>
+        <summary type="html"><![CDATA[都内で。 チャーハンてどこの食ってもあんま味が変わらないくらい成熟した食べ物になってきたよな。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【必見】プログラマーが学習・開発で絶対に登録するべき15のYouTubeチャンネル]]></title>
+        <id>https://zenn.dev/nameless_sn/articles/recommended_youtube</id>
+        <link href="https://zenn.dev/nameless_sn/articles/recommended_youtube"/>
+        <updated>2022-10-09T08:29:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 今回の記事では、プログラマー向けに私が学習や開発で必ず登録するべきYouTubeチャンネルを15も紹介する。今回の記事では主に以下の属性の人を読者の対象とする。 プログラミング初心者 YouTubeをプログラミング学習や開発に活用したいプログラマー 実務でPython、TypeScript(JavaScript)やDart(Flutter)を活用...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田内閣支持率続落35％、不支持率48％ ｜ 共同通信]]></title>
+        <id>https://nordot.app/951751622053969920</id>
+        <link href="https://nordot.app/951751622053969920"/>
+        <updated>2022-10-09T08:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Published 2022/10/09 17:00 (JST) Updated 2022/10/09 20:48 (JST) 共同通信社が8、9両日に実施した全国電話世論調査で、岸田内閣の支持率は35.0％だった。13.9ポイント急落した前回9月からさらに5.2ポイントの続落。今回、支持しないと答えたのは48.3％だった。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三大信者が気持ち悪い漫画]]></title>
+        <id>https://anond.hatelabo.jp/20220711065409</id>
+        <link href="https://anond.hatelabo.jp/20220711065409"/>
+        <updated>2022-10-09T07:09:53.000Z</updated>
+        <summary type="html"><![CDATA[ハンターハンター ジョジョ ベルセルク ワールドトリガー]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機動戦士ガンダム 水星の魔女：女性主人公　学園を舞台にした理由　“新しいガンダム”の挑戦 - MANTANWEB（まんたんウェブ）]]></title>
+        <id>https://mantan-web.jp/article/20221009dog00m200016000c.html</id>
+        <link href="https://mantan-web.jp/article/20221009dog00m200016000c.html"/>
+        <updated>2022-10-09T07:05:41.000Z</updated>
+        <summary type="html"><![CDATA[人気アニメ「ガンダム」シリーズの新作テレビアニメ「機動戦士ガンダム 水星の魔女」。「ガンダム」シリーズのテレビアニメシリーズが放送されるのは、2015年10月に第1期がスタートした「機動戦士ガンダム 鉄血のオルフェンズ」以来、約7年ぶり。テレビアニメシリーズとしては初の女性主人公で、学園が舞台となることも...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【現実注意！】「独身OLのすべて」のまずりんさんが「よくある女子高への偏見」についてリアルを暴露するマンガ「女子校育ちはなおらない」]]></title>
+        <id>https://togetter.com/li/1956065</id>
+        <link href="https://togetter.com/li/1956065"/>
+        <updated>2022-10-09T07:01:56.000Z</updated>
+        <summary type="html"><![CDATA[もともとはカザマアヤミさんの「出産の仕方がわからない！」が面白かったので、カザマさんの他の作品も読みたいなーって思ってたら思わぬ愉快なマンガを見つけてしまったぜ…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[両手足に手錠を付けた遺体がなぜ玄関に…「３人家族」が抱えた１７年の秘密　支援を拒否、孤立した果てに事件は起きた ｜ 47NEWS]]></title>
+        <id>https://nordot.app/947331430123929600</id>
+        <link href="https://nordot.app/947331430123929600"/>
+        <updated>2022-10-09T05:17:33.000Z</updated>
+        <summary type="html"><![CDATA[▽「外に出すと迷惑」 発覚は昨年９月６日。「息子が亡くなった」という父親からの通報で、閑静な住宅街の一軒家に駆け付けた神奈川県警麻生署員は、異様な光景を目にした。 玄関先に敷かれたブルーシートには、両手足に手錠を掛けられ、骨と皮ばかりになっている成人男性が横たわる。シートは階段まで続き、あたりは汚物...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「本当に異端な教会になった」統一教会創設者文鮮明氏の息子が批判　アメリカで別の教団率いる文亨進氏「父が望んでいたものとは全く別の方向に進んでいる」  | TBS NEWS DIG]]></title>
+        <id>https://newsdig.tbs.co.jp/articles/-/174120</id>
+        <link href="https://newsdig.tbs.co.jp/articles/-/174120"/>
+        <updated>2022-10-09T04:06:12.000Z</updated>
+        <summary type="html"><![CDATA[統一教会の創設者・文鮮明氏の息子で、アメリカで別の教団を率いる文亨進氏がJNNの取材に応じ、今の旧統一教会を批判しました。JNNの単独インタビューに応じた文亨進氏は、統一教会の創設者・文鮮明氏の七男で、父…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワールドトリガーは胸のカップ数表記をやめてほしいという話]]></title>
+        <id>https://anond.hatelabo.jp/20221008200247</id>
+        <link href="https://anond.hatelabo.jp/20221008200247"/>
+        <updated>2022-10-09T03:11:04.000Z</updated>
+        <summary type="html"><![CDATA[ワールドトリガーは胸のカップ数（バストサイズ）表記をやめてほしい。 これからの文章はただ上の事を言いたいがために書いたものであり、私の主観に基づく、徹頭徹尾『お気持ち』だ。現在（2022/10/08）までのワールドトリガーの最新情報が全て含まれている可能性があるので注意してほしい。 ワールドトリガーは、昔は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「面白いシーン全部原作にない」「穴久保版なろう」「原作要素は主人公の服だけ」全関係者の正気を疑う異世界系コミカライズ「追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。〜俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？〜」]]></title>
+        <id>https://togetter.com/li/1955931</id>
+        <link href="https://togetter.com/li/1955931"/>
+        <updated>2022-10-09T03:09:25.000Z</updated>
+        <summary type="html"><![CDATA[渡辺零『きみと観たいレースがある』連載中 @ReiWatanabe144 追放されたチート付与魔術師は 気ままなセカンドライフを謳歌する。 / 六志麻あさ 業務用餅 kisui seiga.nicovideo.jp/comic/55624 「その筋」から「ヤバいから読め」と薦められて読んだら本当にどうかしてるくらいヤバかったのでお前らも全員読め。いまなら...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[図解Stable Diffusion]]></title>
+        <id>https://okuranagaimo.blogspot.com/2022/10/stable-diffusion.html</id>
+        <link href="https://okuranagaimo.blogspot.com/2022/10/stable-diffusion.html"/>
+        <updated>2022-10-09T02:16:19.000Z</updated>
+        <summary type="html"><![CDATA[ジェイ・アラマールのブログより。 AIによる画像生成は、(私を含めて)人々の度肝をぬく最新のAIの能力です。テキストの説明から印象的なビジュアルを作り出す能力は、魔法のような品質を持ち、人間がアートを創造する方法の変化を明確に指し示しています。Stable Diffusionのリリースは、高性能(画質だけでなく、速度や...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15秒に1回 勝手に声が出る“悪魔の病気”と闘う27歳ウーバー配達員 深夜の“メッセージ”が気になって25歳記者が話を聞いた トゥレット症・チック症とは | TBS NEWS DIG]]></title>
+        <id>https://newsdig.tbs.co.jp/articles/-/173669</id>
+        <link href="https://newsdig.tbs.co.jp/articles/-/173669"/>
+        <updated>2022-10-09T01:34:12.000Z</updated>
+        <summary type="html"><![CDATA[2月中旬、当時愛知県警担当の記者だった私は、この日、いつものように名古屋市内で、警察関係者に話を聞く”夜回り”と呼ばれる1日の最後の仕事を終え帰宅した。2月は大きな仕事も多く、疲れ切っていた私は、いつ…]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男性は雑用ができない]]></title>
+        <id>https://anond.hatelabo.jp/20221009085902</id>
+        <link href="https://anond.hatelabo.jp/20221009085902"/>
+        <updated>2022-10-09T00:16:19.000Z</updated>
+        <summary type="html"><![CDATA[雑用ばかりをする部署、要は「他の部署でやるのがめんどくさい仕事」ばかり回ってくる職場にいるんだけど、男性って雑用の才能がない人が多いんだよね。 なるべく男女まんべんなく雇用する方針みたいだけど、女性は７割方ちゃんと仕事をするのに対して男性は２割くらいしか使い物にならない。 そのとき与えられた仕事に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Catz🇯🇵🐾 on Twitter: "沖縄タイムスヤバいね https://t.co/hqpezYfyqt"]]></title>
         <id>https://twitter.com/Nhhidktbrkk/status/1578657953422245888</id>
         <link href="https://twitter.com/Nhhidktbrkk/status/1578657953422245888"/>
         <updated>2022-10-08T22:49:42.000Z</updated>
         <summary type="html"><![CDATA[沖縄タイムスヤバいね https://t.co/hqpezYfyqt]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絶滅とされた古代ローマ「幻の植物」をおそらく発見、食べてみた]]></title>
+        <id>https://natgeo.nikkeibp.co.jp/atcl/news/22/092900445/</id>
+        <link href="https://natgeo.nikkeibp.co.jp/atcl/news/22/092900445/"/>
+        <updated>2022-10-08T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[マームット・ミスキ氏の手のひらに置かれたフェルラ・ドルデアナの花。トルコ中央部ハッサン山の近くで採取したもの。（PHOTOGRAPH BY ALICE ZOO） 黄金の花を咲かせる植物「シルフィウム」は、古代ギリシャの勃興前からローマ帝国の最盛期まで、地中海世界で最も愛された食材のひとつだった。 腹痛からイボの除去まであ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -42,6 +412,16 @@
         <link href="https://agora-web.jp/archives/221008104350.html"/>
         <updated>2022-10-08T15:58:44.000Z</updated>
         <summary type="html"><![CDATA[感染の正しい指標は「コロナ死者数」ではなく「超過死亡数」 新型コロナの被害の指標として、厚労省の発表する「コロナ感染者数」や「コロナ死者数」を使うのは誤りである。これはマスコミ向けの速報値であり、特に死者数はPCR陽性だったすべての死者を集計しているので、過大評価のバイアスがある。 そういうバイアスが...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NovelAIのリークで何が終わったのか？]]></title>
+        <id>https://soysoftware.sakura.ne.jp/archives/3622</id>
+        <link href="https://soysoftware.sakura.ne.jp/archives/3622"/>
+        <updated>2022-10-08T15:55:33.000Z</updated>
+        <summary type="html"><![CDATA[10月6日、NovelAIのGitHubとかのプライベートリポジトリに第三者が侵入して、AIモデルやソースコードを丸っと盗んで流出させた。 [Announcement: Proprietary Software & Source Code Leaks] Greetings, NovelAI Community. On 10/6/2022, we experienced an unauthorized breach in the company's GitHub and secondary...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -262,6 +642,16 @@
         <link href="https://ameblo.jp/kyupin/entry-12768346701.html"/>
         <updated>2022-10-08T09:19:37.000Z</updated>
         <summary type="html"><![CDATA[精神疾患によりアルバイトも向き不向きがある。僕はコンビニのアルバイトができる人はポイントが高いと思う。これは、コンビニでアルバイトができる人は他のアルバイトも広くこなせそうと言う意味である。ここでは、ミスが多く店長に叱られてばかりの人はできるとは言わない。 ある日の診察中、コンビニは色々なことを覚...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保険証廃止、２４年秋にも　厚労省調整、マイナカード一本化　交付率５割届かず、対応課題：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/DA3S15439577.html</id>
+        <link href="https://www.asahi.com/articles/DA3S15439577.html"/>
+        <updated>2022-10-08T08:31:44.000Z</updated>
+        <summary type="html"><![CDATA[厚生労働省は、健康保険証を２０２４年秋にも原則廃止する方向で調整に入った。保険証を廃止した後の事務対応はマイナンバーカードを基本とする。ただマイナカードの交付率は９月末時点でも人口の５割に届いておらず、カードを持たない人への対応が課題となりそうだ。 政府は今年６月にまとめた「経済財政運営と改革…]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -17548,486 +17938,6 @@
         <link href="https://togetter.com/li/1942918"/>
         <updated>2022-09-10T13:15:21.000Z</updated>
         <summary type="html"><![CDATA[リンク 朝日新聞デジタル ロンドン上空に二重の虹 エリザベス女王の容体発表後に：朝日新聞デジタル 英国のエリザベス女王が亡くなった8日、ロンドンの上空に二重の虹がかかった。 ロイター通信によると、英王室からエリザベス女王の容体に関する発表後、バッキンガム宮殿では市民が続々と集まる中、上空に虹が出… 901]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家を出るダウン症の弟にはなむけをしたら、えらいことになった｜岸田 奈美]]></title>
-        <id>https://note.kishidanami.com/n/nd3146a6402a2</id>
-        <link href="https://note.kishidanami.com/n/nd3146a6402a2"/>
-        <updated>2022-09-10T12:45:04.000Z</updated>
-        <summary type="html"><![CDATA[キナリ★マガジンで5ヶ月間、10万文字にわたって連載してきた「姉のはなむけ日記」を、9000文字にギュッとして書いた総集編です。全文、無料で読めます。ゾッとした。 この二年間で、ばあちゃんは認知症になって施設で暮らしはじめ、車いすに乗っている母は心内膜炎で死にかけ、わたしは会社をやめて作家業についた。 ダ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カリフォルニアが猛暑で電力不足に→そんな中、電気自動車を動かすためにユーザーが行なった工夫が本末転倒すぎた]]></title>
-        <id>https://togetter.com/li/1942848</id>
-        <link href="https://togetter.com/li/1942848"/>
-        <updated>2022-09-10T12:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Kenji Shiraishi @Knjshiraishi 記録的な熱波がカリフォルニアを襲っている。特に内陸部では、これから3日間の最高気温が46℃から48℃を記録する見込み。人が外に出られる気温ではない。 twitter.com/Weather_West/s… 2022-09-05 00:33:05 リンク 日本経済新聞 米カリフォルニア州、熱波で電力危機に 各地で山火事も（写真...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界初の“ペニス博物館”をオープンした男性「もう人に変態だと思われなくなったのは喜ばしい」 | 180センチのものから1ミリ未満のものまで]]></title>
-        <id>https://courrier.jp/news/archives/299781/</id>
-        <link href="https://courrier.jp/news/archives/299781/"/>
-        <updated>2022-09-10T12:28:37.000Z</updated>
-        <summary type="html"><![CDATA[思いがけず動物たちのペニスをコレクションすることになった筆者。次第に真剣になっていき、ついには世界初にして最大のペニス博物館なるものを設立するに至る。ポルノ的要素はいっさいなしの、科学的で文化的、そしてユーモアに満ちたそのコレクションとは──。 私は人生のほとんどを生まれ故郷のアイスランドで、教師と...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出産一時金、28都府県で不足　23年度から大幅引き上げへ ｜ 共同通信]]></title>
-        <id>https://nordot.app/941302641056153600</id>
-        <link href="https://nordot.app/941302641056153600"/>
-        <updated>2022-09-10T12:03:54.000Z</updated>
-        <summary type="html"><![CDATA[厚生労働省が医療機関での出産にかかる標準的な費用を都道府県別に調べたところ、約6割に当たる28都府県で、公的医療保険の財源から全国一律で妊産婦に支給される「出産育児一時金」（42万円）を上回っていることが10日、分かった。一時金で足りない分は自己負担となるため、政府は少子化対策の一環として2023年度から支...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[氏名も住所も全世界に公開！ インボイス制度導入で「あの漫画家の本名がバレる」は、やはり本当だった | 集英社オンライン | 毎日が、あたらしい]]></title>
-        <id>https://shueisha.online/culture/52899</id>
-        <link href="https://shueisha.online/culture/52899"/>
-        <updated>2022-09-10T11:39:48.000Z</updated>
-        <summary type="html"><![CDATA[2023年10月1日より導入されるインボイス制度。実質的増税による収入減少や取引機会の喪失、無駄な事務処理の増加など、一般国民が多大な不利益を被るため、百害あって一利なしの制度と言えることは、これまでも述べてきたとおり。 ＊インボイス制度の問題点を詳しく知りたい場合は「STOP! インボイス」ウェブサイト参照 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steamダンジョン攻略経営RPG『エマの武器屋さん』配信開始。持ち帰ったアイテムを妹が売りさばく、生還のカギは錬成にあり - AUTOMATON]]></title>
-        <id>https://automaton-media.com/articles/newsjp/20220910-218382/</id>
-        <link href="https://automaton-media.com/articles/newsjp/20220910-218382/"/>
-        <updated>2022-09-10T11:31:42.000Z</updated>
-        <summary type="html"><![CDATA[国内のインディーゲームサークル制作サークルGameProjectN&Tは9月10日、『エマの武器屋さん』を配信開始した。対応プラットフォームはPC（Steam）で、通常価格は税込1210円。現在リリース記念セールが開催されており、9月17日までは20％オフの税込968円で購入できる。 『エマの武器屋さん』は、借金返済のためにダンジョ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三越でやってる『英国展』の雰囲気が完全にコミケで大手壁サーのオーラを感じた「カタログでサークルチェックしたい」]]></title>
-        <id>https://togetter.com/li/1942859</id>
-        <link href="https://togetter.com/li/1942859"/>
-        <updated>2022-09-10T11:24:49.000Z</updated>
-        <summary type="html"><![CDATA[茸本 朗(たけもとあきら)　「野食ハンター茸本朗ch」公開中!! @tetsuto_w 三越の #英国展 行ってきたんだけど、デパートの催事かと思いきや完全にコミケでした。特に本国から来たスコーン屋さんは完全に大手壁サーで、行列が2つ下の階まで続いてた。コミケと違って移動のとき手を挙げる必要はないけど サークル主さんは...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジェームズ・ウェッブ宇宙望遠鏡が、砂の雲で覆われた異世界広がる褐色矮星の観測に成功 : カラパイア]]></title>
-        <id>https://karapaia.com/archives/52315896.html</id>
-        <link href="https://karapaia.com/archives/52315896.html"/>
-        <updated>2022-09-10T11:13:31.000Z</updated>
-        <summary type="html"><![CDATA[image credit:NASA/JPL-Caltech ジェームズ・ウェッブ宇宙望遠鏡が、砂のような「ケイ酸塩の粒の雲」でおおわれた奇妙な天体を観測した。 それは、地球から72光年離れた褐色矮星「VHS 1256 b」で、木星より20倍ほど大きく、赤みを帯びて見える。このタイプの天体が確認されたのは今回が初とのことだ。 広告 赤い輝きを放...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[給与デジタル払い、23年春にも解禁　政府が最終調整]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUA084RV0Y2A900C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUA084RV0Y2A900C2000000/"/>
-        <updated>2022-09-10T11:03:30.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 政府は給与をデジタルマネーで受け取る制度を2023年4月にも解禁する方向で最終調整する。労働者側は決済アプリの口座に直接給与が入り、日常の買い物に使える。世界に...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヒットアプリ「ダブル計算機」って？開発者は定年後の63歳男性 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20220910/k00/00m/040/136000c</id>
-        <link href="https://mainichi.jp/articles/20220910/k00/00m/040/136000c"/>
-        <updated>2022-09-10T10:58:17.000Z</updated>
-        <summary type="html"><![CDATA[左の電卓で89×15＝1335を計算し、「→」をタップすると1335が右の電卓に表示され、そのまま計算を続けられる仕組みになっている（写真1） 一つの画面に二つの電卓が並ぶいっぷう変わったアプリが、米アップルのスマートフォン「iPhone（アイフォーン）」と、タブレット端末「iPad（アイパッド）」で公開され、人気を呼ん...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8年間のニートから脱却して年収430万の正社員になったんやが]]></title>
-        <id>https://anond.hatelabo.jp/20220910184101</id>
-        <link href="https://anond.hatelabo.jp/20220910184101"/>
-        <updated>2022-09-10T10:53:04.000Z</updated>
-        <summary type="html"><![CDATA[これ頑張ってない？ 9歳年下の人が同期だけど歳はバレてない。年収は一緒か知らん。 劣等感で死にそう。 ちな女性。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ軍がヘルソン攻勢に続きハルキウ攻勢を開始し2日間で50kmを進む大戦果をあげたが、その戦略はどうなっているのかの解説]]></title>
-        <id>https://togetter.com/li/1942810</id>
-        <link href="https://togetter.com/li/1942810"/>
-        <updated>2022-09-10T10:38:12.000Z</updated>
-        <summary type="html"><![CDATA[ポラン@ゆっくり実況🐕24万人 @polan9009 大きな話題を集めているウクライナ軍の戦略まとめ。 ヘルソン攻勢が進む中、一昨日にハルキウ攻勢が始まり、約2日で50kmも進む大戦果をあげました。 ハルキウが本当の攻勢軸であり、ロシア軍と世界が注目していたヘルソンは罠だった可能性が指摘されています。目的はロシア軍の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[財務省が衝撃の回答。“本名バレ”不可避でもインボイス制度を導入する「本当の理由」 | 集英社オンライン | 毎日が、あたらしい]]></title>
-        <id>https://shueisha.online/culture/52936</id>
-        <link href="https://shueisha.online/culture/52936"/>
-        <updated>2022-09-10T10:04:24.000Z</updated>
-        <summary type="html"><![CDATA[前回記事、「氏名、住所も全世界に公開！　インボイス制度導入で「あの漫画家の本名がバレる」は、やはり本当だった」では、インボイスによってペンネーム・芸名で活動するクリエーターの本名や住所がバレる仕組みを詳しく解説した。 今回は、なぜそのような制度設計になっているのかを解説していく。答えを先にお伝えす...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KADOKAWA 万博などのコンサルタント契約装い賄賂提供か | NHK]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20220910/k10013812671000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20220910/k10013812671000.html"/>
-        <updated>2022-09-10T09:51:45.000Z</updated>
-        <summary type="html"><![CDATA[東京オリンピック・パラリンピックのスポンサー契約をめぐる汚職事件で、元幹部らが逮捕された出版大手KADOKAWAは大会スポンサーになったあと、組織委員会元理事の知人の会社と万博やIR＝統合型リゾート施設などの分野でアドバイスを受けるコンサルタント契約を結び、総額7600万円を支払っていたことが関係者への取材で...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワイが理解出来ないのはApple信者では無いエンジニアなのにドヤ顔でMac使って..]]></title>
-        <id>https://anond.hatelabo.jp/20220910173047</id>
-        <link href="https://anond.hatelabo.jp/20220910173047"/>
-        <updated>2022-09-10T08:53:42.000Z</updated>
-        <summary type="html"><![CDATA[ワイが理解出来ないのはApple信者では無いエンジニアなのにドヤ顔でMac使ってるヤツと カーネルエンジニアやデストリでもWindows使ってるのにドヤ顔でデスクトップLinux使ってるヤツ デスクトップ環境周りのコミッターとか自作OSやドライバ作ってるとかなら納得だけど どーせ単なるユーザー利用でしょ？]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナはいつまで人にうつる？オミクロン株に感染し療養解除になった人から感染する心配はない？（忽那賢志） - 個人 - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/byline/kutsunasatoshi/20220910-00314424</id>
-        <link href="https://news.yahoo.co.jp/byline/kutsunasatoshi/20220910-00314424"/>
-        <updated>2022-09-10T08:00:29.000Z</updated>
-        <summary type="html"><![CDATA[2022年9月7日から、新型コロナ患者の療養期間が短縮されました。 短縮された療養期間は安全なのでしょうか？また短縮された療養期間から明けた人はどのようなことに気をつければ良いのでしょうか？ 9月7日から療養期間が短縮に有症状者および無症状者の療養期間（筆者作成） 9月7日からの療養期間は以下のようになります...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「最近、入門書より上のレベルの良書は頭の悪い人が★1レビューを付けていることが多い」という方がそう考察した理由が面白かった「どのレビューにも言える」]]></title>
-        <id>https://togetter.com/li/1942766</id>
-        <link href="https://togetter.com/li/1942766"/>
-        <updated>2022-09-10T07:58:09.000Z</updated>
-        <summary type="html"><![CDATA[trtmfile @trtmfile 「頭の悪い人が書いたAmazonレビューは当てにならない」と思っていた私ですが、最近の発見として「入門書より上のレベルの良書は頭の悪い人が★1レビューを付けていることが多い」という経験則が確立してきました。最初は偶然だと思ってたんだけど、実際私の持ってる良書数冊見たら結構該当してた。 2...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31歳処女が子宮頸がんワクチンを打ってきたぜぇ！！]]></title>
-        <id>https://anond.hatelabo.jp/20220906124646</id>
-        <link href="https://anond.hatelabo.jp/20220906124646"/>
-        <updated>2022-09-10T06:57:12.000Z</updated>
-        <summary type="html"><![CDATA[今、接種が終わって、院内で30分間安静にしているように言われ、ヒマなのでこれを書いているよ。 タイトル通りの女だよ。大人になってから子宮頸がんワクチンを受けたいけど、「経験がある？」とか、「本当に未経験なの？」とか聞かれるのがイヤでなかなか踏み出せない人のためにレポを残しておくよ。 ・予約 半年かけて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone「mini」ユーザーはどこへ向かうのか (1/3)]]></title>
-        <id>https://ascii.jp/elem/000/004/104/4104985/</id>
-        <link href="https://ascii.jp/elem/000/004/104/4104985/"/>
-        <updated>2022-09-10T05:21:03.000Z</updated>
-        <summary type="html"><![CDATA[アップルが発表したiPhone 14シリーズには、小型の「mini」が存在しません。なぜこうなってしまったのか、そしてminiを使っていたユーザーはこれからどうすればいいのか、考えてみます。 miniと入れ替わりに「Plus」が追加 iPhoneのラインナップは、2020年のiPhone 12から「6.1インチ」の通常モデルと「5.4インチ」のmin...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国民民主党 「インフレ手当」1人当たり10万円給付を | NHK]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20220910/k10013812121000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20220910/k10013812121000.html"/>
-        <updated>2022-09-10T04:49:34.000Z</updated>
-        <summary type="html"><![CDATA[物価の高騰を受けて、国民民主党は国民1人当たり10万円を「インフレ手当」として給付するなどとした総額23兆円規模の経済対策の素案をまとめ、政府に働きかけていく方針です。 物価の高騰を受けて、国民民主党は総額23兆円規模の緊急経済対策の素案をまとめました。 この中では「インフレ手当」として国民1人当たり10万...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牛65頭殺傷の最凶ヒグマ「OSO18」　動物愛護団体らからの抗議でハンターが動けない不条理（デイリー新潮） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/6ca9c24399ec6fef1bf53e1f1f9bc3181813bd82</id>
-        <link href="https://news.yahoo.co.jp/articles/6ca9c24399ec6fef1bf53e1f1f9bc3181813bd82"/>
-        <updated>2022-09-10T03:59:58.000Z</updated>
-        <summary type="html"><![CDATA[コードネーム「OSO（オソ）18」、別の名を「忍者グマ」と呼ばれる最凶ヒグマをご存じか。3年前に北海道で発見されて以降、65頭もの乳牛を殺傷しているシリアルキラーだ。神出鬼没で酪農などへの被害も深刻。なんとか退治しようと闘う地元民の前に立ちはだかるのは、意外にも同じ“人間”たちだった。北の大地で今、何が起...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事業価値とエンジニアリング・リソース効率性とフロー効率性 / Business Value and Engineering]]></title>
-        <id>https://speakerdeck.com/recruitengineers/business-value-and-engineering-2022</id>
-        <link href="https://speakerdeck.com/recruitengineers/business-value-and-engineering-2022"/>
-        <updated>2022-09-10T03:55:45.000Z</updated>
-        <summary type="html"><![CDATA[事業価値とエンジニアリング・リソース効率性とフロー効率性 / Business Value and Engineering]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[発達障害と診断された私～ASDとADHDだとわかるまでに出会った本や映画について - wezzy｜ウェジー]]></title>
-        <id>https://wezz-y.com/archives/95048</id>
-        <link href="https://wezz-y.com/archives/95048"/>
-        <updated>2022-09-10T03:33:24.000Z</updated>
-        <summary type="html"><![CDATA[突然ですが、私はごく最近、病院で発達障害だと診断されました。軽い自閉症スペクトラム障害(ASD)と注意欠陥多動障害(ADHD)だということです。 自閉症スペクトラム障害はコミュニケーションがうまくできず、特定のものに強いこだわりがある症状、注意欠陥多動障害は文字通り注意力散漫とか多動の症状を示す障害です。 自...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「私は樺太で生を受け、今年で52歳になる無所属廃人ですが…」芸人・鳥肌実が語る「過激すぎる右翼芸」誕生秘話 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/56954</id>
-        <link href="https://bunshun.jp/articles/-/56954"/>
-        <updated>2022-09-10T02:26:39.000Z</updated>
-        <summary type="html"><![CDATA[――毒炎会（講演会）で全国を回られてお忙しいなか、本日は誠にありがとうございます。 鳥肌実（以下、鳥肌）　このような機会を設けて頂き感謝しております。本日は宜しくお頼み申します。 （ルノアールのメニューを眺めて）水出しアイスコーヒーをお願い致します。 ――かしこまりました。では、インタビューを始めさせて...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js, Prisma, GraphQL Code Generator で作るフルスタック Web アプリケーション]]></title>
-        <id>https://zenn.dev/typebase/books/nextjs-prisma-graphql-codegen-webapp</id>
-        <link href="https://zenn.dev/typebase/books/nextjs-prisma-graphql-codegen-webapp"/>
-        <updated>2022-09-10T01:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Next.js, Prisma, GraphQL Code Generator で作るフルスタック Web アプリケーション おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍となります。 上記技術に加えて、以下の技術も採用しています。 ・Tailwind CSS ・NextAuth.js ・Apollo GraphQL ・Prettie...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カゴヤのVPS＋SoftEther VPNで簡単にVPNサーバーを自作しよう]]></title>
-        <id>https://ascii.jp/elem/000/004/104/4104586/</id>
-        <link href="https://ascii.jp/elem/000/004/104/4104586/"/>
-        <updated>2022-09-10T00:19:49.000Z</updated>
-        <summary type="html"><![CDATA[「フリーWiFiでも安全にインターネットを使いたい」 「接続元に固定IPアドレスを使いたい」 「国外からでも日本国内と同じインターネット環境を使いたい」 これらの要望は、VPNサーバーを使えば全て叶えることができます。ただしVPNサーバーの構築は、方法によっては手間がかかる上にコストも高くなるため手軽には行えま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美しさを見てとるために訓練が必要であるとはどういうことか｜obakeweb｜note]]></title>
-        <id>https://note.com/obakeweb/n/n9db2f9f7315f</id>
-        <link href="https://note.com/obakeweb/n/n9db2f9f7315f"/>
-        <updated>2022-09-10T00:15:24.000Z</updated>
-        <summary type="html"><![CDATA[美的性質や美的知覚について、最近出版されたマドレーヌ・ランサム[Madeleine Ransom]の論文がとてもよかったのでまとめておく。 1 前提：美的知覚美的性質[aesthetic properties]とは、「美しい」「優美だ」「けばけばしい」「退屈だ」「バランスが取れている」など、われわれが芸術作品や自然の風景について語るときに...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成田空港 新型コロナ影響でテナント80店舗余が撤退 | NHK]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20220910/k10013811761000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20220910/k10013811761000.html"/>
-        <updated>2022-09-09T23:02:35.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナによる影響で長く海外との人の往来が制限されたことで、成田空港で営業していた飲食店などのテナントのうち、全体の2割近くにあたる80店舗余りが撤退したことがわかりました。 外国人観光客の受け入れが再開されてから10日で3か月となりました。 今週からは水際対策がさらに緩和されて、1日当たりの入国者数の...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インプレスeスポーツ部女子レトロゲーム班】黒田瑞貴、愛(忠誠心)はお金で買えると「三國志II」で学ぶ。それでも、軍師は相手に寝返る]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1438897.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/column/retro-game-joshi/1438897.html"/>
-        <updated>2022-09-09T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、黒田瑞貴です! 今回も、1989年にコーエーテクモゲームス(旧光栄)から発売された「三国志II」をプレイしていきます! Steamで1,320円で購入可能です。PC‐8801から始まり、スーパーファミコンやメガドライブ、今ではスマホ版なんかも出ていて、たくさんの人に愛されている今作品の魅力を、今回も見つけ出したいと思います!!!]]></summary>
-        <author>
-            <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi 6Eルーターを買うにはまだ早い？PCやスマホは追加認証とアップデートを待つ必要あり]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/topic/feature/1438951.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1438951.html"/>
-        <updated>2022-09-09T22:13:00.000Z</updated>
-        <summary type="html"><![CDATA[ついに6GHz帯が解放され、国内メーカー2社からWi-Fi 6E対応製品が発売された。しかしながら、現時点では接続可能なPCやスマートフォンが存在せず、追加認証およびファームウェア/ドライバの更新待ちとなっている。本稿では、Wi-Fi 6Eの概要をおさらいしつつ、現時点でWi-Fi 6Eが抱える課題を考えてみる。]]></summary>
-        <author>
-            <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「パンツ何色？」「浅縹色」]]></title>
-        <id>https://anond.hatelabo.jp/20220910054418</id>
-        <link href="https://anond.hatelabo.jp/20220910054418"/>
-        <updated>2022-09-09T22:08:36.000Z</updated>
-        <summary type="html"><![CDATA[「何色に近いの？」 「瓶覗色に近い」 「うん」]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアエンジニアとしての姿勢と心構え / Software Engineer's Survival Guide]]></title>
-        <id>https://speakerdeck.com/recruitengineers/software-engineers-survival-guide-2022</id>
-        <link href="https://speakerdeck.com/recruitengineers/software-engineers-survival-guide-2022"/>
-        <updated>2022-09-09T21:51:35.000Z</updated>
-        <summary type="html"><![CDATA[事業価値とエンジニアリング・リソース効率性とフロー効率性 / Business Value and Engineering]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【山田祥平のRe:config.sys】休止状態に陥るWindowsの働き方改革]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/column/config/1438898.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/column/config/1438898.html"/>
-        <updated>2022-09-09T21:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ノートPCのモダンスタンバイは、瞬時の復帰が最大の魅力だ。1秒未満でスタンバイ直前の状態に復帰する様子は、まるで、ずっと稼働していたんじゃないかと錯覚するくらいで気持ちがいい。だが、それを邪魔するやつがいる。]]></summary>
-        <author>
-            <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉村知事後押しワクチン、開発中止　「想像で発信したわけではない」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20220909/k00/00m/010/330000c</id>
-        <link href="https://mainichi.jp/articles/20220909/k00/00m/010/330000c"/>
-        <updated>2022-09-09T21:25:09.000Z</updated>
-        <summary type="html"><![CDATA[大阪大発の製薬ベンチャー「アンジェス」（大阪府茨木市）が新型コロナウイルスワクチンの開発を中止したことについて、大阪府の吉村洋文知事は9日、「非常に残念に思う」と記者団に話した。アンジェスのワクチン開発を巡っては、治験を実施する大学の審査委員会が承認する前に、吉村氏が治験の日程や対象者を公表するな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[統一教会からの｢返金終了｣が山上家貧窮の決定打]]></title>
-        <id>https://toyokeizai.net/articles/-/616938</id>
-        <link href="https://toyokeizai.net/articles/-/616938"/>
-        <updated>2022-09-09T21:18:55.000Z</updated>
-        <summary type="html"><![CDATA[山上徹也容疑者の妹は母親に対して、「てっちゃんと私には一度も謝ってないんちゃうか」と怒ったという（写真：共同通信） 安倍晋三元首相の襲撃事件から2カ月が過ぎた。事件前から献金を巡り、世界平和統一家庭連合（旧・統一教会、以下、統一教会）と対峙してきたのが、元弁護士である山上徹也容疑者の伯父だ。 献金額...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【西川善司のグラフィックスMANIAC】PS5で入力遅延は測定できるか!? NVIDIA Reflex AnalyzerをPCとPS5の両対応に改造する]]></title>
-        <id>https://pc.watch.impress.co.jp/docs/column/zenji/1436385.html</id>
-        <link href="https://pc.watch.impress.co.jp/docs/column/zenji/1436385.html"/>
-        <updated>2022-09-09T21:11:00.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIAは「ゲームに起こりうる遅延の問題」の解消に取り組んでおり、それに関連して2つの技術を提供している。1つ目は、「NVIDIA Reflex」というPCゲームに起こりうる入力遅延の低減技術、2つ目は、PCゲームにおける入力遅延を計測するための仕組み「NVIDIA Reflex Analyzer」だ。]]></summary>
-        <author>
-            <name>PC Watch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まだ山上の安部暗殺事件はテロじゃないっていってるアホがいる話]]></title>
-        <id>https://anond.hatelabo.jp/20220910005727</id>
-        <link href="https://anond.hatelabo.jp/20220910005727"/>
-        <updated>2022-09-09T16:01:20.000Z</updated>
-        <summary type="html"><![CDATA[まあのこの記事のブコメ読んで頭くらくらしたわけですよ 小池都知事、安倍氏国葬は「テロ断固反対の発信」 https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20220909-BVUEMMQDZJJHPPBPERFKNQA4NM/ 以下トップコメ引用 IthacaChasma 正直、犯人の動機が「民主主義を破壊する」だったら、国としてテロなんかに負け...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「新卒一括採用」批判派が想定している社会がよくわからない]]></title>
-        <id>https://anond.hatelabo.jp/20220910002542</id>
-        <link href="https://anond.hatelabo.jp/20220910002542"/>
-        <updated>2022-09-09T15:34:13.000Z</updated>
-        <summary type="html"><![CDATA[新卒一括採用がなくなったら中途採用だけになるってことだぞ？ 中途採用で未経験者雇うと思う？ 新卒一括採用が廃止されたら学生はどうやって就職するの？ その世界で30歳で社会人経験なしな人はどうやって就職するイメージなの？ 人事は30歳未経験のやつの履歴書のどこを見て「よーし、こいつを採用するか」になるの？ ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[森喜朗氏「大変申し訳なく、心からおわび」　東京地検特捜部の参考人聴取認める 　東京五輪巡る汚職事件で：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/201215</id>
-        <link href="https://www.tokyo-np.co.jp/article/201215"/>
-        <updated>2022-09-09T15:16:09.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪・パラリンピック組織委員会の会長を途中まで務めた森喜朗元首相は9日、本紙の取材に応じ、スポンサー選定などを巡る汚職事件に関し「当時の責任者として今回の問題は非常に申し訳ない気持ち。大勢の国民をはじめ、一生懸命働いてくれた職員、特に選手の皆さんに傷をつけたような気がして大変申し訳なく思ってお...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デスクトップ環境をdisposableに保つ - あんパン]]></title>
-        <id>https://masawada.hatenablog.jp/entry/2022/09/09/234159</id>
-        <link href="https://masawada.hatenablog.jp/entry/2022/09/09/234159"/>
-        <updated>2022-09-09T15:14:52.000Z</updated>
-        <summary type="html"><![CDATA[もう5年以上続けている取り組みのひとつにデスクトップ環境をdisposableに保つというのがある。いつでも何があっても即座に環境を捨てて作り直せるようにするということ。EC2やVPSのインスタンスに対してAnsibleでプロビジョニングできる状態にしておけば即座に新しいホストを立てて古いホストを捨てられる、そんな状態...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンジニアなら読んで損なし技術同人書9選（インフラより）]]></title>
-        <id>https://zenn.dev/peraichi/articles/3e902c19948971</id>
-        <link href="https://zenn.dev/peraichi/articles/3e902c19948971"/>
-        <updated>2022-09-09T14:42:23.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。株式会社ペライチ のインフラエンジニア曽根です。 エンジニアたるもの常に情報収集は欠かせませんね。 最新の情報や知識は Web ニュースや Web のブログ記事などで入手できますが、腰を落ち着けて情報を吟味したり知識を学ぶためには、情報をまとめたうえに順番立て教えてくれる書籍の活用がお勧めです。 ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】天皇陛下、エリザベス女王の国葬に出席の方向で調整（日テレNEWS） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/91c49b1f064f126e7c0b5de034defb688ded4cd8</id>
-        <link href="https://news.yahoo.co.jp/articles/91c49b1f064f126e7c0b5de034defb688ded4cd8"/>
-        <updated>2022-09-09T14:18:21.000Z</updated>
-        <summary type="html"><![CDATA[天皇陛下がイギリスのエリザベス女王の国葬に出席される方向で調整に入っていることが分かりました。複数の政府関係者が明らかにしたものです。 また、関係者によりますと、皇后さまも出席のお気持ちを持たれているということです。 天皇が外国王室や元首の葬儀に出席するのは異例のことで、1993年におこなわれたベルギ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「私を殺す気ですか？」　講談社『週刊現代』が撤回を要求された記事を掲載　性被害を告発した元自衛官22歳が批判（ねとらぼ） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/80b39b71da7f48bda5317943b1ace06ecea293af</id>
-        <link href="https://news.yahoo.co.jp/articles/80b39b71da7f48bda5317943b1ace06ecea293af"/>
-        <updated>2022-09-09T14:00:29.000Z</updated>
-        <summary type="html"><![CDATA[「週刊現代の記者、編集長、私を（社会的に）殺す気ですか？」――。元自衛官で、自衛隊でのセクハラ被害を告発している五ノ井里奈さんが、意に反して記事が掲載されたとして、講談社の『週刊現代』をSNS上で]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社リクルート　エンジニアコース新人研修の内容を公開します！（2022年度版）]]></title>
-        <id>https://blog.recruit.co.jp/rtc/2022/09/09/recruit-bootcamp-2022/</id>
-        <link href="https://blog.recruit.co.jp/rtc/2022/09/09/recruit-bootcamp-2022/"/>
-        <updated>2022-09-09T13:53:17.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！2022年度エンジニア新人の太田です。毎年反響を頂いているエンジニアコースの研修内容を、今年は受講者の立場から紹介させていただきます。 研修概要 リクルートの新卒エンジニアコースでは、入社した新人を対象に技術研修を行っています。その内容は、実際の開発業務に活かせる技術を扱う「本当に必要な生...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colaboと仁藤夢乃さんの生活保護ビジネスについて調べてみました｜暇な空白/Kiyoteru Mizuhara｜note]]></title>
-        <id>https://note.com/hima_kuuhaku/n/n85e40cf806be</id>
-        <link href="https://note.com/hima_kuuhaku/n/n85e40cf806be"/>
-        <updated>2022-09-09T13:35:54.000Z</updated>
-        <summary type="html"><![CDATA[台本 （真っ暗な研究所にコツコツと暇空茜が入ってくる）（カチッ）電気をつける 空「助手！出番だぞ！」 助手がのそのそ入ってくる な「なんですか博士、今日非番ですよね？研究所は週休４日ですよね？労基に訴えますよ」 空「目がさめるようなネタを持ってきたから聞いてくれ。結論から言う」 空「Colaboは１０代の女...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドラえもんの歴史まんがを1994年版と2014年版で読み比べしてみた]]></title>
-        <id>https://togetter.com/li/1942360</id>
-        <link href="https://togetter.com/li/1942360"/>
-        <updated>2022-09-09T13:30:48.000Z</updated>
-        <summary type="html"><![CDATA[どらすと @mobile_sheet 小学生レベルの算数や理科の常識がひっくり返るような出来事が起これば大事件になりますが、社会科の教科書は分野によっては常にアップデートされないと使いものにならないので『日本の歴史がわかる』が2冊構成から3冊構成に描き換わったようなことも稀に起こります（他教科でも改訂版はたまに出...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5万枚のパネルに囲まれ　メガソーラーから濁流　「命の危険感じて転居」]]></title>
-        <id>https://www.nishinippon.co.jp/item/n/984448/</id>
-        <link href="https://www.nishinippon.co.jp/item/n/984448/"/>
-        <updated>2022-09-09T13:16:03.000Z</updated>
-        <summary type="html"><![CDATA[どうする　明日のエネルギー 2050年、温室効果ガスの排出量を実質ゼロに―。政府の意欲的な目標にリアリティーはあるのか。今夏に改定される「エネルギー基本計画」を巡る議論を通して考える。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[結婚して家庭持たないと半人前という言葉があるけど結婚出産前は 「はぁ? ..]]></title>
-        <id>https://anond.hatelabo.jp/20220909211701</id>
-        <link href="https://anond.hatelabo.jp/20220909211701"/>
-        <updated>2022-09-09T12:39:26.000Z</updated>
-        <summary type="html"><![CDATA[結婚して家庭持たないと半人前という言葉があるけど結婚出産前は 「はぁ? 家庭持っただけが取り柄ちの人間の負け惜しみだろ乙」 と思ってたが自分が結婚して産んでみたらなんとなくその言葉の意味が理解できてしまった 小梨は半人前というか、 世界の半分を知らない状態だとは思う もしこんなこと公に言ったら大炎上する...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
